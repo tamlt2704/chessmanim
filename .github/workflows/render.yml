@@ -37,7 +37,7 @@ jobs:
         uv run manim -qh chess_game.py ChessGame
     
     - name: Add background music (optional)
-      if: false  # Set to true and add music.mp3 to repo to enable
+      if: true  # Set to true and add music.mp3 to repo to enable
       run: |
         uv run python add_music.py media/videos/chess_game/1080p60/ChessGame.mp4 music.mp3 media/videos/chess_game/1080p60/ChessGame_with_music.mp4 0.3
         mv media/videos/chess_game/1080p60/ChessGame_with_music.mp4 media/videos/chess_game/1080p60/ChessGame.mp4
