@@ -35,6 +35,15 @@ jobs:
     - name: Render video
       run: |
         uv run manim -qh chess_game.py ChessGame
+    
+    - name: Add background music (optional)
+      if: false  # Set to true and add music.mp3 to repo to enable
+      run: |
+        ffmpeg -stream_loop -1 -i music.mp3 -i media/videos/chess_game/1080p60/ChessGame.mp4 \
+          -filter_complex "[0:a]volume=0.5[a1];[1:a][a1]amix=inputs=2:duration=first[aout]" \
+          -map 1:v -map "[aout]" -c:v copy -c:a aac -b:a 192k -shortest -y \
+          media/videos/chess_game/1080p60/ChessGame_with_music.mp4
+        mv media/videos/chess_game/1080p60/ChessGame_with_music.mp4 media/videos/chess_game/1080p60/ChessGame.mp4
         
     - name: Upload video artifact
       uses: actions/upload-artifact@v4
