@@ -7,7 +7,7 @@ import os
 
 # Configuration
 MAX_MOVES = -1  # Change this to render more or fewer moves
-PGN_FILE = 'LaskerBestGames'  # Default to steinitz_bardeleben
+PGN_FILE = 'Alekhine Best Games'  # Default to steinitz_bardeleben
 
 class ChessGame(Scene):
     def construct(self):
