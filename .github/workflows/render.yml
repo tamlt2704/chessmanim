@@ -16,7 +16,7 @@ on:
       output_name:
         description: 'Output video name (without extension)'
         required: false
-        default: 'ChessGame'
+        default: 'LaskerBestGames'
 
 jobs:
   render:
