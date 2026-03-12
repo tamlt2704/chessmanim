@@ -1,0 +1,375 @@
+[Event "Candidates final"]
+[Site "Moscow"]
+[Date "1974.??.??"]
+[Round "17"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "E04"]
+[WhiteElo "2670"]
+[BlackElo "2700"]
+[PlyCount "84"]
+[EventDate "1974.09.16"]
+[EventType "match"]
+[EventRounds "24"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 {The Catalan!} dxc4 5. Nf3 c5 6. O-O Nc6 7.
+Qa4 Bd7 8. Qxc4 cxd4 {[pgndiagram]} (8... b5 {Is the modern variation I believe
+}) 9. Nxd4 Rc8 10. Nc3 {Not fearing discovered knight jumps. Now White is
+slightly better} Qa5 (10... Be7 11. Rd1 {With typical Catalan pressure}) 11.
+Rd1 (11. Nb3 {Might have been better} Qb4 12. Qb5 Qxb5 13. Nxb5 Nb4 14. N5d4
+Bd6 15. Rd1 {And White is slightly ahead} e5 16. Nf3 Bb8 17. Bg5) 11... Be7 (
+11... Qb4 {Is bad now} 12. Qxb4 Bxb4 13. Ndb5 O-O 14. Bg5 Rfd8 15. Nd6) (11...
+Nxd4 $5 12. Qxd4 Bc5 13. Qh4 {And again White retains the plus}) 12. Nb3 Qc7
+13. Nb5 Qb8 {[pgndiagram] It is obvious from this retreat that something has
+gone wrong for Black. Still, he hangs.} 14. Nc5 a6 15. Nxd7 Nxd7 16. Nc3 {
+Having gained the bishop pair, there is no doubt that White is better} Nde5 17.
+Qa4 O-O 18. Bf4 (18. Be3 {Not allowing Qa7 is interesting}) 18... Qa7 19. Bxe5
+(19. Be3 Bc5 20. Bxc5 Qxc5 21. Ne4 {With occupation of d6 came into
+consideration}) 19... Nxe5 20. Qe4 Nc6 21. Rd7 Bf6 22. Rad1 Qb6 23. Qc2 Na5 24.
+R1d3 h6 25. a3 Rc7 26. b4 Rxd7 27. Rxd7 Rc8 28. Rd3 $2 {[pgndiagram] After
+building up his position skillfully, Korchnoi missed the golden opportunity.} (
+28. Na4 {Was a brilliant tactical solution} Rxc2 29. Nxb6 Nb3 30. Bxb7 Rxe2 31.
+Bxa6 {And White should win this endgame} Ra2 32. a4 Bd4 33. a5 Bxf2+ 34. Kh1 {
+Although he has some technique to display}) 28... Nc4 {Now suddenly he is not
+even better} 29. Ne4 Qc7 30. Nc5 $2 {[pgndiagram] Mistakes come in pairs...
+White oversteps the mark. We will see that Korchnoi's blunders from great
+positions will become something of a standard theme in Korchnoi - Karpov
+matches.} (30. Nxf6+ gxf6 31. Rc3 b5 {Is around equal}) 30... Ne5 31. Rd2 (31.
+Rc3 b6 32. Ne4 Nf3+ {Is curtains}) 31... b6 32. f4 bxc5 33. fxe5 Qxe5 34. Bb7
+Rc7 35. Qe4 Qa1+ {And now White is completely busted.} 36. Kg2 Qxa3 37. bxc5
+Rxc5 38. Rd3 Qa5 39. Qf3 Qb6 40. Rd7 Rf5 41. Qg4 Qf2+ 42. Kh3 g6 0-1
+
+[Event "Candidates final"]
+[Site "Moscow"]
+[Date "1974.??.??"]
+[Round "21"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "E17"]
+[WhiteElo "2670"]
+[BlackElo "2700"]
+[PlyCount "37"]
+[EventDate "1974.09.16"]
+[EventType "match"]
+[EventRounds "24"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. c4 Be7 6. Nc3 O-O 7. Qc2 c5 8. d5
+exd5 9. Ng5 Nc6 10. Nxd5 g6 11. Qd2 Nxd5 $6 (11... Rb8 {Is allright for Black})
+12. Bxd5 Rb8 $2 {A losing blunder.} 13. Nxh7 $3 {[pgndiagram] Like in a
+simultaneous exhibition.} Re8 (13... Kxh7 14. Qh6+ Kg8 15. Qxg6+ Kh8 16. Qh5+ {
+Is a mate in couple of moves}) 14. Qh6 Ne5 15. Ng5 Bxg5 16. Bxg5 Qxg5 17. Qxg5
+Bxd5 18. O-O Bxc4 19. f4 {A 20 move disaster.} 1-0
+
+[Event "World Championship 29th"]
+[Site "Baguio City"]
+[Date "1978.08.26"]
+[Round "17"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "E47"]
+[WhiteElo "2665"]
+[BlackElo "2725"]
+[PlyCount "82"]
+[EventDate "1978.07.18"]
+[EventRounds "32"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 c5 6. d5 b5 7. dxe6 fxe6 8. cxb5
+a6 9. Nge2 d5 10. O-O e5 11. a3 axb5 12. Bxb5 Bxc3 13. bxc3 $1 {Restricting
+the mobility of Black central pawns} (13. Nxc3 Be6) 13... Ba6 14. Rb1 Qd6 {
+This variation is bad for Black from the modern viewpoint. His activity
+doesn't compensate for the missing pawn} 15. c4 d4 16. Ng3 Nc6 17. a4 Na5 18.
+Qd3 Qe6 {[pgndiagram] White should be practically winning} 19. exd4 cxd4 20. c5
+Rfc8 21. f4 Rxc5 22. Bxa6 Qxa6 23. Qxa6 $2 {[pgndiagram]The first miss} (23.
+Rb8+ Kf7 24. Rb5 {Was deadly, but it is not easy to see at all. White has too
+many threats} exf4 25. Ne4 Nxe4 26. Qxe4 {And Black crumbles}) 23... Rxa6 {
+White still has the advantage in the endgame} 24. Ba3 Rd5 25. Nf5 Kf7 26. fxe5
+Rxe5 27. Rb5 Nc4 28. Rb7+ Ke6 29. Nxd4+ Kd5 30. Nf3 $2 {[pgndiagram]} (30. Nc2
+Rxa4 31. Bf8 {Is accurate enough, but it allows White to win}) 30... Nxa3 31.
+Nxe5 Kxe5 32. Re7+ Kd4 33. Rxg7 {Now it is not clear whether White has a way
+to win} Nc4 34. Rf4+ Ne4 35. Rd7+ Ke3 36. Rf3+ Ke2 37. Rxh7 $2 {[pgndiagram]} (
+37. Re7 Ncd2 38. Ra3 {Tying the pieces instead of going for material was
+better, with chances for success}) 37... Ncd2 38. Ra3 Rc6 {[pgndiagram]
+Objectively, the game should end in a draw, but here comes the long awaited
+howler} 39. Ra1 $4 {Just missing the mate in three moves} (39. g4 {Creating a
+luft on g2 was neccessary}) 39... Nf3+ {And due to} 40. gxf3 Rg6+ 41. Kh1 Nf2#
+{Korchnoi had no choice but to resign..Truly a tragic game for him, and a
+lucky win for Karpov} 0-1
+
+[Event "World Championship 29th"]
+[Site "Baguio City"]
+[Date "1978.10.07"]
+[Round "29"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "A19"]
+[WhiteElo "2665"]
+[BlackElo "2725"]
+[PlyCount "157"]
+[EventDate "1978.07.18"]
+[EventRounds "32"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 5. d4 cxd4 6. Qxd4 Nc6 7. Qe4 d6 8. Nf3
+dxe5 9. Nxe5 Nf6 10. Nxc6 Qb6 11. Qf3 bxc6 12. Be2 Bb7 13. O-O c5 14. Qh3 Be7
+15. Bf3 O-O 16. b3 Rfd8 17. Be3 Bc6 18. Na4 Qc7 19. Bxc6 Qxc6 20. Rad1 Rac8 21.
+Qg3 Bd6 22. Qh4 Be7 23. f3 Kf8 24. Qf2 Rxd1 25. Rxd1 Qc7 26. Qg3 Qxg3 27. hxg3
+h5 28. Kf2 Ke8 29. Ke2 g6 30. Nc3 a6 31. Na4 Rc6 32. Rh1 Bd6 33. Bf2 Nd7 34. g4
+hxg4 35. Rh8+ Ke7 36. fxg4 g5 37. Be3 f6 38. Nc3 Kf7 39. Rh7+ Ke8 40. Ne4 Be7
+41. Rh6 Kf7 42. Rh7+ Kf8 43. Rh8+ Kf7 44. Bd2 Nf8 45. Rh1 Kg6 46. Rd1 f5 47.
+Nf2 Bd6 48. Bc3 Nd7 49. gxf5+ exf5 50. g4 Nb6 51. Kf3 Be7 52. Ba5 Rf6 53. Kg2
+fxg4 54. Nxg4 Re6 55. Kf3 Bf6 56. Nxf6 Rxf6+ 57. Kg4 Nc8 58. Bd8 Rf4+ 59. Kg3
+Rf5 60. a4 Kf7 61. Rd3 Re5 62. Kg4 Kg6 63. a5 Re4+ 64. Kf3 Rf4+ 65. Ke3 Rh4 66.
+Rd5 Rh3+ 67. Kd2 Rxb3 68. Rxc5 Rb8 69. Rc6+ Kf5 70. Rxa6 g4 71. Rf6+ Ke4 72.
+Bc7 Rb2+ 73. Kc3 Rb7 74. Bh2 Rh7 75. Bb8 Rb7 76. Bg3 Rb1 77. Rf4+ Ke3 78. Rf8
+Ne7 79. a6 1-0
+
+[Event "World Championship 29th"]
+[Site "Baguio City"]
+[Date "1978.09.30"]
+[Round "28"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "0-1"]
+[ECO "C82"]
+[WhiteElo "2725"]
+[BlackElo "2665"]
+[PlyCount "122"]
+[EventDate "1978.07.18"]
+[EventRounds "32"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 {The open Ruy Lopez was the tabiya of this match} 9. c3 Nc5 10. Bc2 Bg4 11.
+Re1 Be7 12. Nbd2 Qd7 13. Nb3 {[pgndiagram]} (13. Nf1 {Kasparov says this move
+is more energetic. I won't argue with the GOAT}) 13... Ne6 14. h3 Bh5 15. Bf5
+Ncd8 16. Be3 a5 17. Bc5 {The most visible sign of Karpov relaxing after taking
+the 5-2 score (remember that this game was played immediately after his  fifth
+win in the 27th game)} a4 $1 18. Bxe7 Qxe7 19. Nbd2 (19. Nbd4 {Was better
+nevertheless; this is how they played in the 21st century} Nxd4 (19... c6 {Is
+the modern continuation}) 20. cxd4 Ne6 21. g4 Bg6 22. Rc1 {Gives White the
+better chances}) 19... c6 20. b4 $6 {I don't like this decision} (20. Qc2 {
+Seems more natural and is less commiting}) 20... Ng5 21. Qe2 g6 22. Bg4 $6 {
+[pgndiagram] One small inaccuracy follows another} (22. Bd3 O-O 23. Qe3 Bxf3
+24. Nxf3 Nxf3+ 25. Qxf3 Ne6 {And the knight is superios to the bishop. But
+Black has only slight advantage}) 22... Bxg4 23. hxg4 Nde6 {Now Black's
+horsies are quite dominating. h5 is very coming as well, opening the rook's
+file as well} 24. Qe3 h5 25. Nxg5 {[pgndiagram]} (25. gxh5 {It is a natural
+question whether White has to exchange queens} Rxh5 26. Nd4 Nxd4 27. cxd4 O-O-O
+{But he only risks being mated as well. He has no counterplay on the queenside
+(all a result of the b4 move)}) 25... Qxg5 $1 (25... Nxg5 26. f4 Ne6 27. f5 {
+Is slightly unnerving}) 26. Qxg5 Nxg5 27. gxh5 Rxh5 {Now Black has more
+pleasant endgame, as White's weaknesses on e5 and c3 are more tangible than
+the one on c6. It is amazing to observe how Korchnoi manages to outplay his
+highly skilled opponent from this position} 28. Nf1 Rh4 29. Rad1 Ke7 30. f3 Ne6
+31. Ne3 Rd8 32. Ng4 Ng5 33. Ne3 Ne6 {[pgndiagram]} (33... d4 {Was very strong
+here}) 34. Ng4 Ng7 35. Ne3 Nf5 {Winning the c4 for the rook, or forcing the d4
+breakthrough} 36. Nc2 {White chooses to prevent the latter} (36. Ng4 {Is
+probably more tenacious} d4 37. cxd4 Rxd4 38. Rxd4 Nxd4 39. Rd1 Ne2+ 40. Kf2
+Nc3 {And there is still alot of work to do}) 36... Rc4 37. Rd3 d4 $1 {
+[pgndiagram] This breakthrough is strong all the same. White is in serious
+trouble} 38. g4 (38. Nxd4 Nxd4 39. cxd4 Rdxd4 {Is hopeless}) 38... Ng7 $1 {A
+nicely calculated pawn sacrifice} 39. Nxd4 Ne6 40. Red1 (40. Nxe6 Rxd3) 40...
+Nxd4 41. cxd4 Rxb4 42. Kf2 c5 $1 {[pgndiagram] The pawn chain starts moving} (
+42... Ke6 43. a3 Rc4 44. Ke3 Kd5 45. Rh1 b4 {was also possible, but I like
+Korchnoi's choice}) 43. d5 Rb2+ 44. Kg3 $2 (44. R1d2 {Is probably also
+hopeless, but it is not immediately clear} Rxd2+ 45. Rxd2 g5 46. Ke3 b4 47. f4
+gxf4+ 48. Kxf4 c4) 44... Rxa2 {With the fall of a-pawn, all White hope should
+be gone} 45. Re3 b4 46. e6 Ra3 {[pgndiagram]} (46... fxe6 {Is probably even
+more clear} 47. Rxe6+ Kf7 48. g5 (48. Rh1 Rxd5) 48... Rd7) 47. Re2 (47. Rxa3
+bxa3 48. exf7 Rb8 49. d6+ Kxf7) 47... fxe6 48. Rxe6+ Kf7 49. Rde1 Rd7 50. Rb6
+Rd3 51. Ree6 R3xd5 52. Rxg6 a3 53. Rbf6+ Ke7 54. Re6+ Kf8 55. Ref6+ Ke7 56.
+Re6+ Kd8 57. Ra6 Rb7 58. Rg8+ Kc7 59. Rg7+ Rd7 60. Rg5 b3 61. Rxc5+ Kb8 {
+[pgndiagram] Finally Karpov resigned. A brilliant technical achievement by
+Korchnoi} 0-1
+
+[Event "World Championship 29th"]
+[Site "Baguio City"]
+[Date "1978.10.17"]
+[Round "32"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2725"]
+[BlackElo "2665"]
+[PlyCount "82"]
+[EventDate "1978.07.18"]
+[EventRounds "32"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c5 {Having a
+theoretical idea in mind} (6... Bg4 {Happened earlier in the match} 7. Be3 Nc6
+{Is how the 18th game went}) 7. d5 $5 {An unexpected move for Korchnoi. Play
+transfers from the Pirc defense to the so called Schmid Benoni} (7. dxc5 dxc5
+8. Qxd8 Rxd8 9. Be3 b6 10. Rfd1 {Is what Korchnoi expected. One of his seconds
+played this position later} Nc6 $1 {Solving Black's problems} 11. Rxd8+ Nxd8 {
+Andersson - Stean, Münich, 1979}) 7... Na6 {With the standard idea Nc7-a6-b5}
+8. Bf4 Nc7 9. a4 b6 {Preparing Bb7 with attack on d5, thus preventing e5 break}
+(9... a6 10. h3 Rb8 11. e5 {Is unpleasant}) 10. Re1 (10. h3 Bb7 11. e5 {
+Doesn't work here} Nfxd5) 10... Bb7 11. Bc4 (11. h3 Qd7 12. Bc4 {Would lose a
+tempo compared to the game}) 11... Nh5 12. Bg5 Nf6 $6 {[pgndiagram] But this
+is just bad. This is probably the move that cost Korcnhoi the match} (12... Qd7
+{Continuing development and eyeing both e6 and b5 sqaures was correct. A
+sample line can go} 13. Qd3 e6 14. Rad1 exd5 15. Nxd5 Nxd5 16. Bxd5 Bxd5 17.
+Qxd5 h6 18. Be3 Qxa4 {With equality}) 13. Qd3 a6 14. Rad1 {Now it is hard for
+Black to find an active plan. e5 is strong} Rb8 (14... Qd7 15. e5) (14... h6
+15. Bf4 g5 16. e5 dxe5 17. Bxe5) 15. h3 $2 {[pgndiagram] Too cautious, but the
+stakes are high} (15. e5 $1 dxe5 16. Nxe5 {Is devastating, for instance} Qd6
+17. h3 Rbd8 18. Bf4 Nfxd5 19. Qg3 Qe6 20. Nxf7 $1 {A nice blow} Qxf7 21. Bxc7 {
+And Black is busted}) 15... Nd7 16. Qe3 Ba8 17. Bh6 b5 18. Bxg7 Kxg7 19. Bf1
+Nf6 {[pgndiagram] Now the situation is slightly better than it should have
+been for Black. Still, White has the initiative} 20. axb5 axb5 21. Ne2 Bb7 (
+21... e6 $5 {Was possible, taking advantage of White's delay} 22. dxe6 Nxe6 23.
+e5 Nd5 24. Qc1 Re8 {And Black's position is viable}) 22. Ng3 Ra8 $6 23. c3 Ra4
+$2 {A faulty plan} (23... Qd7 {Staying flexible was a better option and
+defending f5} 24. Qg5 h6 25. Nf5+ Qxf5) 24. Bd3 Qa8 $2 {And now a decisive
+mistake} 25. e5 $1 {[pgndiagram] Karpov has hesitated once, but twice he will
+not..} dxe5 26. Qxe5 Ncxd5 27. Bxb5 Ra7 28. Nh4 $5 (28. c4 {Was very strong}
+Nc7 29. Nh4 Nxb5 30. cxb5 Qb8 31. Qxe7 Bxg2 32. Nhf5+ gxf5 33. Nxf5+ Kg6 34.
+Qxc5 {With a winning attack}) 28... Bc8 $2 {Game set and match for Karpov} (
+28... Qb8 29. Qg5 e6 30. c4 Nf4 31. Qxc5 Rc8 {Would have still put up some
+resistance}) 29. Be2 $2 {The stakes are high} (29. c4 {Once again ignoring
+this move} Nc7 30. Qxc5 Nxb5 31. cxb5 Rb7 {With a won position}) 29... Be6 30.
+c4 {Finally} Nb4 31. Qxc5 Qb8 32. Bf1 Rc8 $6 {[pgndiagram]} (32... h6 {
+Preventing Qg5, was more prudent} 33. Nf3 Rc8 34. Qe5 Nc6 {And the win is
+still not that easy}) 33. Qg5 Kh8 34. Rd2 Nc6 35. Qh6 Rg8 $6 (35... Ne5 {
+Preventing Nf3, was CHESSENTIAL.} 36. b3 Rb7 37. Rde2 Ng8 38. Qc1 Nd7 {And the
+play continues}) 36. Nf3 Qf8 37. Qe3 Kg7 38. Ng5 Bd7 39. b4 Qa8 40. b5 Na5 41.
+b6 Rb7 {Back in those days the games were adjourned. Korchnoi resigned without
+resuming} 1-0
+
+[Event "Karpov - Korchnoi World Championship "]
+[Site "Merano ITA"]
+[Date "1981.11.09"]
+[Round "14"]
+[White "Anatoly Karpov"]
+[Black "Viktor Korchnoi"]
+[Result "1-0"]
+[ECO "C80"]
+[PlyCount "91"]
+[EventDate "1981.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 {Open Spanish was
+Korchnoi's main choice for both matches against Karpov} 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 (11. Ng5 $5 {Is the fascinating idea
+of Igor Zaitsev, tried in the 10th game of the match in Baguio. Later this
+knight move gained enormous popularity and was analyzed to death.}) 11... Nxe6
+12. cxd4 Ncxd4 13. Ne4 $1 {[pgndiagram] "One of those novelties that helped to
+break the resistance of Korchnoi." - Kasparov} (13. Nxd4 Qxd4 {Was played
+exclusively previously, but here White has zero advantage}) 13... Be7 {
+Korchnoi thought for 79 minutes on  this move} 14. Be3 Nxf3+ $2 {Already a
+serious mistake here. Korchnoi probably missed White's 17th move} (14... Nf5 {
+Was Korchnoi's response in his next Black game} 15. Qc2 O-O 16. Rad1 Nxe3 17.
+fxe3 {With equality}) 15. Qxf3 O-O 16. Rfd1 Qe8 17. Nf6+ $1 {[pgndiagram]} Bxf6
+(17... gxf6 {The consequences of this move are too obvious} 18. exf6 Bd6 19.
+Rd4) 18. exf6 Qc8 19. fxg7 {The game is virtually over.} Rd8 (19... Nxg7 20.
+Rd5 {With a strong attack}) (19... Kxg7 20. Bh6+ Kxh6 21. Qf6+ {Mates}) 20. h4
+{[pgndiagram]Karpov saw nothing wrong with supporting the g7 pawn} c5 21. Rac1
+Qc7 {The g7 pawn is still a taboo} (21... Nxg7 22. Rxd8+ Qxd8 23. Bg5 Qc8 24.
+Rxc5 Qxc5 25. Qxa8+ Qf8 26. Qxa6) (21... Kxg7 22. Bh6+ {Again wins}) 22. h5 Qe5
+23. h6 Qxb2 {[pgndiagram] At least Black has gained the b-pawn, but h6-g7
+construction is very strong asset in any sort of endgame} 24. Rd7 Rxd7 25.
+Qxa8+ Rd8 26. Qxa6 Qe2 {Threatening Rd1 with perpetual} 27. Rf1 (27. g3 Nd4 28.
+Bxd4 cxd4 {Looks dangerous, but White has a way} 29. Qf6 {And game is over})
+27... Rd1 28. Qa8+ Rd8 29. Qc6 b4 30. Qa4 Qd3 31. Rc1 Qd5 32. Qb3 Qe4 33. Qc2
+Qxc2 (33... Qd5 {Without the queen exchange would prolong the fight}) 34. Rxc2
+f5 35. f4 Kf7 36. g4 Rd5 {[pgndiagram]} (36... fxg4 37. f5 {Is also hopeless
+for Black}) 37. gxf5 Rxf5 38. Rd2 Rf6 39. Rd7+ Kg8 40. f5 Rxf5 41. Re7 Nxg7 42.
+Rxg7+ Kh8 43. Rc7 Kg8 44. Bxc5 Rg5+ 45. Kf2 Rg6 46. Be3 1-0
+
+[Event "Karpov - Korchnoi World Championship Re"]
+[Site "Merano ITA"]
+[Date "1981.11.18"]
+[Round "18"]
+[White "Anatoly Karpov"]
+[Black "Viktor Korchnoi"]
+[Result "*"]
+[ECO "C80"]
+[PlyCount "82"]
+[EventDate "1981.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. a4 $1 {The
+suggestion of Polugayevski. The mere fact that he was a member of Karpov's
+team speaks for itself.} Be7 $6 {And immediately Korchnoi makes an inferior
+move} (13... Bb4 {Is the modern move}) (13... Nc6 {Is computer's first
+suggestion}) 14. Nxd4 Nxd4 {[pgndiagram]} (14... Qxd4 15. axb5) 15. Ne4 {"This
+thematic move scures White a solid advantage both with the queens on, and
+after their exchange" - Karpov} Ne6 (15... O-O 16. axb5 Nxb5 17. Be3 {Is no
+fun for Black, due to his weaknesses, but is probably better than the game
+continuation}) 16. Be3 O-O 17. f4 {[pgndiagram] The knight can't be mantained
+at e6} Qxd1 (17... g6 18. g4 $1) 18. Rfxd1 Rfb8 (18... g6 19. Rd7 {Is deadly}
+Rfe8 20. axb5 {And Black loses material}) 19. Rd7 Bf8 20. f5 Nd8 21. a5 $5 {
+[pgndiagram] Very instructive. In practical game it is often better to
+restrict the opponent than to pursue material gains} (21. Rxc7 {Was still a
+good move though} bxa4 22. Bd4 Rb4 23. Rd1) 21... Nc6 22. e6 fxe6 23. f6 $1 {
+A great combination} Ne5 (23... gxf6 24. Nxf6+ Kh8 25. Rxh7# {Is the so called
+Arabia mate}) 24. Rxc7 Rc8 25. Rac1 Rxc7 26. Rxc7 Rd8 27. h3 {[pgndiagram]
+This move is staggering. Karpov is in no hurry at all} h6 (27... Rd1+ 28. Kf2
+Rb1 29. Bd4) 28. Ra7 {A nice tactical way of converting the advantage} (28. b3
+{Restricting the knight, also came into consideration}) 28... Nc4 {[pgndiagram]
+} (28... Rd1+ {Seems like a better move, but only on first glance} 29. Kf2 (29.
+Kh2 Re1) 29... Rb1 30. Bd4 $1 {Is now not possible} Nc6 31. f7+ Kh7 32. Ra8
+Nxd4 33. Rxf8 {And White wins}) 29. Bb6 Rb8 30. Bc5 Bxc5+ 31. Nxc5 gxf6 32. b4
+Rd8 33. Rxa6 Kf7 34. Ra7+ Kg6 35. Rd7 Re8 36. a6 Ra8 37. Rb7 Kf5 38. Rxb5 Ke5
+39. Rb7 Kd5 40. Rf7 f5 41. Rf6 e5 {It is symbolic that this game, in which
+Korchnoi never made it out of the opening, signalled an end to an era.} *
+
+[Event "World Championship 29th"]
+[Site "Baguio City"]
+[Date "1978.07.27"]
+[Round "5"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[WhiteElo "2665"]
+[BlackElo "2725"]
+[PlyCount "247"]
+[EventDate "1978.07.18"]
+[EventRounds "32"]
+[EventCountry "PHI"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 d5 6. a3 Bxc3+ 7. Nxc3 cxd4 8.
+exd4 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O b6 12. Qd3 Bb7 13. Rad1 h6 14. f3 Ne7
+15. Bf2 Nfd5 16. Ba2 Nf4 17. Qd2 Nfg6 18. Bb1 Qd7 19. h4 Rfd8 20. h5 Nf8 21.
+Bh4 f6 22. Ne4 Nd5 23. g4 Rac8 24. Bg3 Ba6 25. Rfe1 Rc6 26. Rc1 Ne7 27. Rxc6
+Qxc6 28. Ba2 Qd7 29. Nd6 Bb7 30. Nxb7 Qxb7 31. Qe3 Kh8 32. Rc1 Nd5 33. Qe4 Qd7
+34. Bb1 Qb5 35. b4 Qd7 36. Qd3 Qe7 37. Kf2 f5 38. gxf5 exf5 39. Re1 Qf6 40. Be5
+Qh4+ 41. Bg3 Qf6 42. Rh1 Nh7 43. Be5 Qg5 44. Qxf5 Qd2+ 45. Kg3 Nhf6 46. Rg1 Re8
+47. Be4 Ne7 48. Qh3 Rc8 49. Kh4 Rc1 50. Qg3 Rxg1 51. Qxg1 Kg8 52. Qg3 Kf7 53.
+Bg6+ Ke6 54. Qh3+ Kd5 {[pgndiagram] Korchnoi has been better for the whole
+game and here the culminating point has been reached} 55. Be4+ $4 (55. Bf7+ {
+Would win.} Kc6 56. Qe6+ Kb7 57. Qxe7+ {And mate soon follows. An amazing miss,
+even if it happened in the time trouble}) 55... Nxe4 56. fxe4+ Kxe4 57. Qg4+
+Kd3 58. Qf3+ Qe3 59. Kg4 Qxf3+ 60. Kxf3 g6 61. Bd6 Nf5 62. Kf4 Nh4 63. Kg4
+gxh5+ 64. Kxh4 Kxd4 65. Bb8 a5 66. Bd6 Kc4 67. Kxh5 a4 68. Kxh6 Kb3 69. b5 Kc4
+70. Kg5 Kxb5 71. Kf5 Ka6 72. Ke6 Ka7 73. Kd7 Kb7 74. Be7 Ka7 75. Kc7 Ka8 76.
+Bd6 Ka7 77. Kc8 Ka6 78. Kb8 b5 79. Bb4 Kb6 80. Kc8 Kc6 81. Kd8 Kd5 82. Ke7 Ke5
+83. Kf7 Kd5 84. Kf6 Kd4 85. Ke6 Ke4 86. Bf8 Kd4 87. Kd6 Ke4 88. Bg7 Kf4 89. Ke6
+Kf3 90. Ke5 Kg4 91. Bf6 Kh5 92. Kf5 Kh6 93. Bd4 Kh7 94. Kf6 Kh6 95. Be3+ Kh5
+96. Kf5 Kh4 97. Bd2 Kg3 98. Bg5 Kf3 99. Bf4 Kg2 100. Bd6 Kf3 101. Bh2 Kg2 102.
+Bc7 Kf3 103. Bd6 Ke3 104. Ke5 Kf3 105. Kd5 Kg4 106. Kc5 Kf5 107. Kxb5 Ke6 108.
+Kc6 Kf6 109. Kd7 Kg7 110. Be7 Kg8 111. Ke6 Kg7 112. Bc5 Kg8 113. Kf6 Kh7 114.
+Kf7 Kh8 115. Bd4+ Kh7 116. Bb2 Kh6 117. Kg8 Kg6 118. Bg7 Kf5 119. Kf7 Kg5 120.
+Bb2 Kh6 121. Bc1+ Kh7 122. Bd2 Kh8 123. Bc3+ Kh7 124. Bg7 1/2-1/2
+

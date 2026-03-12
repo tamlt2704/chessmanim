@@ -1,0 +1,703 @@
+[Event "AVRO"]
+[Site "The Netherlands"]
+[Date "1938.11.22"]
+[Round "11"]
+[White "Mikhail Botvinnik"]
+[Black "Jose Raul Capablanca"]
+[Result "1-0"]
+[ECO "E49"]
+[PlyCount "81"]
+[EventDate "1938.11.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 {[pgndiagram] The Rubinstein's variation
+of the Nimzo- Indian.} d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8. Bd3 O-O 9. Ne2
+{[pgndiagram] "This has been established in theory as the Botvinnik Variation
+in the Rubinstein System. Nowadays everyone knows that the premature
+determination of the central pawn structure gives his opponent greater
+opportunities for seizing the initiative. But at that time the two players
+were proceeding through virgin territory." - Kasparov} b6 10. O-O Ba6 {White's
+light squared bishop is a good piece, but it is doubtful whether Black should
+exchange these pieces - his own bishop has a defensive function on b7} (10...
+Nc6 {To illustrate the previous point, let us take a look at the potential
+variation where Black develops his bishop on e6 instead} 11. Bb2 Na5 12. Ng3
+Be6 13. f3 Rc8 14. e4 dxe4 15. fxe4 Ng4 16. Qe1 Bc4 $1 {[pgndiagram] And
+Black's control of the light squares shouldn't be underestimated. This is of
+course just an illustrative variation.}) 11. Bxa6 {Another dilemma - should
+White exchange here or not?} ({After the immediate f3} 11. f3 Bxd3 12. Qxd3 {
+His queen is on d3 and the knight still has to be developed. Still, the
+position of the knight on a6 or c7 is not inspiring all the same}) 11... Nxa6
+12. Bb2 $6 {Not the most precise move in the position. White overprotects d4
+square and plans f3-e4 advance, but it is too early to determine the position
+of this bishop} (12. Qd3 {Is more precise} Qc8 13. f3 Re8 14. Ng3 Qb7 15. Re1 {
+[pgndiagram] And the bishop might become useful on the c1-g5 diagonal as well.}
+) 12... Qd7 $1 {A good move, preparing Qa4 in the future with the blockade of
+the queenside} 13. a4 {[pgndiagram] Now this is necessary} (13. Qd3 Qa4 {
+Seriously paralyses White} 14. Ng3 Rae8 15. f3 Nc7 16. e4 Qb3 $1 {[pgndiagram]
+And White starts to have some concrete problems to solve}) 13... Rfe8 (13...
+cxd4 {Was suggested by Botvinnik and Kasparov} 14. cxd4 Rfc8 {[pgndiagram]
+"And White would have to forget about the breakthrough in the center and
+switch to defence" - Kasparov.    But it is not so clear} 15. Qb3 Rc4 16. Nf4
+Rac8 17. Nd3 {[pgndiagram] And With the knight coming to e5, things look far
+from ideal for Black}) 14. Qd3 c4 $5 {[pgndiagram] Kasparov and Botvinnik are
+both critical of this move, but the computer makes this move instantly.} 15.
+Qc2 Nb8 $6 {Perhaps only this move is the start of the wrong plan - Black
+invests four moves to place a knight on b3 and win the a4 pawn. White can use
+this time constructively and carry out his central pawn advance} (15... Rad8 {
+Is perhaps to be prefered. After} 16. Ng3 (16. Rae1 Nc7 17. Ng3 Ne4 {Once
+again!}) 16... Ne4 {[pgndiagram] Black prevents white's pawn advance for the
+moment.} (16... h5 {Also comes into consideration}) 17. Ne2 Nf6 {[pgndiagram]
+And White has to find another plan or go for the repetition} 18. Ng3) 16. Rae1
+{Now White executes his plan without any problems} Nc6 17. Ng3 Na5 $2 {
+[pgndiagram] Capablanca is consistent, but this was the opportunity to change
+plans} (17... Ne4 18. Nh1 {Is given by Kasparov, but after} Ng5 19. f3 Ne6 {
+White's attack isn't as terrible as in the game - the knight on e6 won't get
+attacked by the e-pawn and it controls f4} 20. Ng3 (20. e4 {Is premature} Na5
+21. Ng3 (21. e5 Nf4) 21... Nf4 {[pgndiagram] And the knight lands on d3 which
+is higly unpleasant for White}) 20... Rad8 {And it is hard to suggest a move
+for White - e4 still runs into Nf4} 21. Qd2 Na5 22. e4 Nb3 23. Qe3 f6 {
+[pgndiagram] And the position is highly unclear}) 18. f3 {Now White manages to
+carry his plan unhindered and has a very strong initiative for a pawn on a4}
+Nb3 19. e4 Qxa4 20. e5 Nd7 21. Qf2 g6 22. f4 f5 {[pgndiagram] Capablanca
+probably relied on this defensive move, but this is met with a series of
+energetic replies} 23. exf6 $1 Nxf6 24. f5 $1 {Nevertheless} Rxe1 25. Rxe1 Re8
+26. Re6 $1 {[pgndiagram] Great calculation by Botvinnik. After this move there
+is no hope for Black - White's attack is overwhelming} Rxe6 (26... Kg7 {Is met
+by} 27. Rxf6 Kxf6 28. fxg6+ {[pgndiagram] And Black is getting checkmated} Kxg6
+29. Qf5+ Kg7 30. Nh5+ Kh6 31. g4 {And Black can only delay the inevitable}) 27.
+fxe6 Kg7 28. Qf4 $1 {[pgndiagram] Threatening Qc7 and preparing Qe5} Qe8 29.
+Qe5 $6 {A small inaccuracy} (29. Qc7+ {Was the winning move} Kg8 30. Qe5 Kg7
+31. Ba3 Na5 (31... Qd8 32. Nh5+ gxh5 33. Qg5+ Kh8 34. e7 {[pgndiagram] Is
+hopeless}) 32. Qc7+ Kg8 33. Be7 $1 {[pgndiagram] And Black is completely
+dominated}) 29... Qe7 $2 {The decisive mistake of the game and the culmination
+of this encounter} (29... h6 {In his book, Kasparov quotes this reply,
+discovered by Goldin, as the best defence. Black is preventing a potential
+check by the White queen on g5. Suddenly, it is extremely hard for White to win
+} 30. Qc7+ Kg8 31. Qd6 $1 {The most precise} (31. Qe5 Kg7 32. Ba3 {Now doesn't
+work} Qd8 {[pgndiagram] And White has to win the game anew}) 31... b5 (31...
+Na5 32. Bc1) 32. Qe5 Kg7 33. h4 {[pgndiagram] And White still has the
+initiative, but the win is somewhat problematic}) 30. Ba3 $3 {[pgndiagram]
+"Diversion! Whereas the first ittle step by the bishop was merely an
+unsuccessful joke, the second gives rise to a genuine drama. The kamikaze
+bishop forced the black queen to abandon its king to its fate and open the way
+for the lucky e-pawn. " - Kasparov} Qxa3 31. Nh5+ gxh5 32. Qg5+ Kf8 33. Qxf6+
+Kg8 {[pgndiagram] Now only precision is required from White. Note how helpless
+the knight on b3 is.} 34. e7 {Sufficient. There were other winning moves, but
+Botvinnik has calculated his king can hide from the annoying checks.} Qc1+ 35.
+Kf2 Qc2+ 36. Kg3 Qd3+ 37. Kh4 Qe4+ 38. Kxh5 Qe2+ 39. Kh4 Qe4+ 40. g4 Qe1+ 41.
+Kh5 {[pgndiagram] A fantastic victory by Botvinnik over Capablanca and a
+symbolic end of the era of classical chess titans.} 1-0
+
+[Event "AVRO"]
+[Site "The Netherlands"]
+[Date "1938.11.15"]
+[Round "7"]
+[White "Mikhail Botvinnik"]
+[Black "Alexander Alekhine"]
+[Result "1-0"]
+[ECO "D41"]
+[PlyCount "101"]
+[EventDate "1938.11.06"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 Nxd5 {[pgndiagram] The Semi
+Tarrasch defence has been regarded as an inferior defence for a long time, but
+it has been revived in the 21st century. But old masters didn't care all that
+much about the opening verdicts back then - Botvinnik was the very first
+player who started studying opening scientifically.} 6. e3 (6. e4 {Is the most
+principled reply, which was tested extensively in the Alekhine-Euwe return
+match}) 6... Nc6 7. Bc4 $5 {"A specifically prepared novelty." - Kasparov} cxd4
+8. exd4 {[pgndiagram] Once again, Botvinnik's favourite position with the
+isolated pawn.} Be7 9. O-O O-O 10. Re1 b6 $2 {This seemingly natural move
+turns out to be a serious mistake. Black weakens his knight on c6 and White
+immediately exploits it.} (10... Nf6 {Removing the knight from exchange is
+possible}) (10... Bf6 {Is also a move}) (10... a6 {Is also probably better
+than what Black did in the game}) 11. Nxd5 $1 {[pgndiagram] Typical Botvinnik
+- when an opportunity for concrete play appears, he exploits it.} (11. Bb5 {Is
+simply inferior} Bb7 12. Qa4 Rc8 {And Black doesn't have any problems}) 11...
+exd5 {Now Black has an isolani of his own and white is able to generate
+immediate play against Black's queenside} 12. Bb5 Bd7 $6 {From frying pan to
+fire.} (12... Bb7 {Was neverthelesss better and more principled} 13. Qa4 {
+Kasparov suggests only this move, but I am not convinced it is the best} (13.
+Bf4 $5 {Was probably even better} a6 14. Bd3 {And Black has serious problems.
+For instance} Rc8 15. Bf5) 13... Rc8 14. Bf4 a6 15. Bxc6 Rxc6 16. Ne5 Re6 $1 (
+16... Rc8 {Is the only move mentioned by Kasparov} 17. Qd7 {He stops here, but
+I don't know whether White has anything concrete here}) 17. Qd7 Qxd7 18. Nxd7 {
+Is not so horrible now} Rc8 19. Rxe6 fxe6 20. Rc1 (20. Nxb6 Rc2) 20... Rxc1+
+21. Bxc1 {[pgndiagram] Thus, it would appear 13 Bf4!? is a better try for an
+advantage}) 13. Qa4 $1 {Now this move is indeed very strong} Nb8 (13... Rc8 14.
+Bf4 {With the threat of Rac1, is horrible}) 14. Bf4 Bxb5 15. Qxb5 a6 16. Qa4 {
+[pgndiagram] "Retaining control of the c6-square and simultaneously
+threatening to win th a6-pawn by 17 Bxb8. All that black can do is to seek
+simplification} (16. Qb3 {Came to consideration as well}) (16. Qd3 {Was also
+very interesting} Nc6 17. Rac1) 16... Bd6 (16... b5 {Doesn't help a lot} 17.
+Qc2 {And Black is still paralyzed} Bd6 (17... Nd7 18. Bc7) 18. Bxd6 Qxd6 19.
+Rac1) 17. Bxd6 Qxd6 18. Rac1 Ra7 19. Qc2 $1 {[pgndiagram] Botvinnik's comment
+is very instructive here: "The c-file is more important than the e-file, since
+in the future the e7-square can be defended by the king, whereas the c7-square
+remains vulnerable."} Re7 (19... Nd7 20. Qc6 Qxc6 21. Rxc6 b5 {Also leads to a
+very difficult endgame}) 20. Rxe7 Qxe7 21. Qc7 Qxc7 22. Rxc7 {[pgndiagram] One
+of those endgames where White doesn't have a material advantage, but the
+difference in placement of the pieces is more than enough to play for a win} f6
+$1 {Alekhine defends tenaciously. This move prepares Rf7 and the eviction of
+White's rook from the 7th rank. This move also prevents the knight jump to e5}
+(22... g6 23. Ne5) 23. Kf1 ({White shouldn't give up the c-file} 23. Rb7 Rc8
+24. Kf1 b5 {[pgndiagram] And suddenly Black is out of danger}) 23... Rf7 24.
+Rc8+ Rf8 25. Rc3 g5 {Gaining some space on the kingside and removing the pawns
+from the 7th rank. This move is double edges as it creates yet another
+weakening} (25... Kf7 {Is not better} 26. Rc7+ Kg6 27. Nh4+ Kh5 28. Nf5 {
+[pgndiagram] And Black is in serious trouble}) 26. Ne1 h5 $6 {Allowing a
+brilliant reply by White} (26... Kg7 {Loses almost immediately} 27. Nc2 Kf7 28.
+Ne3 Ke6 29. Rc7 {And Black is lost}) (26... Kf7 27. Rc7+ {Is also not good for
+Black}) (26... h6 {Was probably the most resiient} 27. Nc2 Kf7 28. Ne3 Ke6 29.
+g4 {[pgndiagram] But with Nf5+ coming, it is also very difficult to defend})
+27. h4 $3 {[pgndiagram] I will be honest, when I first saw this game, i
+completely failed to understand this move. Why does Kasparov attach two
+exclamation marks to a move that simply drops a pawn? Why is this move so
+good?   The reply is obvious - White simply fix the weakness and h5.} ({After
+the natural} 27. Nc2 Kf7 28. Rc7+ Ke6 29. Ne3 Rd8 {[pgndiagram] Black is OK})
+27... Nd7 $6 (27... gxh4 28. Nd3 Kg7 29. Nf4 {[pgndiagram] And we can see the
+point - both h5 and d5 are weak}) (27... Kf7 {Was nevertheless more tenacious}
+28. Rc7+ Kg6 29. hxg5 fxg5 30. Nf3 Kf5 31. Rh7 h4 32. Rg7 {[pgndiagram]
+Although it is probably impossible to endure this endgame in the long run}) 28.
+Rc7 Rf7 29. Nf3 {Forcing g4, removing the defender of the f4 square} g4 30. Ne1
+f5 31. Nd3 f4 32. f3 $1 {[pgndiagram] Another instructive moment - Botvinnik
+prevents the further advance of the f-pawn. The number of weaknesses increases
+once again} (32. Nb4 {Would win a pawn, but also allowed some counterplay} f3
+33. Nxd5 Nf6 34. Rxf7 Kxf7 35. Nxb6 Ke6 {[pgndiagram] And although White is
+still winning, he has to display some precision now.}) 32... gxf3 33. gxf3 a5
+34. a4 $1 {Major material gains are not far away} Kf8 35. Rc6 Ke7 36. Kf2 Rf5
+37. b3 Kd8 38. Ke2 Nb8 $5 {[pgndiagram] Desperation. Black is willing to give
+up a pawn for some activity.} 39. Rg6 $1 {A cold shower - Botvinnik doesn't
+allow any counterplay whatsoever} (39. Rxb6 Kc7 40. Rb5 Nc6 {Is suddenly not
+that clear}) 39... Kc7 40. Ne5 Na6 41. Rg7+ Kc8 42. Nc6 Rf6 43. Ne7+ Kb8 44.
+Nxd5 {[pgndiagram] Finally, the d5 pawn falls and the rest is matter of
+technique} Rd6 45. Rg5 Nb4 46. Nxb4 axb4 47. Rxh5 Rc6 48. Rb5 Kc7 49. Rxb4 Rh6
+50. Rb5 Rxh4 51. Kd3 {[pgndiagram] A fantastic strategical masterpiece by
+Botvinnik. One of those highly instructive games of the sixth world champion}
+1-0
+
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.25"]
+[Round "13"]
+[White "Mikhail Botvinnik"]
+[Black "Milan Vidmar"]
+[Result "1-0"]
+[ECO "D40"]
+[PlyCount "47"]
+[EventDate "1936.08.10"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Bd3 {
+[pgndiagram] A rather rare move. Usually in these positions, White delays the
+development of this bishop and waits for Black to capture on c4 instead. The
+so called "struggle for tempo" is highly typical of the Queens' gambit declined
+} (7. Rc1) (7. Qc2) (7. a3) 7... c5 8. O-O $5 {Entering the position with an
+isolated pawn. Back in 1936, almost everyone thought Black is automatically
+better in these positions; Botvinnik was the first to prove White's dynamic
+resources are force to be reckoned with.} (8. cxd5 {Is calmer} Nxd5 9. Bxe7
+Qxe7 10. Nxd5 exd5 11. dxc5 {[pgndiagram] And Black is the one saddled with
+the isolani in the end.}) 8... cxd4 9. exd4 dxc4 10. Bxc4 {[pgndiagram]
+"Positions with an isolated d4-pawn were a 'hobby horse' of Botvinnik, who
+discolosed virtually all their resources! Previously many masters, on
+obtaining an 'isolani' in the centre, experienced an almost mystical fear -
+apparently under the influence of Steinitz's impressive wins over Zukertort
+and the powerful logical arguments of the first world champion, who spoke out
+against the creation of unnecessary weaknesses in the position. But Botvinnik
+demonstrated that the activity of the pieces and the pressure in the centre
+more than compensate for the insignificant defect in the pawn structure. " -
+Kasparov} Nb6 (10... a6 {Was regarded as more accurate, forcing the reply a4,
+weakening the b4 square} 11. a4 Nb6 12. Bb3 Bd7 13. Qe2 (13. Bxf6 {Is
+interesting} Bxf6 14. a5 Nc8 15. d5 $5 {[pgndiagram] With a small edge for
+White}) 13... Bc6) 11. Bb3 Bd7 12. Qd3 Nbd5 $6 {This occupation of the d5
+square is made automatically even today, but it is not the most precise.} (
+12... Nfd5 {Aiming for simplification is more precise. After} 13. Be3 Bc6 14.
+Ne5 Bd6 {[pgndiagram] White retains some advantage}) 13. Ne5 Bc6 14. Rad1 {
+[pgndiagram] Black's position is slightly overcrowded} Nb4 15. Qh3 Bd5 16. Nxd5
+Nbxd5 $2 {[pgndiagram] A final mistake of the game} (16... Nfxd5 {Was the last
+chance to go for the simplification} 17. Bxe7 (17. Bc1 Rc8) 17... Qxe7 18. f4
+Rad8 19. f5 Nc6 {[pgndiagram] When Black has chances of deneding himself}) 17.
+f4 $1 {Botvinnik's patent advance of the f-pawn, which has become classic ever
+since.} Rc8 18. f5 {[pgndiagram] Like a battering ram, the pawn shatters
+Black's pawn structure. All White's pieces are placed ideally} exf5 (18... Qd6
+19. fxe6 Qxe6 {[pgndiagram] Was more tenacious, when White still has to
+deliver the knock-out blow.} 20. Qh4 $1 {The strongest move} h6 21. Bxf6 Bxf6
+22. Rxf6 Qxf6 23. Qe4 Nb6 24. Rf1 {[pgndiagram]}) 19. Rxf5 {Now White has many
+tactical threats, connected with the pin on the b3-g8 diagonal} Qd6 $6 {This
+loses immediately, but there is no hope whatsoever} (19... Rc7 {Was slightly
+more tenacious, but after the simple} 20. Rdf1 $1 {[pgndiagram] White's
+pressure is overwhelming}) 20. Nxf7 $3 {[pgndiagram] An elegant blow in a
+winning position. This wins material} Rxf7 21. Bxf6 Bxf6 (21... Nxf6 22. Rxf6 {
+The rook on c8 is hanging as well}) 22. Rxd5 Qc6 23. Rd6 Qe8 24. Rd7 {
+[pgndiagram] A crushing win!} 1-0
+
+[Event "Tal - Botvinnik World Championship Retu"]
+[Site "Moscow URS"]
+[Date "1961.03.29"]
+[Round "7"]
+[White "Mikhail Botvinnik"]
+[Black "Mikhail Tal"]
+[Result "1-0"]
+[ECO "E24"]
+[PlyCount "65"]
+[EventDate "1961.??.??"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. a3 {[pgndiagram] From the English opening,
+the game has tranpsposed to the Nimzo-Indian defence. Botvinnik choses the
+risky Sämisch Variation, that is currently not any more popular.} Bxc3+ {The
+point. Black voluntarily gives up his dark squared bishop in order to double
+the pawns on the c-file.} 5. bxc3 b6 6. f3 {Also quite logical. White intends
+to occupy the center and intends to play on the kingisde.} Ba6 7. e4 d5 $6 {
+[pgndiagram] This move was severely criticized by all the commentators. By
+advancing his d-pawn, Black allows White to rid himself of the weak c4 pawn.
+Loss of castling is small price for that} (7... Nc6 {Was, and still is, the
+main move. Black rushes to a5 in order to attack c4}) 8. cxd5 Bxf1 9. Kxf1 exd5
+{[pgndiagram] Now White has simply gained a compact pawn structure in the
+center for nothing} 10. Bg5 $5 {This was a novelty at a time. The primitive
+e-pawn advance still seems more logical} (10. e5 $1 Ng8 {Is mentioned by
+Kasparov, but he doesn't comment on the engine's suggestion of} 11. Qa4+ Qd7
+12. Qxd7+ Kxd7 {[pgndiagram] And it would appear White has decent prospects in
+this position}) 10... h6 11. Qa4+ $1 (11. Bxf6 Qxf6 12. exd5 O-O {Gives Black
+more than sufficient compensation for the pawn.}) 11... c6 12. Bh4 dxe4 {
+[pgndiagram] Botvinnik was terribly critical of this move. "A highly dubious
+decision. The opening of lines in the center merely assists the development of
+White's initiative."   But I think this comment was influenced by the result
+of the game - Black's position is not yet worse.} 13. Re1 g5 {Kasparov
+comments this was forced, but the engine is more creative} (13... Nbd7 {Is
+suggested immediately by the engine and suddenly it is hard to suggest a good
+move for White.} 14. Bxf6 (14. Qxc6 O-O) 14... Qxf6 15. Rxe4+ Kf8 {[pgndiagram]
+And Black has a reasonable position. A very good example of how chess has
+progressed with the help of the engines.}) 14. Bf2 Qe7 $6 {It is not clear
+whether Black should put the queen in the way of the rook} (14... Qd7 {Also
+leads to an unpleasant position. For instance} 15. fxe4 c5 16. Qc2 Nc6) 15. Ne2
+$1 {[pgndiagram] Great strategical decision. The knight is aiming for g3 as
+soon as possible, in order to eye the e4 and f5 squares} b5 (15... exf3 16. Ng3
+{Is obviously bad}) (15... O-O 16. Ng3 {Is horrible for Black}) 16. Qc2 (16.
+Qb3 Qe6 {Would have improved things for Black a bit} 17. Qc2 O-O 18. Ng3 Qc4+
+19. Kg1 Qd3 {[pgndiagram] The queen is better placed on e6}) 16... Qxa3 17. h4
+$1 {Another very strong move, undermining the kingside structure} gxh4 $2 {
+[pgndiagram] A crucial mistake, opening the path for the bishop to come into
+the game} (17... exf3 {Is still very bad} 18. Nf4+ Kf8 19. hxg5 fxg2+ 20. Kxg2
+Rg8 21. Rxh6 Rxg5+ 22. Kf3 {[pgndiagram] And White is winning}) (17... g4 $1 {
+Was the best move} 18. Ng3 (18. fxe4 {Is also better for White}) 18... Nbd7 19.
+fxe4 O-O-O {[pgndiagram] And White is obviously better, but Black is still in
+the game}) 18. Bxh4 {Now the positional and tactical threates slightly become
+unbearable} Nbd7 19. Ng3 O-O-O 20. Nxe4 Rhe8 $5 {[pgndiagran] A typical and
+tricky Tal move} (20... Nxe4 21. Qxe4 Qxc3 22. Bxd8 Rxd8 23. Rxh6 {[pgndiagram]
+Leads to a technically winning position for White}) 21. Kf2 $1 {A cold shower,
+avoiding all complications} (21. Nxf6 Nxf6 (21... Rxe1+ 22. Bxe1 (22. Kxe1 {Is
+only mentioned by Kasparov , but Bxe1 is stronger}) 22... Nxf6 23. Qf5+ Nd7 24.
+Rxh6 {[pgndiagram] Winning}) 22. Bxf6 Rxe1+ 23. Kxe1 Qa1+ 24. Qd1 Qxc3+ 25. Kf2
+{[pgndiagram] Is objectively also winning, but Black has some practical
+chances of saving the game}) 21... Nxe4+ 22. fxe4 f6 23. Ra1 Qe7 24. Rxa7 Qxe4
+25. Qxe4 Rxe4 {[pgndiagram] Even without the queens, White's attack is
+devastating. Botvinnik concludes the game convincingly} 26. Ra8+ Nb8 27. Bg3
+Kb7 28. Rha1 Rc8 29. R8a7+ Kb6 30. Bxb8 b4 (30... Rxb8 31. R1a6# {Is a nice
+checkmate}) 31. Bd6 bxc3 32. Bc5+ Kb5 33. R1a4 {[pgndiagram] With the
+unavoidable Rb4 checkmate. A fantastic game by Botvinnik and one of the best
+examples why his contemporaries described him as a bulldozer.} 1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo MNC"]
+[Date "1968.04.10"]
+[Round "7"]
+[White "Mikhail Botvinnik"]
+[Black "Lajos Portisch"]
+[Result "1-0"]
+[ECO "A29"]
+[PlyCount "57"]
+[EventDate "1968.04.03"]
+
+1. c4 {Once again, starting with his favourite c-pawn.} e5 2. Nc3 Nf6 3. g3 d5
+4. cxd5 Nxd5 5. Bg2 Be6 6. Nf3 Nc6 7. O-O Nb6 {[pgndiagram] The starting
+position of the Sicilian Dragon reversed, that is topical even today} (7... Be7
+{The point behind the knight move to b6 is revealed if Black moves his bishop
+just like that} 8. d4 $1 exd4 9. Nxd4 Nxc3 10. bxc3 Nxd4 11. cxd4 c6 12. Rb1 {
+[pgndiagram] And this position is advantageous for White}) 8. d3 (8. d4 {With
+the bishop already on e6, d4 is probably playable} exd4 (8... Nxd4 9. Nxe5) 9.
+Nb5 {We will give a long and approximate line to illustrate White's temporary
+pawn sacrifice is definitely dangerous} Qd7 10. Bf4 Nd5 11. Rc1 a6 12. Nbxd4
+Nxf4 13. gxf4 Nxd4 14. Nxd4 Rd8 15. e3 c5 16. Nxe6 Qxe6 17. Qf3 {And once
+again White retains the initiative}) 8... Be7 9. a3 {The main move even today
+- White's idea is to expand on the queenside and utilize the c5 square} (9. Be3
+{Is also possible}) 9... a5 $6 {Perhaps Black should wait with this move until
+White has played b4 himself.   "Nowadays, this is considered to be weakening."
+- Kasparov} (9... O-O 10. b4 {Is often played today, with the idea of luring
+the pawn to b4 in order to undermine it with a5. Nd4 is a common move for
+Black in this position} a5 11. b5 Nd4 12. Nd2 (12. Nxe5 {Is not recommendable.
+After} Bf6 {Black has definite compensation})) (9... f5 {Is another
+possibility, although Black has to reckon with} 10. e4) 10. Be3 O-O 11. Na4 $1
+{[pgndiagram] "White carries out a typical manoeuvre in such positions, with
+the aim of opening the c-file and in due time occupying c5 with a minor piece"
+- Botvinnik} Nxa4 (11... Nd5 {Is more interesting} 12. Bc5 b6 13. Bxe7 Ndxe7
+14. Rc1 (14. b4 {Was played, but after} axb4 15. axb4 Bd5 {Black is fine} (
+15... Nxb4 16. Nxe5))) 12. Qxa4 {Now White has a favourable version of the
+reversed Sicilian Dragon. The whole on b5 is looming.} Bd5 13. Rfc1 Re8 14. Rc2
+Bf8 (14... Bd6 {Was suggested by Botvinnik, defending the c7 pawn, however,
+after} 15. Qb5 (15. Rac1 Ne7) 15... Ne7 16. Nd2 {And White retains some edge})
+(14... Bf6 15. Rac1) 15. Rac1 Nb8 $2 {But this is a mistake. Portisch thought
+c7 pawn is immune, and intended to continue with c6. However, he was in for an
+unpleasant surprise} 16. Rxc7 Bc6 17. R1xc6 $3 {[pgndiagram] A bolt from the
+blue. This looks like desperation, but in reality, White plays a deadly
+combination, with the sacrifice of both rooks} bxc6 18. Rxf7 $3 {[pgndiagram]
+A fantastic combination. As it turns out, the second rook can't be accepted} h6
+{This is forced.} (18... Kxf7 {LEads to checkmate after} 19. Qc4+ Kg6 20. Qg4+
+Kf7 21. Ng5+ {[pgndiagram] And Black has to give up his queen or get
+checkmated after} Kg8 22. Qc4+ Kh8 23. Nf7+ Kg8 24. Nh6+ Kh8 25. Qg8#) 19. Rb7
+{Now White has two pawns for the exchange and a raging attack. Black is busted}
+Qc8 20. Qc4+ Kh8 21. Nh4 $1 {[pgndiagram] A final blow. Black's light squares
+are like Swiss cheese and White exploits it to the maximum} Qxb7 22. Ng6+ Kh7
+23. Be4 Bd6 {[pgndiagram] It is all over now} (23... Be7 {Is no better} 24.
+Nxe5+ Kh8 25. Nf7+ Kg8 26. Nxh6+ Kh8 27. Qg8+ Rxg8 28. Nf7# {[pgndiagram] With
+a variation of the smothered mate}) 24. Nxe5+ g6 (24... Kh8 25. Nf7+ Kg8 26.
+Nxd6+) 25. Bxg6+ Kg7 26. Bxh6+ {[pgndiagram] And here the 'Hungarian
+Botvinnik' resigned. The finish would have been} Kxh6 27. Qh4+ Kg7 28. Qh7+ Kf8
+29. Qxb7 {[pgndiagram] And wins. A brilliant win by the sixth world champion
+in his late years.} 1-0
+
+[Event "Botvinnik - Smyslov World Championship "]
+[Site "Moscow URS"]
+[Date "1954.04.17"]
+[Round "15"]
+[White "Vasily Smyslov"]
+[Black "Mikhail Botvinnik"]
+[Result "0-1"]
+[ECO "B25"]
+[PlyCount "72"]
+[EventDate "1954.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 {Closed Sicilian. A
+very annoying variation to have to face for an active Black player employing
+this combative opening.} e5 $1 {[pgndiagram] One can really learn a lot from
+Botvinnik. This seemingly weakens the d5 square, but Black fights for the
+center and refuses to allow White to increase his space control on the kingside
+} 7. Nd5 {Seizing the weak square immediately} (7. f4 {Is playable. After say}
+Nge7 8. O-O O-O 9. fxe5 dxe5 10. Nd5 Nxd5 11. exd5 Ne7 12. c4 Bg4 13. Be3 b6 {
+The position is very sharp and unbalanced}) 7... Nge7 8. c3 {Not sure this is
+the best} (8. Nec3 {Is maybe a better alternative}) (8. Bg5 {Is the sharpest}
+h6 9. Bf6 Kf8 10. f4 {With complications}) 8... Nxd5 9. exd5 Ne7 {[pgndiagram]
+Now Black is able to develop harmoniously and I dont think he has real problems
+} 10. O-O O-O 11. f4 Bd7 12. h3 {Black wants to bring the other rook to e8 and
+then continue playing in the center and on the kingside} Qc7 (12... Nf5 {Was
+also playable, not yet determining a plan and keeping the option of placing
+the queen on e7 in reserve} 13. Qe1 Qe7 14. Qf2 Rae8 {With very similar
+position as in the game}) 13. Be3 {[pgndiagram] White has to develop this
+bishop sooner or later, although here it will get hit by Nf5} (13. fxe5 {In
+principle, White doesn't want to take here. After} dxe5 14. c4 Nf5 15. b3 Rae8
+{d4 square is weak forever and knight also stands very well on d6}) 13... Rae8
+14. Qd2 Nf5 15. Bf2 h5 $1 {Another great positional move, entrenching the
+knight on f5} 16. Rae1 (16. g4 hxg4 17. hxg4 Nh6 {Is highly problematic for
+White}) 16... Qd8 {[pgndiagram] The culmination of the plan that begun with
+Qc7. A masterful handling of the position by Botvinnik} 17. Kh2 Bh6 18. h4 $6 {
+Black was threatening to play h4 himself. But as it turns out, with the king
+on h2, this pawn will be a subject of tactical ideas. If he was to advance it,
+it was better to do so on the previous move} Qf6 {The queen joins the battle
+now} 19. Be4 $2 {A final mistake in a very difficult position} (19. Rd1 {Was
+the only move to prevent the shot.} exf4 20. Nxf4 Nxh4 {Now doesn't work due to
+} 21. Be3 Nf5 22. Nxh5 gxh5 23. Rxf5 Qxf5 24. Bxh6 {And Black is not yet out
+of the woods}) 19... exf4 20. Nxf4 Nxh4 $3 {[pgndiagram] A deadly shot and the
+culmination of Black's brilliant strategical play. As they say, tactics don't
+rise out of nothing} 21. Be3 Nf5 22. Bxf5 (22. Nxh5 {Now simply doesn't work.
+After} gxh5 23. Rxf5 Bxe3 24. Rxf6 Bxd2 {[pgndiagram] The rook is not on d1
+and White can't take the bishop on e2, which means he remains a piece down})
+22... Qxf5 23. Qg2 Qg4 24. Qe2 Qxe2+ 25. Rxe2 Re5 {[pgndiagram] Two bishops,
+better pawn structure, extra pawn. As they say, the rest is just a matter of
+technique} 26. Ree1 Rfe8 27. Bf2 h4 28. Rxe5 Rxe5 29. d4 hxg3+ 30. Kxg3 Rg5+
+31. Kh2 Rf5 32. Be3 cxd4 33. cxd4 Kh7 34. Rf2 g5 35. Ne2 Rxf2+ 36. Bxf2 f5 {
+[pgndiagram] A brilliant game by the Patriarch. He killed his opponent after
+only 20 moves with the Black pieces in a peaceful variation. The best evidence
+how strongly he played in those years and why many players compared him with a
+bulldozer.} 0-1
+
+[Event "URS-chT"]
+[Site "Moscow URS"]
+[Date "1966.09.28"]
+[Round "5"]
+[White "Mikhail Botvinnik"]
+[Black "Paul Keres"]
+[Result "1-0"]
+[ECO "A29"]
+[PlyCount "53"]
+[EventDate "1966.??.??"]
+
+1. c4 {I have described the rivalty between Botvinnik and Keres in a post
+dedicated to Paul Keres. This game was played in 1966, when both players were
+way past their peak. Still, it is a fascinating encounter.} Nf6 2. Nc3 e5 3.
+Nf3 Nc6 4. g3 Bc5 5. Nxe5 {It is hard to evaluate this move. Under the
+influence of this game, 4...Bc5 was considered dangerous for Black, but in the
+recent years strong grandmasters like Peter Svidler managed to prove that 5
+Nxe5 is sort of a "drawing combination" - Black should be perfectly fine.}
+Bxf2+ (5... Nxe5 6. d4 {Is better for White}) 6. Kxf2 Nxe5 7. e4 {[pgndiagram]
+Almost exclusively the choice of top grandmasters} (7. d4 $5 {Might be more
+venomous, at least on the lower level. The problem is that Black has a decent
+equalizer after} Nxc4 8. e4 d5 $1 {And I don'  think White can fight for
+advantage here} 9. exd5 Nb6 10. Qe2+ Kf8 11. Bg2 Nfxd5 {And Black is very
+comfortable}) 7... c5 $1 {And important move - Black can't really allow d4} 8.
+d3 {[pgndiagram] By old standards, White is practically winning - two bishops,
+weak d5 square, etc. However, the modern theory proves Black is perfectly fine
+here.} d6 9. h3 h5 $6 {Perhaps this move is not strictly required - White
+wasn't threatening to expand in any case} (9... O-O 10. Kg1 h6 11. Bf4 Bd7 {
+Was more normal, just developing smoothly. Fast castling was also how Svidler
+treated this positions, say in the game Aronian - Svidler, World Championship
+Tournament 2007}) 10. Be2 Nh7 11. Kg2 h4 12. g4 Ng5 {[pgndiagram] Black
+seemingly has a nice blockade on the dark squares, but actually he isn't
+threatening anything, and the loss of time allowed White to develop and
+initiate play of his own} 13. Be3 (13. d4 {Was actually quite strong already}
+cxd4 14. Qxd4 Ne6 15. Qd5 {With pressure against d6}) 13... Bd7 $6 {Again
+ignoring d4} (13... b6 {Reducing the effects of d4, was preferable} 14. d4 cxd4
+15. Qxd4 Ne6 16. Qd5 Ba6 17. Rad1 O-O {And now White can't take on d6} 18. b3
+Qf6 {[pgndiagram] And Black has some counterplay}) 14. Qd2 {[pgndiagram] But
+White also refrains from playing it} (14. d4 {Came into consideration,
+although Black has} Ng6 {And White can't really take the pawn} 15. dxc5 dxc5
+16. Qd6 {Is, however, unpleasant} (16. Bxc5 Nf4+)) 14... Ne6 {Removing the
+knight from attack and looking at the d4 and f4 squares} 15. b4 (15. Rhf1 {
+White could have completed his development, but than he should have reckoned
+with} Nd4 16. Bxd4 cxd4 17. Nd5 O-O {Leads to the same variation examined
+after 15...Nd4}) 15... b6 $6 (15... Nd4 {Was once again possible.} 16. Nd5 (16.
+Bxd4 cxd4 17. Nd5 O-O 18. Rhf1 {Is ok for Black, White has slightly more space,
+but it is hard to suggest a plan})) 16. Rab1 {[pgndiagram] Preparing for the
+future opening of the b-file} (16. Nd5 O-O 17. Rhf1 Bc6 18. a4 {It also made
+sense to keep the rook on the a-file and try for the a4-a5 push.} Nd4 {And
+White retains some advantage} (18... a5 {To my human mind, this move would be
+logical. However, after} 19. b5 Bb7 20. Rf2 {[pgndiagram] The queenside is
+blocked, and White can start operating on the kingside. Black has less space,
+so it is harder for him to move his pieces to the aid of his king})) 16... Bc6
+17. Rhf1 Bb7 $6 18. Kg1 Nc6 $6 {Once again delaying castling. The move seems
+sensible, exploiting the d4 square. But as it will turn out, The knight on e5
+was a good piece and the knight on d4 will be doing nothing} (18... O-O 19. Nd5
+Rc8 {And now a4-a5 plan, employed in the game, is less effective. Say} 20. a4
+Nd4 21. Bd1 Bxd5 22. cxd5 Qc7 {[pgndiagram] And White is sightly better, but
+Black is very much in the game}) 19. Nd5 Ncd4 20. Bd1 {[pgndiagram] Now Black
+has some issues. The problem is he can't take on d5, as his knight on e6 will
+get hit, and it doesn't have a good square. Compare this to a previous
+variation where the knight from e6 jumped to d4.} f6 $2 {But this is a fatal
+weakening. In the future, g5 will be deadly.} (20... O-O {For better or for
+worse, Black should have castled} 21. bxc5 dxc5 22. g5 {And White is clearly
+better, but the game is far from over}) 21. Kh2 $2 {This time, Botvinnik plays
+too cautiously} (21. g5 {Was deadly here. After} Nxg5 22. Bxg5 fxg5 23. bxc5
+dxc5 24. Ba4+ {[pgndiagram] Even more precise than the immediate Qh2} (24. Qh2
+Bxd5 25. exd5 Rf8 26. Bh5+ {Is also winning though}) 24... Bc6 25. Qh2 {And
+Black is just busted}) 21... Bc6 (21... O-O 22. g5 {Now doesn't work - Black
+has castled and can simply take} fxg5 23. Bg4 Bxd5 24. exd5 Nf4 {[pgndiagram]
+And nothing terrible for Black is apparent}) 22. a4 {Botvinnik pursues his
+plan consistently} (22. g5 {Was once again possible, although without Qh2, it
+is not as deadly} Nxg5 23. Bxg5 fxg5 24. Bg4 {And due to his king being
+uncastled, Black has issues}) 22... a5 $6 {But this only helps White - the
+b-file is added to his arsenal} (22... O-O {Was the alternative} 23. Qf2 g5 {
+And the position is ugly, but defensible}) 23. bxa5 bxa5 24. Qf2 (24. g5 $1)
+24... Ra7 $2 {A mistake, but the position was very difficult} (24... O-O {Is
+suggested by the engine as the best move, but it is understandable that Black
+didn't want to lose a pawn when he had just avoided castling for a number of
+moves}) 25. g5 $1 {[pgndiagram] Finally, Botvinnik carries out this strong
+advance} O-O $5 {The best defensive try} (25... Nxg5 26. Bxg5 fxg5 27. Bh5+
+Rxh5 28. Qf8+ {[pgndiagram] Is winning for White}) 26. g6 {White is
+threatening Qxh4 and Black has to do something} f5 $2 {A final mistake - a
+tactical oversight} (26... Be8 {Focusing on the g-pawn was the only defence.
+White's best continuation is to defend it with his queen} 27. Qg2 $1 {
+[pgndiagram] Very important but not the easiest move to find. And then he
+threatens Qg4-Qh5-Qh7. Then after} (27. Rg1 f5 {And Black has avoided the worst
+}) 27... f5 28. exf5 Rxf5 29. Rxf5 Nxf5 30. Qg4 Nfd4 31. Bxd4 Nxd4 32. Qh5 {
+Black will be forced to sacrifice a piece, but at least he could have hoped
+White won't find the accurate 27th move}) 27. Rb8 {[pgndiagram] A brilliant
+concluding stroke on the theme of diversion. Once the queen takes the rook (or
+moves anywhere, for that matter), White takes on h4 and checkmates. In my
+opinion a brilliant game, displaying Botvinnik's best characteristics -
+consistent implementation of a strategical plan followed up by a decisive
+tactical combo.} 1-0
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1963.08.13"]
+[Round "2.2"]
+[White "Mark Taimanov"]
+[Black "Mikhail Botvinnik"]
+[Result "0-1"]
+[ECO "E43"]
+[PlyCount "82"]
+[EventDate "1963.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 b6 6. Bd3 Bb7 7. O-O O-O 8. Na4
+Qe7 $5 {[pgndiagram] This whole line was prepared by Botvinnik for his match
+against Petrosian, played earlier that year} 9. a3 Ba5 10. b3 $5 {A solid,
+positional move} (10. dxc5 {After the game, Botvinnik asked Taimanov why he
+refrained from this line. Mark said he knew about the Bxf3 move, which solves
+or Black's problems} bxc5 11. Nxc5 Qxc5 12. b4 Bxf3 13. Qxf3 Qe5 $1 {
+[pgndiagram] The key - White has no advantage} 14. bxa5 (14. Qxa8 Nc6 15. Qb7
+Rb8 16. Qa6 Bc7 {And wins}) 14... Qxa1 15. Qxa8 {With at least an equal game})
+10... d5 (10... Ne4 {Is arguably preferable - the idea is to support the
+knight with an eventaul f5 and keep the diagonal open for the bishop. After}
+11. dxc5 bxc5 12. Nd2 f5 13. Nxe4 fxe4 14. Bc2 d6 {Black is probably fine}) 11.
+cxd5 exd5 12. Bb2 {[pgndiagram] Now White should have decent play against
+eventual hanging pawns} Nbd7 13. Qe2 $6 {But amazingly, this move is not the
+most precise and it relinquishes the greater part of White's advantage} (13.
+Rc1 {Was more purposeful move. The point is that after} Ne4 14. dxc5 bxc5 15.
+b4 $1 {Is now rather strong} cxb4 16. axb4 Bxb4 17. Rc7 Bc8 18. Nd4 $1 {
+[pgndiagram] With excellent compensation}) 13... Ne4 14. Rac1 Bc6 (14... Rfd8)
+(14... Rac8 {Were more normal}) 15. Nc3 (15. dxc5 $1 {Was better. After} bxc5
+16. Bb5 {White has very favourable position against the hanging pawns}) 15...
+Bxc3 $5 {[pgndiagram] I like this, somewhat counterintuitive decision by the
+Patriarch. He retains his knight on e4 and gives up the  bishop who didn't
+exert much influence on a5} 16. Bxc3 a5 {Preventing b4. White is objectively
+slightly better, but the position is somewhat double-edged} (16... Nxc3 17.
+Rxc3 {Is favourable for White as well, though}) 17. Bb2 Rfc8 18. Ne5 $5 (18. a4
+{Was sightly more cautious.} Rab8 19. Nd2 f5 20. Ba3 {With advantage to White})
+18... Bb7 (18... Nxe5 19. dxe5 a4 20. f3 Ng5 21. f4 Ne4 22. Bxe4 dxe4 23. bxa4
+Bxa4 24. f5 {[pgndiagram] Is actually good for White - the pawn duo is
+dangerous, and it is well known that opposite coloured bishops give some
+chances to the attacker}) 19. Rfd1 Ndf6 20. f3 Nd6 21. a4 {[pgndiagram] So far,
+Taimanov plays excellently and is actually outplaying the great Botvinnik.
+White has two bishops and controls the position.} Rc7 22. Rc2 (22. dxc5 {
+Finally erecting to create the hanging pawns and intending to pressure them,
+was better}) 22... Nfe8 23. Rdc1 $2 {But this is a tactical mistake, which
+allows Black to completely turn the tables.} (23. dxc5 $5 bxc5) (23. Qe1 {
+creating a retreat path for the bishop, was also better} f6 24. dxc5 bxc5 25.
+Ng4 c4 26. bxc4 dxc4 27. Bf1 {And White is better}) 23... f6 $1 24. Ng4 c4 $1 {
+[pgndiagram] Now Black completely seizes the initiative} 25. bxc4 dxc4 26. Be4
+$2 {From frying pan to fire. Taimanov panicks and decides to give up a clear
+pawn. The problem is that Black will still have a strong attack} (26. Rxc4 {
+Was the best solution. After} Nxc4 27. Bxc4+ Kh8 28. Rb1 {White IS down an
+exchange, but he is not lost}) (26. Bxc4+ {Was not good} Rxc4 27. Rxc4 Ba6 {
+And wins}) 26... Nxe4 27. fxe4 Qxe4 {[pgndiagram] Now Black has everything -
+strong attack, extra pawn, etc} 28. Rxc4 $2 {But this just blunders a piece} (
+28. h3 {Was the only way of meeting the threat of h5} Rac8 29. Rc3 {But White
+is technically lost all the same}) 28... Rxc4 29. Qxc4+ Bd5 {Probably missed
+by taimanov} 30. Qe2 h5 {[pgndiagram] The point - the knight can't go to f2
+because of the mate on g2.} 31. Ne5 fxe5 32. dxe5 {The game is basically over
+and the rest doesn't require further commentary} h4 33. h3 Qxa4 34. Bd4 Qd7 35.
+Qh5 b5 36. Rf1 Nc7 37. Rf4 Bf7 38. Qf3 Bd5 39. Qh5 Qe8 40. Qxh4 Ne6 41. Rf5 Qg6
+0-1
+
+[Event "Amsterdam IBM"]
+[Site "Amsterdam NED"]
+[Date "1966.07.??"]
+[Round "8"]
+[White "Mikhail Botvinnik"]
+[Black "Karl Robatsch"]
+[Result "1-0"]
+[ECO "D36"]
+[PlyCount "53"]
+[EventDate "1966.??.??"]
+
+1. c4 {Once again, we have Botvinnik's favourite move} Nf6 2. Nc3 e6 3. d4 d5
+4. cxd5 {Botvinnik was a great master of the Karlsbad structure and scored a
+number of memorable victories in it.} exd5 (4... Nxd5 {Is today arguably even
+more topical. In the Candidates Tournament 2018, this move was almost
+exclusively played.}) 5. Bg5 c6 6. e3 Be7 7. Qc2 O-O 8. Bd3 Nbd7 9. Nf3 (9.
+Nge2 {Is the main alternative.}) 9... Re8 10. O-O Nf8 11. Rae1 (11. h3 {Is
+maybe more precise} g6 12. Ne5 Ne6 13. f4 Ng7 14. g4 {With dangerous initaitive
+}) 11... Ne4 {[pgndiagram] A typical move, forcing the exchange of the dark
+squared bishop} (11... h6 {Is the main alternative} 12. Bh4 Ne4 13. Bxe7 Qxe7
+14. Bxe4 dxe4 15. Nd2 f5 {And it is hard to say whether h6 was useful or not}
+16. f3) (11... g6 {With the typical idea Ne6-Ng7-Bf5 is probably also playable}
+12. h3 (12. Ne5 Ne6 13. f4 Ng7 {And now g4 is not immediately possible and
+Black has equalized}) 12... Ne6 13. Bh4 Ng7 14. Bg3 Bf5) 12. Bxe7 (12. Bf4 Bf5)
+12... Qxe7 13. Bxe4 dxe4 14. Nd2 b6 {[pgndiagram] Black threatens Ba6, winnin
+the exchange} (14... f5 15. f3 exf3 16. Nxf3 {Is slightly better for White})
+15. Qa4 {Preventing Ba6} (15. Qxe4 {Was possible though} Qxe4 16. Ncxe4 $1 {
+This knight} Ba6 17. Nd6 Red8 18. N6c4 {And Black's compensation is dubious})
+15... f5 16. f3 $1 {[pgndiagram] Strong play from Botvinnik. This move breaks
+the Black pawn duo and prepares to follow it up with Ne5 and e4} (16. Qxc6 Ba6
+{Is of course, unfavourable}) 16... exf3 17. Nxf3 Bb7 $6 {[pgndiagram] The
+first move which could be condemned as a mistake} (17... Qd6 {Perhaps it was
+better to retain the bishop on the c8-e6 diagonal} 18. Ne5 b5 19. Qc2 Ng6 {
+With some advantage to White}) 18. Ne5 Qe6 (18... b5 19. Qb3+ {Is now
+problematic for Black}) 19. Qc2 {[pgndiagram] Attacking the f5 pawn and
+demonstrating the drawbacks of 17... Bb7} Bc8 (19... c5 {Was nevertheless a
+better try. I am pretty certain some modern grandmasters would just leave f5
+in hope of creating some counterplay} 20. Rxf5 $1 (20. Qxf5 Qxf5 21. Rxf5 Ng6 {
+Is suddenly unpleasant for White}) 20... cxd4 21. exd4 Nd7 {[pgndiagram] And
+although White is clearly better, it is definitely not easy - Black's pieces
+spring to life}) 20. e4 $1 {Once again we see this iron consistency from
+Botvinnik and a perfect implementation of the plan} Qd6 (20... fxe4 {Would be
+horrible - another knight joins the game, for instance} 21. Nxe4 Qd5 22. Kh1
+Ba6 (22... Qxd4 23. Nxc6) 23. Rf4 c5 24. Rg4 Kh8 25. Qf2 {[pgndiagram] With
+devastating attack}) 21. Rd1 Ne6 $2 {Another mistake - the pin on the knight
+will be very uncomfortable and the communication with the f5 pawn is broken} (
+21... Ng6 {For better or for worse, this should have been played} 22. exf5 Nxe5
+23. Ne4 $1 Nf3+ (23... Qc7 24. dxe5 Qxe5 25. Nd6) 24. Rxf3 Qd5 25. Nc3 {With
+definite advantage for White, but it is not yet over}) 22. Qb3 $1 {This is
+very unpleasant for Black} fxe4 23. Rf7 $1 {[pgndiagram] The best move of the
+game in my opinion, preparing a deadly threat} a5 $2 {Which Black completely
+misses} (23... e3 24. Ne4 Qd5 {Would have prevented combination, because after}
+25. Qxe3 (25. Rxg7+ Kxg7 {The queen can't go to g3}) 25... Rf8 {Black is at
+least not immediately lost}) 24. Nxe4 $1 {[pgndiagram] And here Robatsch
+resigned, because after} Qd8 (24... Qd5 {Is no better} 25. Rxg7+ Kxg7 26. Qg3+
+Kf8 27. Rf1+ Ke7 28. Qh4+ {Black gets checkmated}) 25. Rxg7+ Kxg7 26. Qg3+ Ng5
+27. Nxg5 {[pgndiagram] He is bound to get checkmated. Another below-30 move
+crush by Botvinnik in a seemingly strategical position. There is so much to
+learn from his games!} 1-0
+
+[Event "Noteboom Memorial"]
+[Site "Noordwijk NED"]
+[Date "1965.02.21"]
+[Round "1"]
+[White "Mikhail Botvinnik"]
+[Black "Bent Larsen"]
+[Result "1-0"]
+[ECO "D36"]
+[PlyCount "103"]
+[EventDate "1965.02.21"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Qc2 O-O 8. Bd3
+Nbd7 {Once again, the same variation as in the previous game against Robatsch.}
+9. Nge2 {This time Botvinnik chooses the second most popular move. White's
+idea in this variation is to prepare the quick f3-e4 advance in the center.
+Black will try to counter it with c5 and a subsequent queenside expansion.} h6
+{A good move, forcing the Bishop's hand} 10. Bh4 (10. Bf4 Nh5) 10... Re8 11. f3
+{[pgndiagram] Preparing the advance in the center} c5 {Countering it
+immediately. Now it is not so easy for White to advance in the center - he
+needs to secure stability of the d4 point first} 12. O-O a6 13. Rad1 b5 14. Bf2
+{This is strictly speaking all theory, but somehow the engine doesn't approve
+of this decision} (14. dxc5 {The computer suggests White should react to the
+queenside expansion and alter the pawn structure. After} Bxc5 15. Nd4 Qb6 (
+15... Rxe3 {Is countered by the incredible} 16. Nxd5 Bxd4 (16... g5 17. Nxe3
+Bxd4 18. Bf2) 17. Bh7+ Nxh7 18. Rxd4 {[pgndiagram] And Black has grave
+difficulties}) 16. Bf2 {With double-edged play}) 14... c4 {Now Black gains
+some tempi on the queenside and develops the initative} 15. Bf5 Nb6 (15... b4 {
+Was possible immediately. After} 16. Na4 Nb6 17. Bxc8 Rxc8 18. Nxb6 Qxb6 19. e4
+dxe4 20. fxe4 {[pgndiagram] Black's queenside pawn majority is no less
+dangerous than White's central pawns}) 16. Ng3 (16. a3 $5) 16... Bf8 $6 (16...
+b4 17. Nce2) (16... Bxf5 $1 {Might have been the best - Black prevents e4} 17.
+Nxf5 b4 18. Nxe7+ Qxe7 19. Na4 Nxa4 20. Qxa4 Qb7 {[pgndiagram] And Black is
+probably better}) 17. a3 Bb7 (17... Bxf5 {Now was the last chance for this move
+}) (17... h5 {Is also quite typical idea when the knight is on g3}) 18. e4 $1
+g6 19. Bh3 a5 {[pgndiagram] Larsen is consistent in a way, but sometimes
+countering the opponent's plan is even more important} (19... Nh7 {Exploiting
+the position of the bishop and removing the knight from the tempo-gaining e5
+was probably the best move here. After} 20. e5 Ng5 21. f4 Nxh3+ 22. gxh3 f5 {
+White can probably continue with} 23. h4 h5 (23... Qxh4 {Might be safer} 24.
+Nxf5 Qg4+ 25. Ng3 Bc8 26. h3 Bf5 $5) 24. Nxf5 gxf5 25. Qxf5 {With dangerous
+initiative.}) 20. e5 $1 {[pgndiagram] Now Botvinnik carries out his favourite
+central advance} (20. Nxb5 {Is not good here} dxe4 21. fxe4 Nxe4) 20... b4 (
+20... Nh7 21. f4 {Is just crushing}) 21. Nce2 (21. axb4 {Would be obviously
+bad - why open the a-file}) 21... Nh7 22. f4 $1 {[pgndiagram] Very strong and
+consistent} Bc6 (22... bxa3 {Black can win a pawn, but after} 23. bxa3 Bxa3 24.
+f5 g5 25. f6 {[pgndiagram] He has too many problems on the other side of the
+board for the pawn to make a difference.}) 23. Ra1 $1 {To my mind, this and
+the following move are the best moves of the game, demonstrating Botvinnik's
+deep understanding of the position. White avoids the Ba4 threat and moves his
+rook to a1(!) in anticipation of the opening of the a-file} Ba4 24. Qb1 $1 {
+Another brilliant strategical move. The queen is maintained on the b1-h7
+diagonal, keeping the f5 square under control} f5 $6 {Black wants to prevent
+f5 in radical fashion, but this plays in White's hands} (24... c3 25. bxc3 b3
+26. f5 g5 27. f6 Nc4 {Was more prudent, with a double-edged position}) 25. axb4
+axb4 26. Nxf5 $1 {[pgndiagram] A familiar pattern - after outplaying his
+opponent, Botvinnik resorts to tactical measures to crown his strategy.} gxf5
+27. Bxf5 Qe7 28. Ng3 {[pgndiagram] Bringing up the reserves, but there were
+better continuations available} (28. Bg6 Red8 (28... Bb5 {Is sightly more
+resillient, but after} 29. Bxe8 Qxe8 30. Rxa8 Nxa8 31. f5 {White is cose to
+winning all the same}) 29. f5 {Was simply devastating}) 28... Bd7 (28... Bb5 {
+Was apparently stronger. After} 29. Qc2 Kh8 30. Bg6 b3 31. Qe2 Na4 {The game
+virtually starts anew}) 29. Bxd7 Nxd7 (29... Qxd7 30. Qg6+ {Drops the knight
+on b6}) 30. Qg6+ {[pgndiagram] Now White has strong compensation for the piece}
+Qg7 31. Qc6 Rxa1 32. Rxa1 Qf7 33. Ra7 Nxe5 $2 {In a difficult position, Larsen
+cracks under the tension and commits a final blunder} (33... Nb8 {Was the only
+way of continuing. Then after} 34. Qa4 Qe6 35. f5 Qc6 36. Qd1 {White has the
+advanatage, but there is still a lot of play in the position}) 34. dxe5 Qe6 (
+34... Qxa7 {[pgndiagram] Larsen missed the rook is defended?} 35. Bxa7) 35.
+Qxe6+ Rxe6 36. Nf5 {[pgndiagram] The rest is the matter of technique} Rc6 37.
+Kf1 c3 38. bxc3 bxc3 39. Be3 Bc5 40. Bxc5 Rxc5 41. Ra1 Nf8 42. Ke2 Ne6 43. g3
+h5 44. Kd3 d4 45. Nd6 Rc7 46. Ne4 Kh7 47. f5 Nd8 48. Nf6+ Kh6 49. Nd5 Rb7 50.
+e6 Nc6 51. Ra6 Ne5+ 52. Kxd4 {[pgndiagram] A brilliant game. Even top
+grandmaster like Larsen could not compete against Botvinnik in clear,
+strategical positions. Botvinnik's deep strategical idea of Ra1 and Qb1
+deserves a lot of praise!} 1-0
+

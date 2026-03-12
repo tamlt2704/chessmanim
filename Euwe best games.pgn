@@ -1,0 +1,753 @@
+[Event "Venice"]
+[Site "Venice ITA"]
+[Date "1948.10.??"]
+[Round "5"]
+[White "Savielly Tartakower"]
+[Black "Max Euwe"]
+[Result "0-1"]
+[ECO "C53"]
+[PlyCount "84"]
+[EventDate "1948.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 {In the 1950s, Evan's Gambit was not at
+the height of the fashion} Bb6 $5 {[pgndiagram] A very rare move, pre-empting
+the d4-stroke} (4... Nf6 {Is by far the main move}) 5. d4 Qe7 $6 {And this is
+objectively dubious. Black takes the e7 square from the knight} (5... d6 $2 {
+Is just bad} 6. dxe5 dxe5 7. Qxd8+ Nxd8 8. Nxe5) (5... exd4 6. cxd4 d6 {Is
+probably more sensible, although here White has to be better}) 6. O-O (6. d5 {
+Simply gaining space and lead in development is probably healthy enough, also.
+But there is nothing wrong with the text move} Nb8 7. a4) 6... d6 7. h3 Nf6 8.
+Re1 {[pgndiagram] In the end we have transposed in standard Italian Game,
+although the queen on e7 does stand a little strange} (8. a4 $5 {Is also
+playable} a5) 8... O-O 9. Na3 {Once again, it made sense to include a4 before
+developing the knight} (9. a4 a5 10. Na3 {And at least White has won the b5
+square}) (9. d5 Nb8 10. a4 a5 11. Na3 {Was also possible}) 9... Nd8 $6 {A
+rather artificial move} (9... h6 {Would ask White what he intends to play next}
+) (9... exd4 10. cxd4 Nxe4 11. Bd5 {Is bad for Black} Bf5 12. Bg5 Qe8 13. Nc4 {
+With tremendous initiative}) 10. Bf1 $2 {[pgndiagram] Also rather passive. You
+can sense that back in the day precision in the opening wasn't as important as
+it is today} (10. Bb3) (10. Bd3 {Are both better alternatives}) 10... Ne8 $2 {
+But this is also very bad and passive} (10... exd4 {Was better} 11. Nxd4 (11.
+cxd4 Nxe4 {Was now possible}) 11... Re8 12. Nc4 Bd7 {With slightly inferior
+position}) 11. Nc4 {[pgndiagram] Now the pressure on the e5 square is very
+unpleasant} f6 (11... exd4 12. cxd4 {And it is hard to suggest a move for Black
+}) (11... Nc6 12. a4 a5 13. Nxb6 cxb6 14. d5 Nb8 15. Nd2 {[pgndiagram] Is also
+terrible for Black, he is objectively strategically lost}) 12. a4 c6 13. Nxb6
+axb6 14. Qb3+ Ne6 15. Qxb6 {[pgndiagram] Now White has won a pawn and should
+be technically winning} g5 {Euwe launches a desperate counterattack} 16. Bc4 h6
+17. h4 {With hindsight, it might have been better to play somewhat safer} (17.
+Be3 {Simply developing and waiting to see how Black will respond}) 17... Kh7
+18. hxg5 hxg5 19. dxe5 $2 {This opening of the position should have been
+avoided} (19. g3 {Would have been better, because Black wouldn't have anything
+better than perpetual later in the line} Rh8 20. Kg2 Kg6 21. Bd2 Nf4+ 22. gxf4
+Bh3+ 23. Kg1 exf4 24. e5 {[pgndiagram] The point that saves White} Bg4 25. Bd3+
+f5 26. Kg2 Bh3+ 27. Kg1 Bg4 {With perpetual}) (19. a5 {Just improving the
+pieces and not moving the pawns in front of the king, was probably the best})
+19... dxe5 20. Be3 Rh8 {[pgndiagram] Now Black has some ideas down the h-file,
+combined with Nf4 tricks} 21. g3 Kg6 22. Kg2 $2 {Permitting Black a very
+unpleasant sacrifice} (22. Bf1 {Was objectively wiser and White is still much
+better}) 22... Nf4+ $3 {[pgndiagram] An excellent shot, creating big problems
+for the opponent} 23. gxf4 $2 {And, as usual, the acceptance of the sacrifice
+is faulty} (23. Bxf4 {Was better} Bh3+ (23... Nd6 {Is amazing computer move
+which I will merely mention but won't analyze further; apparently it is enough
+for equality} 24. Qb4 {The best reply} (24. Bc1 Nxc4 25. Qb4 Qh7 {And wins})
+24... Bh3+ 25. Kg1 gxf4 26. Rad1 Rad8 {And White's extra pawn is suddenly
+meaningless}) 24. Kg1 gxf4 25. Rad1 {And the consequences are not as terrible
+as in the game}) 23... Bh3+ 24. Kg3 $2 {[pgndiagram] From frying pan to fire.
+But the alternative was also gloomy} (24. Kg1 gxf4 {Is now very unpleasant;
+probably even won for Black. White doesn't have time to preserve the bishop -
+the queen is coming to h7} 25. Bd2 (25. Nh2 {Is the only chance, but is also
+not very joyful} Qh7 (25... Nd6 {Might be even stronger, once again}) 26. Bxf4
+exf4 27. f3 Nd6 28. Bd3 Bg2 29. Kxg2 Qh3+ 30. Kg1 Qg3+ 31. Kf1 Rxh2 32. Qg1 {
+[pgndiagram] And Black has to win this}) 25... Qh7 {And there is no defence})
+24... exf4+ 25. Bxf4 Qd7 $3 {[pgndiagram] Very strong play by Euwe. This
+far-from-obvious penetration by Black queen is decisive} 26. Nh2 gxf4+ 27. Kxf4
+Rh4+ (27... Bg2 {[pgndiagram] Was even better}) 28. Ke3 Bg2 29. Nf3 {
+[pgndiagram] Now comes a brilliant finish} (29. f3 {Is the computer reply, but
+why give up a piece?} Rxh2 30. Re2 Nd6 31. Bd3 {And it is not that hard to
+find correct winning method for Black} Kf7 $1 {[pgndiagram] The idea is to
+defend the bishop with Rg8} 32. Rg1 Rg8 33. Qd4 Rg5 {And Black should be able
+to unravel slowly}) 29... Rxe4+ $3 {[pgndiagram] Very pretty conclusion to the
+game by Euwe} 30. Kxe4 Nd6+ 31. Kd3 {There is no choice} (31. Ke3 Nxc4+) (31.
+Kf4 Qf5+) 31... Qf5+ 32. Kd4 (32. Kd2 Nxc4+) 32... Qf4+ {[pgndiagram]} (32...
+Qxf3 {Was even stronger, with deadly threats, but for a human it is easier to
+give a check}) 33. Kd3 Qxc4+ 34. Kc2 Bxf3 {And now BLack is technically winning
+} 35. b3 Be4+ 36. Kb2 Qd3 37. Rg1+ Kf7 38. Rac1 $2 {[pgndiagram] But this
+mistake lets Black end the game immediately} (38. Rgc1 {Was necessary, when
+game still continues}) 38... Qd2+ 39. Ka3 Nc4+ $3 {A very nice finishing
+combination} 40. bxc4 Rxa4+ 41. Kxa4 Qa2+ 42. Kb4 Qb2+ {[pgndiagram] And White
+loses his queen after Kc5 Qxf2, so he resigned. A rather uneven game,
+demonstrating the poor state of opening play and theory at those time, but
+also Euwe's amazing tactical aptitude and creativity.} 0-1
+
+[Event "Zurich Candidates"]
+[Site "Zurich SUI"]
+[Date "1953.08.31"]
+[Round "2"]
+[White "Efim Geller"]
+[Black "Max Euwe"]
+[Result "0-1"]
+[ECO "E28"]
+[PlyCount "52"]
+[EventDate "1953.08.30"]
+
+{Kasparov's comments taken from [My Great Predecessors Part Two]} 1. d4 Nf6 2.
+c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 Bxc3+ 6. bxc3 {[pgndiagram] The Sämisch
+Variation, the most aggresive variation against the Nimzo-Indian defence, was
+at the height of popularity during the Zürich Candidates tournament} b6 $5 {A
+rather rare variation} (6... O-O 7. Bd3 Nc6 8. Ne2 d6 {Was, and is, more common
+}) 7. Bd3 Bb7 {The downside of this move is that Black usually plays Ba6 at
+one point or another (pressuring c4) and here he loses a tempo for that} 8. f3
+{[pgndiagram] The subtlety of the move order. White now has to spend a tempo
+on f3, preparing e4} (8. Nf3 {Is playable though} O-O 9. O-O d6 10. Nd2 {When
+e4 follows all the same}) 8... Nc6 9. Ne2 O-O 10. O-O Na5 11. e4 Ne8 {
+"Capablanca's prophylactic manoeuvre. The inclusion of the moves f2-f3 and ...
+Bb7 is definitely to the advantage of Black, since he can quickly begin a
+siege of the c4-pawn, whereas for White it is more difficult to attack on the
+kingside, since his queen is cut off from the g4 and h5 squares - Taimanov" -
+Kasparov} (11... d6 {Would allow the unpleasant pin} 12. Bg5 h6 13. Bh4 {And
+it is not advisable for Black to get rid of the pin by} g5 14. Bg3 Nh5 15. f4
+$1 {[pgndiagram] And White may gain a strong attack} Nxg3 (15... Qe7 {Is
+probably wiser}) 16. Nxg3 cxd4 17. cxd4 {And White has a tremendous initiative}
+) 12. Ng3 {[pgndiagram] A logical move, pursuing the plan of kingside attack.
+"Black withdrew his knight, in order to prevent the pin Bg5 and to answer
+f3-f4 with f7-f5, blocking the kingside. Therefore, before advancing his
+f-pawn, White takes control of the f5-square (Bronstein)" - Kasparov} (12. Qa4
+{Is computer's choice, although it is not clear to me what attracts it about
+this move} Rc8 {Another Samisch move, pressuring the c5 pawn} 13. dxc5 Rxc5 14.
+Be3 Rc8 15. Rfd1 d6 16. Nd4 {[pgndiagram] The engine claims White is OK here,
+but in practical game I would much rather be Black; those doubled c pawns are
+rather ugly}) 12... cxd4 (12... Ba6 {Mounting pressure on c4, was more
+consistent}) 13. cxd4 Rc8 14. f4 $6 {[pgndiagram] Objectively, overstepping
+the mark, but Geller wasn't interested in a draw} (14. c5 {"It is far quitere
+to play this move"} bxc5 15. dxc5 Rxc5 16. Be3 {And then Bxa7.}) 14... Nxc4 15.
+f5 f6 (15... b5 {Is also interesting, with Qb6 idea} 16. e5 Qb6 17. Kh1 f6 $1 {
+[pgndiagram] And White has trouble in continuing his attack}) 16. Rf4 $6 {"A
+seemingly logical continuation of the attack: the rook is aiming for h4." -
+Kasparov} (16. a4 {Preventing b5 was better nevertheless} e5 17. Bxc4+ Rxc4 18.
+dxe5 fxe5 19. Qb3 {[pgndiagram] With compensation for the pawn}) {At first
+sight, White's initiative more than compensates for the sacrificed pawn.
+Bronstein writes that he 'needs only two moves to switch his queen and rook to
+the h-file, after which it would appear that nothing will save the king. How
+can the battery of the Rh4 and Qh5 be prevented? Is it possible that Black's
+deep strategy was incorrect?!" - Kasparov} 16... b5 $3 {[pgndiagram]"The start
+of a remarkable counterattacking plan, the basis of which is Black's advantage
+on the central squares' - Bronstein. " Such moves are more beautiful than any
+sacrifices! A path is simply opened for the queen to b6, and the weakness of
+White's 4-pawn and of the g1-a7 diagonal immediately makes itself felt." -
+Kasparov} (16... e5 $6 17. Rh4 exd4 18. Qh5 Ne5 19. Qxh7+ Kf7 {[pgndiagram]
+And Black has to be prepared for the worst - Euwe. But nothing decisive is
+apparent for White in any case. Still, the game move is far stronger}) 17. Rh4
+Qb6 $1 {Tying the queen to the pawn} 18. e5 $5 {A very interesting chance in a
+difficult position} Nxe5 $2 {[pgndiagram] This move is not highlighted by
+Kasparov, but it would appear it lets White back in the game} (18... h6 $1 {
+This cold blooded machine reply is apparently much stronger. The point is that
+White doesn't take h7 by force, but h6} 19. Bxh6 Nxe5 {And Black is close to
+winning} (19... gxh6 {Is of course, much worse} 20. Qh5 Nxe5 21. Qxh6 Kf7 22.
+Qh7+ Ng7 23. fxe6+ dxe6 24. Nh5 {With strong attack})) 19. fxe6 Nxd3 20. Qxd3
+Qxe6 21. Qxh7+ {[pgndiagram] "And so, for a small price, White has
+neverrhteless broken through. Black's position appears critical (Bronstein)."
+- Kasparov} Kf7 22. Bh6 Rh8 $3 {[pgndiagram] The bolt from the blue, and the
+most surprising move of the game - a defensive attacking sacrifice whose point
+is diverting the white queen.   Objectively, there were other defensive moves
+available, but this sacrifice sets White concrete problems that such a strong
+player like Geller is unable to solve. The surprise value of the move is much
+more important than its objective value sometimes.} (22... b4 $5 {Was
+complicated, with the idea of} 23. axb4 (23. Rf1 {Is what Geller would have to
+find} b3 24. Nf5 {And Black should probably force a draw with} Qe2 25. Rf2 Qe1+
+26. Rf1 Qe2) 23... Rh8 24. Qxh8 Rc2 25. d5 {And now d5 leads nowhere} Bxd5 26.
+Rd1 Rxg2+ 27. Kf1 Qa6+ {[pgndiagram] The point of 22... b4 - clearance. Black
+wins}) (22... Qd5 23. Re4 Rc6 $1 {With the idea of Re6, is in Black's favour}
+24. Rae1 Re6 25. R4e2 Rxe2 26. Rxe2 Qxd4+ {[pgndiagram]} 27. Be3 Qa1+ 28. Kf2
+Nd6 {And White can probably survive, but I think that Black is the one playing
+for the win}) 23. Qxh8 Rc2 24. Rc1 $4 {[pgndiagram] Geller cracks under the
+tension and commits a decisive mistake} (24. d5 {Was the only move} Bxd5 (24...
+Qxd5 25. Re4 {Is bad for Black}) 25. Rd1 {Attacking the bishop on d5} Rxg2+ 26.
+Kf1 Ra2 27. Bd2 Bc4+ 28. Kf2 Qb6+ {[pgndiagram] Etc. White can survive here,
+although it is not easy to find all that over the board. Kasparov spends two
+pages on the analysis of the continuation after 24 d5 and the objective
+evaluation is equality. But that is with the help of the engines..}) 24...
+Rxg2+ 25. Kf1 Qb3 26. Ke1 Qf3 {[pgndiagram] A beautiful game, my personal
+favourite of Euwe's. Another display of his strength in tactical positions} 0-1
+
+[Event "Alekhine - Euwe World Championship Matc"]
+[Site "Various Locations NED"]
+[Date "1935.12.03"]
+[Round "26"]
+[White "Max Euwe"]
+[Black "Alexander Alekhine"]
+[Result "1-0"]
+[ECO "A90"]
+[PlyCount "93"]
+[EventDate "1935.??.??"]
+
+1. d4 e6 2. c4 f5 {You might recall that Alekhine was very fond of playing
+this defence and that he scored some memorable victories with it, most notably
+the one against Bogoljubow in Hastings, 1922} 3. g3 Bb4+ 4. Bd2 Be7 {On this
+occasion, Alekhine retreats the bishop. This idea is common - the assumption
+is that the bishop on d2 doesn't stand ideally, so Black's spent tempo is
+justified, as White will also have to spend a move in redeploying the bishop}
+5. Bg2 Nf6 6. Nc3 O-O 7. Nf3 Ne4 {Kasparov is critical of this move, but I
+think it is playable (yes,yes I know, it is me against the GOAT - but it is
+what it is).   "A rather strange interpretation of the Dutch. In my view it is
+better to erect the 'stonewall' by 7...d5; in that case the luring of the
+bishop to d2 looks more justified. However, in the stonewall, Black is always
+slightly worse.."} 8. O-O {[pgndiagram] Everything up to this point has been
+pretty much standard Dutch play.} b6 $6 {But this move is really debatable. It
+is a novelty, but one of not the highest quality} (8... d6 {With this move
+Black would have transposed in one of the variations of the Classical Dutch}) (
+8... Bf6 {Was played previously in the match}) (8... d5 {Also has more point})
+9. Qc2 $6 {In Kasparov's opinion, a delay. This timid move relinquishes an
+opportunity that was presented to White by Black's previous move} (9. Nxe4 {Is
+very strong} fxe4 10. Ne5 Bb7 (10... d6 {Doesn't work} 11. Bxe4 dxe5 12. Bxa8
+c6 13. d5 (13. dxe5 {Is probably even stronger})) 11. Qc2 d5 (11... d6 12. Bxe4
+{Is once again winning for White}) 12. Bh3 {With clear initiative}) (9. d5 {"
+In addition, 9 d5!?, by present-day norms a standard breakthrough, suggests
+itself. After all, this position is one of the tabiyas of the Queen's Indian
+Defence with an extra tempo for White. It is clear that the extra tempo
+increases White's advantage, since his opponent has still to complete jis
+development. " - Kasparov}) 9... Bb7 10. Ne5 (10. d5 {Came into consideration
+once again}) 10... Nxc3 11. Bxc3 Bxg2 12. Kxg2 {[pgndiagram] White still has
+some advantage, but it is much less significant than it could have been on
+move 9} Qc8 13. d5 $6 {Increasing the scope of the bishop somewhat, but this
+move allows Black to complete his development and gain a compact pawn chain} (
+13. Nd3 c5 14. dxc5 bxc5 15. Rad1 {Keeping the d-file open, was more
+interesting}) (13. Rad1 {Waiting for d6, was probably even better} d6 14. Nd3
+c5 15. dxc5 bxc5) (13. e4 {Blasting the position open, was also interesting})
+13... d6 14. Nd3 e5 15. Kh1 $6 {[pgndiagram] " An amusing semi-waiting move,
+which does not affect the evaluation of the position. Euwe thought that the
+move f2-f2 would not run away; these were the first steps in the theory of
+Queen's Indian set-ups, and no one yet knew exactly which piece to play where."
+} (15. f4 $6 e4 16. Nf2 Nd7 {Gives White nothing special}) (15. f3 {Intending
+e4, is probably better}) 15... c6 16. Qb3 Kh8 {It is hard to evaluate the
+consequences of this or that move in the position} (16... cxd5 {Fixing the
+structure would be interesting were it not for} 17. c5 $1 Qe6 18. cxb6 axb6 19.
+Nb4 {And White has the edge}) (16... Na6 {Might be the best, simply trying to
+bring the knight to c5} 17. c5 Nxc5 18. Nxc5 bxc5 19. dxc6+ Kh8 20. Qd5 a5 {
+[pgndiagram] And the position is unclear}) 17. f4 {Now this move is favourable
+for White - d5 and c6 are weak} e4 18. Nb4 c5 $1 {Black has to prevent knight
+coming to d5 even at the cost of this ugly move. But now White has the
+initiative on the kingside} 19. Nc2 Nd7 20. Ne3 Bf6 $6 {Provoking White into
+making a highly promising knight sacrifice} (20... Qe8 {Was perfectly playable.
+White has some initiative, but nothing terrible for Black is apparent}) 21.
+Nxf5 $1 {[pgndiagram] " A sound combination which gives White a decisive
+advantage. One can hardly call this move a sacrifice, as White obtains
+adequate material (three pawns) for the piece." - Euwe    This move was rated
+very highly. I agree: one has to give credit to Euwe's courage! At this
+turning point of the match he played like Alekhine - he boldly launched his
+knight at the enemy fortifications, sharply disrupting the quiet course of the
+game. And although objectively there was little risk of White losing, for the
+time being there is also no 'decisive advantage'. Instead, a very complicated
+and highly unclear position arises.} Bxc3 22. Nxd6 Qb8 23. Nxe4 Bf6 24. Nd2 $1
+{Preparing e2-e4-e5} g5 $1 {[pgndiagram] Without a doubt the best counter-
+chance. Black must attempt to obtain a kingside attack, else the center pawns
+will advance irresistibly. - Euwe} 25. e4 gxf4 26. gxf4 Bd4 27. e5 Qe8 28. e6
+Rg8 $1 {The best move in the position, trying to create some counter chances} (
+28... Nf6 29. Nf3 {Is just depressive for Black} Qg6 30. f5 Qh6 31. Nxd4 cxd4
+32. d6 {When pawn phalanx decides}) 29. Nf3 {[pgndiagram]} (29. exd7 Qe2 {Is
+of course terrible for White}) (29. Qd3 {Is indicated by the engine as clearly
+better and we should probably stop here and believe it}) 29... Qg6 30. Rg1 $1 {
+After a piece, White sacrifices a rook. Very creative play, although
+objectively, White's advantage shouldn't be decisive} Bxg1 31. Rxg1 Qf6 {
+[pgndiagram] Kasparov claims this is the decisive mistake, but I am not that
+convinced. It is true that 31.. Qf5 is more clear immediately, but the text
+move doesn't lose yet} (31... Qf5 32. exd7 (32. Ng5 {Is now no good due to} h6
+33. Qc3+ Nf6) 32... Rxg1+ 33. Kxg1 Qxf4 34. Qc3+ Kg8 35. Ne5 {[pgndiagram] And
+the outcome is unclear}) 32. Ng5 Rg7 $2 {In my opinion, only this is the
+decisive mistake of the game} (32... Rg6 {Would keep Black in the game - Rook
+would cover f6} 33. exd7 Qxf4 34. Qc3+ Kg8 {[pgndiagram]And suddenly White has
+to find a way to save himself}) 33. exd7 Rxd7 (33... Qxf4 {Is now bad due to a
+pin} 34. Qc3 {And Black is helpless} Kg8 35. Qxg7+ {[pgndiagram]}) 34. Qe3 Re7
+35. Ne6 Rf8 (35... Qxb2 {Was of no help} 36. d6 Rd7 37. Ng5 Rf8 38. Qe5+ Qxe5
+39. fxe5 {[pgndiagram] And the pawns decide the game}) 36. Qe5 {Leading to a
+won ending for White, but there are still some finer points} (36. Qg3 {Not
+hurrying with queen exchange, was simpler}) 36... Qxe5 37. fxe5 Rf5 $2 {
+[pgndiagram] Missing the last chance to complicate the play} (37... Rxe6 38.
+dxe6 Rf5 39. Re1 Kg8 {And the rook and the pawn endgame is very difficult for
+White. He should be winning though, but considerable precision would have been
+required}) 38. Re1 h6 $2 {And this is decisive mistake of the game} (38... Rxe6
+{Would still return the exchange and revert to previous variation}) (38... Kg8
+39. b3 h6 40. h3 a5 41. Kh2 {Would enable Black to resist as well, although
+sooner or later he would have to sac the exchange as well}) 39. Nd8 $1 {
+[pgndiagram] Now the game is over - the threat of the fork of f7 allows White
+to push his pawns forwards and there is nothing Black can do} Rf2 40. e6 Rd2
+41. Nc6 Re8 42. e7 b5 43. Nd8 Kg7 44. Nb7 Kf6 45. Re6+ Kg5 46. Nd6 Rxe7 47.
+Ne4+ {[pgndiagram] A beautiful game, one of the hidden gems of the 20th
+century. It was not nicknamed 'The Pearl of Zandvoort' for no reason (after
+the place where it was played).} 1-0
+
+[Event "Euwe - Fischer m"]
+[Site "New York, NY USA"]
+[Date "1957.03.09"]
+[Round "1"]
+[White "Max Euwe"]
+[Black "Robert James Fischer"]
+[Result "1-0"]
+[ECO "E30"]
+[PlyCount "39"]
+[EventDate "1957.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 {As far as I know, Fischer prefered set-ups with
+g6 in his career, and was adept at both King's Indian and Grünfeld with Black.
+But I guess in his youth he played more classically.} 4. cxd5 exd5 5. Bg5 {
+[pgndiagram] The Carlsbad structure. According to Kasparov, any self
+respectable player should be able to handle this pawn structure with decent
+understanding at leasat} Bb4 {Due to the move order, Black has gained the
+possibility to decide where he wants to put his dark squared bishop. By
+employing it to b4, Fischer transposes to the Ragozin defence.} 6. e3 h6 7. Bh4
+(7. Bxf6 {Would become popular many years later}) 7... c5 $6 {[pgndiagram]
+This is not the best move, but back in the day, opening theory was not as
+developed as today} (7... g5 {Is modern way of treating this variation} 8. Bg3
+Ne4 9. Qb3 {With a fighting, unbalanced position}) 8. Bd3 $6 (8. Bb5+ {The
+engine insist on making this check and it has been played with white with
+considerate success} Bd7 9. Bxd7+ Nbxd7 10. Nge2 {And White has been able to
+defend his d4 pawn, which means he has a clear edge}) 8... Nc6 9. Nge2 cxd4 10.
+exd4 {[pgndiagram] Now Black has managed to isolate White's d pawn himself and
+the position is approximately balanced} O-O 11. O-O Be6 {It is doubtful
+whether this move was required, now White's Nf4 move is slightly annoying} (
+11... Be7 {Breaking the pin and defending d5 was probably more cautious}) 12.
+Bc2 {Preparing Nf4 - defence of the d4 pawn} Be7 $6 (12... Bd6 {Preventing Nf4
+was better}) 13. Nf4 $5 {[pgndiagram] This move is rather annoying for Black}
+Qb6 $2 {And immediately young Fischer commits a decisive mistake} (13... Bg4 {
+Is the computer move - Black provokes f3 and then retreats all the way back}
+14. f3 Bc8 15. Bxf6 Bxf6 16. Qd3 $1 (16. Nfxd5 Bxd4+ {Is even worse for White})
+16... Bxd4+ 17. Kh1 f5 18. Nfxd5 {And White retains an edge}) (13... Bd6 {Is
+also better than the move in the game} 14. Bxf6 Qxf6 15. Nfxd5 Qxd4) 14. Bxf6
+Bxf6 15. Qd3 {[pgndiagram] Now White has a winning attack} Rfd8 (15... g6 {Was
+the lesser evil, but it is easy to conclude that Black doesn't want to make
+such a move}) 16. Rae1 (16. Qh7+ Kf8 17. Rae1 {Was  mathematically more
+precise move order, in order to exclude any g6 possibilities.}) 16... Nb4 (
+16... g6) 17. Qh7+ Kf8 18. a3 $1 {[pgndiagram] A final touch} (18. Bf5 {Was
+more prosaic, though} Rd6 19. Na4 {And wins}) 18... Nxc2 19. Ncxd5 Rxd5 20.
+Nxd5 {[pgndiagram] Here Fischer resigned. The queen is under attack, and if
+she defends than Qh8 comes with mate, as the knight also controls the e7
+square  A wonderful miniature against a future world champion.} 1-0
+
+[Event "Zandvoort"]
+[Site "Zandvoort NED"]
+[Date "1936.07.30"]
+[Round "10"]
+[White "Max Euwe"]
+[Black "Geza Maroczy"]
+[Result "1-0"]
+[ECO "D63"]
+[PlyCount "69"]
+[EventDate "1936.07.18"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 {[pgndiagram]
+The Classical Variation of the Queen's gambit declined} 7. Rc1 {One of the
+many possible moves. White waits for the development of the light squared
+bishop, anticipating Black's dxc4 reply and trying to save a tempo in the
+process. This struggle for tempo is typical for this variation} c6 {Typical
+reply on Black's part} 8. a3 $5 (8. Qc2 {White more often fights for a tempo
+with the queen move}) 8... h6 {There are many playable moves. There is
+obviously a lot of theory involved here} (8... Ne4) (8... Re8) (8... a6) 9. Bf4
+(9. Bh4 Ne4 {Equalizes immediately (the point of h6 is revealed - the bishop
+is not defended by the knight if White captures on e4)}) 9... a6 (9... Nh5 $5 {
+Has its point, but only if we follow it up with paradoxical computer suggestion
+} 10. Be5 Nhf6 11. Bd3 {[pgndiagram] Anything else leads to the repetition of
+moves} Nxe5 12. Nxe5 Nd7 13. Nxd7 (13. f4 Nxe5 14. fxe5 f6) 13... Qxd7 {With
+equality}) 10. h3 {[pgndiagram] Continuing the struggle for the tempo and
+making an useful move - preserving the bishop.} dxc4 {Black can't avoid making
+this move anyway now} (10... Re8 11. Qc2 {And once again Black is the one who
+has to release the tension, as he doesn't have any other useful moves at his
+disposal}) 11. Bxc4 b5 12. Ba2 {[pgndiagram] Justifying White's 8th move, but
+it is unclear whether the bishop is placed ideally here} (12. Be2 Bb7 {Is more
+quiet, although White can't count on anything serious once Black carries out
+the c5 advance}) 12... Bb7 13. O-O c5 {Objectively speaking, Black has
+probably equalized} 14. Ne5 c4 $5 {Not bad by itself, but this move virtually
+forces White to initiate play on the kingside.} (14... Rc8 {Not yet releasing
+the tension, and hinting at possible play against the weak d4 pawn, is
+probably more solid. But Black was playing for the win}) 15. Bb1 {[pgndiagram]
+Probably not the most precise} (15. Qc2 {The computer insist on this move, in
+order to recapture on e5 with the pawn} Nxe5 $2 {Is now not advisable} 16. dxe5
+Nd7 17. Bb1 {And Black loses a highly important pawn} g6 18. Bxh6) 15... Re8 $2
+{Too cautious.} (15... Nxe5 {Would have probably solved Black's problems.} 16.
+Bxe5 (16. dxe5 {Is obviously bad now; White shouldn't exchange queens}) 16...
+Nd7 17. Bf4 f5 $1 {[pgndiagram] With light square domination}) 16. Qe2 {
+Retaining the option of queen transfer to h5} (16. Qc2 {Is probably more
+interesting, as the battery is rather dangerous}) 16... Nxe5 {Euwe called this
+move a decisive mistake, but this is far from truth} (16... Nb6 {Is no better}
+17. Qc2) 17. dxe5 Nh7 $2 {[pgndiagram] Only this is a mistake. Black plays way
+too pasively} (17... Nd5 {Is also not ideal} 18. Qc2 g6 19. Bxh6 Kh7 20. Bf4
+Nxf4 21. exf4 Qd4 {Although even here Black's chances are better than in the
+game}) (17... Nd7 {Without fear, was good for Black} 18. Qh5 (18. Qg4 Qc7 {And
+the attack on e5 is unpleasant for White} 19. Rfd1) 18... Qc7 19. Rfd1 Red8 {
+And nothing terrible for Black is apparent} 20. Bxh6 Qxe5) 18. Qh5 $6 (18. Qg4
+{Was a worthwile alternative} Qc7 $1 {The best defence} 19. a4 $1 {This is
+where computer really excels - a sudden change of direction} (19. Bxh6 Qxe5 20.
+Bf4 Qc5) 19... bxa4 20. Nxa4 Rac8 21. Nc3 {And White retains the initiative on
+both wings}) 18... Nf8 {"With the knight on f8, it can never be mate" - Bent
+Larsen. Black has now consoliated, due to White's delay on previous move} 19.
+Rcd1 Qc7 20. Bxh6 $2 {[pgndiagram] Objectively, the losing move. Euwe gets too
+optimistic about his own chances} (20. Ne4 {Quiet play, however, wouldn't have
+brought anything tangible as well} Bxe4 21. Bxe4 Rad8 22. Qg4 {And here even
+White has to exercise caution}) 20... gxh6 21. Rd4 f5 $1 {[pgndiagram] The
+only move, but sufficient one.} 22. exf6 Bxf6 23. Rg4+ Bg7 24. Qxh6 {" This is
+the position White was aiming for with his sacrifice. Note especially the
+helplessness of the black pieces, underlined by inaccessibility of the
+important f6 square" (Euwe). And indeed, White appears to have excellent
+compensation for his material... But this proves to be an illusion " - Kasparov
+} Rad8 $1 (24... Qe5 $1 25. Re1 $1 {Intending f4} Rad8 26. f4 Qc7 27. Rf1 Re7
+28. Be4 Bxe4 29. Nxe4 {Would led to a defensible, but difficult position for
+Black, where value of every move is extremely high}) 25. Ne2 {Slightly too
+pasive} (25. Be4 {Could have been played , trying to include the knight. But...
+} Bxe4 26. Nxe4 Nh7 {And White has nothing}) (25. a4 {Is the computer
+suggestion, opening another front} b4 26. Ne2 {And this version is apparently
+better for White than the one in the game, but it is doubtful how much}) 25...
+e5 $2 {[pgndiagram] In this double edged, uncommon position, both sides have
+difficulties in selecting their move. But this advance is a mistake - the e5
+square should have been preserved for the queen} (25... Re7 26. Ng3 Rf7 27. Nh5
+Qe5 {And it is hard for White to make some progress} (27... Qe7 {Might be even
+better})) 26. Ng3 Re6 27. Qh4 {A critical moment of entire game} (27. Qh5 $5 e4
+28. Nf5) 27... Rd3 $4 {[pgndiagram] "A nervy, impulsive move, the point of
+which is to eliminate the dangerous bishop at b1. (Euwe) But at what a price!"}
+(27... e4 $1 {Is the best move, trying to eliminate the bishop in a different
+way} 28. Nxe4 (28. Nf5 {Might be better, but White doesn't have enough
+compensation}) 28... Bxe4 29. Bxe4 Qe7 {And suddeny White is completely lost})
+28. Nf5 $2 {Returning the favour. This moment wasn't mention by Kasparov in
+his OMGP book} (28. Bxd3 {Taking the rook was more precise} cxd3 29. Nf5 {And
+Black is lost}) 28... Ng6 $2 {[pgndiagram] A final blunder, after which
+everything is over.} (28... Rd7 {Was the obvious defensive try, defending the
+bishop. White now has the initiative, but not a winning attack. It is a
+mystery why Euwe didn't take the rook and why Maroczy refused to retreat it})
+29. Qh5 {Now it is all over - White's attack will break through - the bishop
+on g7 is huge liability} Qf7 30. h4 {[pgndiagram] Threatening Qg5 and h5, but
+taking the rook was once again more precise} Bf8 (30... Rd2 {Was more
+resilient apprently} 31. Nh6+ (31. Qg5 {Is now impossible} Qf6) 31... Bxh6 32.
+Qxh6 e4 $1 {And White has to find} 33. f4 $3 {[pgndiagram]} exf3 34. Bxg6) 31.
+Nh6+ {Now White is clearly winning and he doesn't relinquish his advantage
+this time} (31. Qg5 {Is once again unfavourable} Kh8) 31... Bxh6 32. Qxh6 Qh7
+33. Qg5 Kf7 34. Bxd3 {[pgndiagram] Finally} cxd3 35. Qf5+ {A very nervy, yet
+rather interesting tactical struggle, in which Euwe played in the style of Tal
+- creating concrete problems that his opponent was unable to solve in the end.
+The second 'Pearl of Zandvoort' of his career.} 1-0
+
+[Event "Zurich Candidates"]
+[Site "Zurich SUI"]
+[Date "1953.09.13"]
+[Round "9"]
+[White "Max Euwe"]
+[Black "Miguel Najdorf"]
+[Result "1-0"]
+[ECO "E61"]
+[PlyCount "73"]
+[EventDate "1953.08.30"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 c5 6. d5 e5 $5 {[pgndiagram] A
+surprising move, with which Black tries to benefit in comparison with the
+well-known variation." - Euwe} (6... d6 7. Nf3 e5 8. dxe6 Bxe6 9. Ng5 {
+Although after 9... Bxc4 Black has compensation - Kasparov}) 7. Bg5 $5 (7. dxe6
+{Has later occured nevertheless}) (7. e4 {With the move in the game, White
+tries to divert his opponent from the customary positions} a6 8. Nge2 d6 9. a4
+Nbd7) 7... h6 $6 {[pgndiagram] An agressive treatement of the opening. -
+Bronstein} (7... d6 {Was of course logical}) 8. Bxf6 (8. Bd2 {The computer is
+content with the h6 weakening and recommends the retreat of the bishop. But...
+I don't think we would be annotation this game if that were the move}) 8...
+Qxf6 9. d6 $1 {Bold and determined play! "The advance of the pawn involves two
+strategic ideas - to delay the development of Black's queenside and to cut the
+communication between his flanks." In addition, White gains the valuable d5
+square for his bishop and knight. There is only one drawback to the d5-d6
+advance: the pawn, cut off from base, may be lost." - Bronstein} (9. Nf3 {Is
+computer's preference - quiet development. But this is not the reason White
+gave up his dark squared bishop}) 9... Nc6 10. e3 {[pgndiagram] Preventing Nd4}
+b6 {Natural move, developing the bishop} 11. Bd5 $1 {There is no way back -
+all White's hopes lie in a swift attack. - Kasparov  Maybe because I was
+secretly afraid of eventually losing the piece spearheading my attack, I went
+a step further with my 11th move, and then there was no stopping. " - Euwe} (
+11. Nge2 Bb7 12. O-O Kh7 {Is of course, too timid; Black has no problems
+whatsoever}) 11... Kh8 {Preparing f5 in the future} 12. Ne4 Qd8 13. h4 f5 14.
+Ng5 $5 {[pgndiagram] Of course, this is not a sacrifice. But now Black has to
+solve some concrete problems} Bb7 {A good move, completing the development} (
+14... e4 {The following variation demonstrates the dangers awaiting Black} 15.
+Ne2 Bxb2 16. Rb1 Qf6 17. h5 $1 {[pgndiagram] And Black has to be extremely
+careful}) 15. g4 $5 {Taking the bull by the horns. Euwe goes all in} (15. Ne2 {
+Is objectively sounder, but once again Euwe plays with a certain Tal element.})
+15... e4 16. Ne2 {Ignoring the threat to the b2 pawn; the knight heads to f4}
+Bxb2 {[pgndiagram] A correct decision, there is no reason for Black not to
+grab a pawn. Remember Capablanca's principle: "The best way of refuting a
+gambit is to accept it."} 17. Nf4 $1 {A creative move, bringing another piece
+into attack} Qf6 (17... Bxa1 18. gxf5 {And it is very hard to suggest a
+correct continuation for Black} Rxf5 (18... gxf5 {Loses to} 19. Ng6+ Kg7 20.
+Nxf8 Qxf8 21. Rg1 $1 {[pgndiagram] An amazing move} Bc3+ 22. Kf1 Kh8 23. Nf7+)
+19. Nxg6+ Kg7 20. Nxe4 {[pgndiagram] And despite HUUUGE material advantage,
+Black is in trouble here.}) 18. gxf5 Bxa1 $2 {[pgndiagram] Only this is
+probably the decisive mistake of the game. It is amazing how taking a clear
+rook can be plain wrong} (18... gxf5 {Not granting the opportunity for a g6
+check, was the only way to stay in  the game. Now White would have to be
+creative in finding a decent continuation for the attack} 19. Qh5 Ne5 {Again
+preventing Ng6 at any cost} 20. Bxb7 Bxa1 21. Bxa8 Rxa8 22. Rg1 Rg8 {
+[pgndiagram] And probably the position is balanced here. But look at those
+beautiful moves. Chess is really an amazing game}) 19. Nxg6+ Kg7 20. Nxe4 $6 {
+Objectively, letting some advantage slip} (20. Nf4 $1 {"Far more attractive
+was this simple move, preparing the ground for Nh5+, Qh5 and Rg1. However,
+Euwe did not want to allow his opponent any freedom of choice, the move in the
+game forces the play. " - Bronstein  The computer indeed supports 20 Nf4! as
+the strongest move}) 20... Bc3+ 21. Kf1 Qxf5 22. Nf4 $1 {[pgndiagram] A quiet
+move, changing the entire picture - how can Black save his bishop. - Kasparov}
+(22. Rg1 {Would lead to a draw} Qh3+ 23. Rg2 Qh1+ 24. Rg1 Qh3+) 22... Kh8 $1 {
+A correct decision, there is no time to think about the bishop - the royal
+couple is in mortal danger. - Kasparov} 23. Nxc3 (23. Ng3 {Is pointed out by
+machine as winning, but who can resist taking a free bishop?} Qf6 24. Qc2 {And
+once again the threat of Ng6+ is very strong} Rg8 25. Ngh5 Nb4 26. Qb3 {And
+White wins}) 23... Rae8 (23... Na5 {Getting rid of the light squared bishop,
+was probably more resillient} 24. Bxb7 Nxb7 25. Ncd5 {[pgndiagram] And White
+has excellent compensation for the exchange - but not more}) 24. Nce2 $1 {
+[pgndiagram] Having described a complete circle, this daring steed returns to
+take part in the final attack - Kasparov} Rg8 {Intending to return the
+exchange on g3} 25. h5 $5 {Insisting on Ng6, but there were probably stronger
+alternatives available} (25. Ng3 $1 Rxg3 26. fxg3 Na5 27. Qa1+ Kh7 28. g4 $1 {
+[pgndiagram] Was a crazy way of gaining a decisive advantage} Qf8 29. Qb1+ Kh8
+30. Kg2 Bxd5+ 31. cxd5 Qxd6 {And White is much better}) (25. Bxg8 {Is not a
+good idea - the bishop on d5 is worth far more than a rook} Rxg8) (25. Qa1+ {
+Was also worht considering} Qe5 26. Qxe5+ Rxe5 27. Bxg8 Kxg8 28. Rg1+ {
+[pgndiagram] With superior endgame}) 25... Rg5 26. Ng3 Rxg3 27. fxg3 {
+[pgndiagram] Now, with the pawn on h5, Black's position is better than it was}
+Rxe3 $2 {This is probably the decisive mistake of the game} (27... Na5 {
+Similarly as in previous note, was much stronger - there is a very significant
+difference with the pawn on h5} 28. Qa1+ Kh7 29. g4 Qg5 $1 {The point - Queen
+has g5 available now} 30. Qb1+ Kg7 {And now Kg2 is not possible} 31. Qd3 (31.
+Kf2 Bxd5 32. cxd5 Rf8 {And Black is even better})) 28. Kf2 Re8 29. Re1 {
+[pgndiagram] Now White is fully developed, his bishop cuts the board in half
+and Black is lost} Rxe1 30. Qxe1 Kg7 31. Qe8 Qc2+ 32. Kg1 Qd1+ 33. Kh2 Qc2+ 34.
+Ng2 Qf5 35. Qg8+ Kf6 36. Qh8+ Kg5 37. Qg7+ {[pgndiagram] And here Najdorf
+resigned, two moves before mate. A splendid game, one of the most underrated
+games of the 21st century in my opinion} 1-0
+
+[Event "Rotterdam"]
+[Site "Rotterdam NED"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Rudolf Johannes Loman"]
+[Result "1-0"]
+[ECO "A09"]
+[PlyCount "35"]
+[EventDate "1923.??.??"]
+
+1. Nf3 d5 2. c4 d4 3. b4 g6 4. Bb2 Bg7 5. Na3 {[pgndiagram] To be completely
+honest, this is the first time I have seen a move such as this one in this
+structure; but it makes a lot of sense. The weakest point in Black's position
+is d4, so why not bring the knight to c2 and pressure it.} e5 6. Nc2 Bg4 $6 (
+6... Nh6 {With the idea of Nf5, reinforcing the d4 point, was the way to go})
+7. e3 Ne7 (7... d3 {Would cast some doubt on White's conception, but Black
+would lose the d3 pawn sooner or later} 8. Na3 a5 9. b5 Ne7 10. Qb3 {And Black
+has to prove he has compensation}) 8. exd4 exd4 9. h3 Bxf3 10. Qxf3 c6 $6 {
+[pgndiagram] Probably too passive and too timid} (10... O-O {Was more dynamic})
+11. h4 $1 O-O $2 {But this is a mistake; Black is basically inviting White to
+attack him} (11... h5 {Was much more sensible, trying to halt the play on the
+kingside and create counterplay on the other side of the board with a5}) 12. h5
+Re8 13. O-O-O $1 {[pgndiagram] And just like that, Euwe has gained a
+completely winning position after just 13 moves. It is amazing how effectively
+ideas of the hypermodernists worked during those years} a5 14. hxg6 hxg6 15.
+Qh3 (15. b5 {Was objectively better}) 15... axb4 $2 (15... Kf8 {Was the only
+defence, as suggested by the engine, but ...} 16. Nxd4 Ng8 {[pgndiagram] And
+Black has counterplay}) 16. Nxd4 Bxd4 $4 {[pgndiagram] The famous mistake and
+the culmination of this short encounter.} 17. Qh8+ $3 {Very attractive to
+beginners; Euwe displays the power of the bishop on the long diagonal} Bxh8 18.
+Rxh8# {[pgndiagram] Probably not the most outstanding Euwe game, but I found
+it fascinating how quickly Black's position deteoritated, even though he was a
+player of inferior class.} 1-0
+
+[Event "NED-ch Match"]
+[Site "Amsterdam NED"]
+[Date "1939.10.11"]
+[Round "6"]
+[White "Max Euwe"]
+[Black "Salo Landau"]
+[Result "1-0"]
+[ECO "D18"]
+[PlyCount "45"]
+[EventDate "1939.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 {Up to this point, everything has belonged to established opening theory.}
+9. Qb3 {[pgndiagram] A rare move, which Euwe considered as the refutation of
+the 8....Nbd7 - Kasparov.  This move is nowadays less popular then the
+alternatives} (9. Qe2) (9. Nh4 {Have both appeared more often today}) 9... Qb6
+$6 {A seemingly natural reply, and according to Euwe 'virtually forced'. In my
+zouth I played 9 Qb3 several times in the hope of 9... Qb6, in order to once
+again demonstrate at the board the correctness of the following bishop
+sacrifice - Kasparov} (9... a5 {Alas instead of this I each time had to deal
+with the tedious positional problems} 10. Na2 Be7 11. Nh4 $5 (11. Qxb7 Rb8 12.
+Qa6 Ra8 13. Qxc6 Rc8 14. Qa6 Ra8 {[pgndiagram] Leads to a draw}) 11... Bg6 12.
+g3 {[pgndiagram] This is how I defeated Beliavsky and DOlmatov in the 49th
+USSR Championship, Frunze, 1981 - Kasparov}) 10. e4 $1 {A surprise} Bg6 (10...
+Nxe4 {A pawn is taboo} 11. Nxe4 Bxe4 12. Bxe6) (10... Bg4 {Is probably lesser
+evil}) 11. Bxe6 $3 {[pgndiagram] 'A promising sacrifice, but one which it is
+impossible to say whether it is completely correct. - Euwe  Yes, this is a
+purely intuitive sacrifice - one of the most difficult in chess. To take
+account of all Black's defensive resources is impossible, and even the most
+insignificant blemish may become fatal for White: he is after all a piece
+down! There are few players capable of seeing, or rather sensing, what is
+concealed beyong the misty horizon - Kasparov} fxe6 12. a5 $1 {Diverting the
+bishop} Bxa5 13. Qxe6+ Kd8 14. e5 Re8 {[pgndiagram] "This developing move
+suggests itself" - Kasparov} (14... Ne4 {Was suggested many years later,
+although after} 15. Nxe4 Bxe4 16. Qf7 $1 {[pgndiagram] White has the advantage}
+) (14... Bxc3 {Is the suggestion of the modern engine} 15. bxc3 Ne4 16. Ra3 Re8
+17. Qg4 {[pgndiagram] When White has compensation, but no more}) 15. Qh3 Bxc3 {
+Knight moves are also terrible} (15... Nd5 16. Nxd5 cxd5 17. Bg5+ Kc8 18. Rfc1+
+Kb8 19. e6 {[pgndiagram]}) (15... Ng8 16. Bg5+ Ne7 17. Na4 Qb5 18. d5 {
+[pgndiagram] And in both instances White is winning}) 16. exf6 (16. bxc3 {
+Kasparov writes that after this obvious move White's advantage would have been
+less significant, but the engine seems to disagree} Nd5 17. c4 Ne7 18. d5 $1 {
+With strong attack}) 16... Bb4 (16... Bxb2 {Was played many years later in the
+game Gavrikov - Dorfman, Frunze, 1981 (Kasparov)} 17. Bxb2 Qxb2 (17... gxf6 18.
+Ba3 {And White's initiative compensates for the missing material}) 18. fxg7 {
+With an irresistible attack.} a5 {Athough after this, far from obvious move,
+it might be possible for Black to defend. But I am going too far now}) 17. fxg7
+{[pgndiagram] "This passed pawn is going to play a key part in the forthcoming
+combinations." - Euwe} Bd6 $2 {"A logical retreat. What is White to do now? At
+first sight, it appears that he has no real compensation for the sacrificed
+piece and that Black is able to parry the threats. But this proves to be an
+illusion. " - Kasparov} (17... Rg8 {Might have been more resilient}) 18. Ne5 $1
+{[pgndiagram] Forcing a decisive opening of central files. The initiative is a
+key here - the g7 pawn highely restricts the mobility of the Black rook on e8}
+Bxe5 19. dxe5 Bf7 {This loses rather quickly, but what was Black to do?} (19...
+Nxe5 20. Bg5+ Kc7 21. Bf4 {Is horrible for Black}) (19... Nc5 {Might be a tad
+better} 20. Be3 Qb5 21. f4 {But White has too much play and two pawns for a
+piece}) 20. Rd1 $1 Bd5 (20... Be6 {Is naturaly wrong because of the g7 pawn}
+21. Qxe6 Rxe6 22. g8=Q+) 21. e6 $1 Nf6 22. Bg5 {[pgndiagram]} Ke7 23. Qc3 {
+Another wonderful attacking game, which ignorant spectator would much sooner
+attribute to Tal rather than to Euwe} 1-0
+
+[Event "Euwe - Keres 1939/40"]
+[Site "Amsterdam NED"]
+[Date "1940.01.14"]
+[Round "14"]
+[White "Paul Keres"]
+[Black "Max Euwe"]
+[Result "0-1"]
+[ECO "D28"]
+[PlyCount "122"]
+[EventDate "1939.12.24"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Nf6 5. Bxc4 e6 6. O-O c5 7. Qe2 Nc6 8. Rd1
+b5 9. Bb3 c4 10. Bc2 Nb4 11. Nc3 Nxc2 12. Qxc2 {[pgndiagram] There is
+obviously a lot of theory up to this point. Let us just say that Black
+shouldn't have serious problems in this particular position and that Keres
+hasn't played the most critical continuation on moves 7-10} Nd5 $6 {Not the
+best} (12... Bb7 {Later, in the Groningen tournament, Euwe would play this
+move against Szabo (that game is annotated later in this post)}) 13. b3 $6 {A
+bad move, giving Black time to consolidate his queenside pawns and finish
+development} (13. a4 {Is rather energetic, exploiting the position of the
+knight on d5} b4 (13... Bb7 14. e4 Nxc3 15. bxc3 {And White has a mobile center
+}) 14. Ne4 {And the c4 pawn will be a constand headache}) 13... cxb3 14. Qxb3
+Bb7 {[pgndiagram] Now Black has no problems whatsoever} 15. Ne5 {Threatening
+Nxb5} (15. a4 $2 Nxc3 16. Qxc3 b4 {Is now excellent for BLack}) 15... Nxc3 16.
+Qxc3 Rc8 17. Qe1 Bd6 {[pgndiagram] Two bishops, queenside pawn majority,
+developed pieces. It is quite clear that Black has zero problems whatsoever}
+18. Nd3 (18. Bd2 {Is better here}) (18. Bb2 Rc2 {Is unpleasant}) 18... Qh4 $1 {
+Creating strong threats on the kingside} 19. h3 {There is nothing ese} (19. g3
+Qe4 {Is just winning}) (19. f4 Qxe1+ 20. Nxe1 b4 {Would lead to a depressing
+endgame for White}) 19... O-O 20. a4 {[pgndiagram] Practically forcing Black
+to sacrifice a pawn} (20. f3 {This version of the endgame was better} Qxe1+ 21.
+Rxe1 Rc2 22. e4 {The f3-e4 is much healthier pawn formation than e3-f4}) 20...
+b4 $1 {A masterful pawn sacrifice - Kasparov} 21. Nxb4 {Probably the best move
+- White is going to suffer all the same, so at least he might grab some
+material} Bf3 $3 {[pgndiagram] A stunning sacrifice, which even engine doesn't
+see from advance. White can't accept the bishop} 22. Nxa6 (22. gxf3 Qxh3 23. f4
+f5 {And once the rook gets included, there is no hope for White}) 22... f5 $2 {
+Aiming to include the rook via 6th rank, but this gives a moment of respite to
+White} (22... Bxd1 23. Qxd1 {Is objectively better for Black, but it is not an
+easy task to convert the exchange here}) (22... Qg5 23. Qf1 Bxd1 24. Qxd1 Qa5 {
+[pgndiagram] Might be the most precise; Black wins a pawn on c5} 25. Nc5 (25.
+Qe2 Rc2) (25. Qf1 Qc3 26. Rb1 Qc2) 25... Bxc5 26. dxc5 Rfd8 27. Qf1 Rxc5) 23.
+Ba3 $2 {[pgndiagram] Returning the favour} (23. Qf1 {Is the computer's choice.
+White threatens to take on f3} Bxd1 24. Qxd1 {And this version of endgame is
+far more difficul for Black than the one where he won the c5 pawn}) 23... Bxa3
+24. Rxa3 Bxd1 (24... Rf6 {Leads only to equality after} 25. Rc1 $1 Rxc1 26.
+Qxc1 Rg6 27. Qc8+ Kf7 28. Qd7+) 25. Qxd1 f4 $1 {[pgndiagram] Obviously, Black
+has a very difficult technical task ahead of him and is correctly playing the
+open the files} 26. e4 $2 {KAsparov was critical of this move. "A fatal
+weakening of the d4 square"} (26. Nc5 {Was his suggestion, but after} e5 {
+Black has unpleasant initiative}) 26... Qe7 27. Rb3 $2 {[pgndiagram] But I
+think that only this is the decisive error.} (27. Nc5 {Kasparov claimed that
+"White also has a bad position after} e5 28. Qb3+ Rf7 {But here everything is
+not so clear after} 29. Ne6 exd4 30. Ra1 h6 (30... Re8 31. Nxd4 Qxe4 32. Nf3)
+31. Rd1 Re8 32. Nxd4 Qxe4 33. Nf3 {And Black has difficulties in converting
+his advantage}) 27... Qd6 {Now Nc5 is impossible and White has too many
+weaknesses} 28. Qd3 Rfd8 29. Nb4 Qxd4 30. Qxd4 Rxd4 31. Nd3 g5 (31... Rxe4 {
+Was simpler}) 32. h4 Rxa4 33. f3 h6 34. hxg5 hxg5 35. Rb5 Kf7 36. Rb7+ Kf6 37.
+Nf2 Kg6 38. Rb5 Rc1+ 39. Kh2 Raa1 40. Rb2 Rf1 41. Rc2 Kh5 42. Rb2 {[pgndiagram]
+BLack is naturally winning this endgame, but it is not easy to break through.
+Euwe does this with the help of a beautiful pawn sacrifice} g4 $1 {Disrupting
+the White chain} 43. fxg4+ {Forced} (43. Nxg4 Rh1#) (43. g3 gxf3 44. gxf4 Kh4
+45. f5 Rg1 {With unavoidable mate}) 43... Kg5 44. Rc2 Kf6 (44... e5 $5 {Didn't
+appeal to Euwe due to} 45. Rb2 Ra8 46. Rc2 Rh8+ 47. Nh3+ Kxg4 48. Rc7 Rxh3+ {
+[pgndiagram] But instead of this sacrifice, Ra8 wins}) 45. Rb2 Ke5 (45... e5 $5
+) 46. g5 Ra3 {[pgndiagram] Black has to do something against the g5 pawn} 47.
+Nh3 $2 {It was not necessary to give up the e4 pawn} (47. Re2 {Was more
+resillient}) 47... Kxe4 48. g6 Raa1 {Allowing White some annoying counterplay}
+(48... Rg3 49. Nxf4 {Would be a huge mistake}) (48... e5 {Was the simplest} 49.
+g7 Rg3) 49. Nf2+ Kf5 50. g7 Ra8 51. Rb7 Rg8 52. Nd3 $2 {[pgndiagram] Another
+mistake} (52. Rf7+ {Would prolong the resistance} Kg6 (52... Kg5 53. Nd3) 53.
+Rxf4 Rxg7 54. Kg3 {And Black's task is incredibly difficult here}) 52... Kf6 (
+52... e5 {Reinforcing the f4 pawn, was once again ignored}) 53. Nc5 (53. Kh3
+Rxg7 54. Rxg7 Kxg7 55. Kg4 {Going after the f4 pawn, surprisingly, gives
+better chances}) 53... Rxg7 54. Rxg7 Kxg7 55. Nxe6+ Kf6 56. Nc5 Ke5 57. Kh3 Kf5
+58. g4+ $2 {Kasparov is critical of this move, but it would appear that
+White's position was hopeless nevertheless. Although this does make Black's
+task straightforward} (58. Kh2 Rd1 {And knight doesn't have squares. The
+computer gives huge advantage to Black, but I might have been too rash; for a
+human, it is not at all easy to win} 59. Nb3 Rd3 60. Nc5 Rd5 61. Na6 Kg4 {And
+the tablebase claims Black is winning, but good luck doing so. It would appear
+that Kasparov, as always, is right}) 58... Ke5 59. Nd3+ Ke4 60. Kg2 Rb1 61.
+Nc5+ Ke3 {[pgndiagram] "A struggle not without its mistakes, but very modern
+and lively. " - Kasparov  In my opinion, a beautiful gem; Euwe's Bf3 move is
+simply stunning and on the whole he outplayed his opponent in all phases of
+the game and scored a deserving victory} 0-1
+
+[Event "Groningen"]
+[Site "Groningen NED"]
+[Date "1946.08.20"]
+[Round "6"]
+[White "Laszlo Szabo"]
+[Black "Max Euwe"]
+[Result "0-1"]
+[ECO "D28"]
+[PlyCount "84"]
+[EventDate "1946.08.13"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Nf6 5. Bxc4 e6 6. O-O c5 7. Qe2 Nc6 8. Rd1
+b5 9. Bb3 c4 10. Bc2 Nb4 11. Nc3 Nxc2 12. Qxc2 Bb7 {[pgndiagram] You might
+recall that in the 14th game of his match against Keres, Euwe prefered the
+inferior Nd5 here} 13. e4 $2 {From the modern viewpoint, a second rate move} (
+13. d5 {Is more energetic here} Qc7 14. dxe6 fxe6 15. Ng5 {And there is
+obviously a lot of theory here}) 13... b4 14. e5 $6 {Consistent with the
+previous move, but engine suggest a stronger alternative} (14. Qa4+ Qd7 15. Ne5
+$1 {Winning the c4 pawn for the e4 pawn at the end of the variation and
+maintaining equality. But the mere fact that White is the one fighting for
+equality here speaks a lot about the whole variation}) 14... bxc3 15. exf6 gxf6
+{[pgndiagram] It is doubtful whether this is the strongest} (15... cxb2) (15...
+Bxf3 {Are both worth considering}) 16. Qa4+ $2 {The losing move - White
+regians the pawn on c4, but at what a price} (16. bxc3 {Was a move here} Bxf3
+17. gxf3 Qd5 18. Qa4+ Kd8 19. Bf4 {[pgndiagram] And the evaluation of the
+position is unclear}) 16... Qd7 17. Qxc4 Rc8 {The bishop gets developed with
+tempo} 18. Qe2 Rg8 {[pgndiagram] Black virtually has a won position already.
+More educated chess players might recall that Anand used to beat Kramnik from
+very similar positions in their 2008 match. Although there White's positions
+were much much better than Szabo's position in this game} (18... c2 {Came into
+consideration as well, trying to play positionally. But Black goes for the
+attack}) 19. Ne1 (19. bxc3 Rxc3 20. Ne1 Qb5 21. Qxb5+ axb5 22. Bf4 {Is also in
+Black's favour}) 19... Qd5 20. f3 Bd6 $1 {[pgndiagram] All Black's pieces are
+pointed at the White king} 21. Kh1 Qh5 $1 22. h3 Rg3 23. Be3 Ke7 $5 {A very
+nice touch, including the other rook in the game. Euwe creates a model example
+of a kingside attack} 24. Qf1 Rcg8 25. bxc3 Rxg2 $1 (25... Rxh3+ {Was also
+sufficient} 26. gxh3 Rg3 27. Rd2 Rxh3+ {And Black wins}) 26. Qxg2 {[pgndiagram]
+There is nothing White can do} (26. Nxg2 Qxh3+ 27. Kg1 Bxf3 {Is obviously
+hopeless}) 26... Rxg2 27. Kxg2 Qg6+ {Now Euwe starts to chase the king over
+the whole board} 28. Kf2 Bg3+ 29. Ke2 Bxe1 30. Rxe1 Qg2+ 31. Kd3 Bxf3 32. a4 $2
+{[pgndiagram] An error in a difficult position} (32. Bd2 {Making room for the
+king on the kingside, was slightly more resillient, although White's position
+naturally remains dead lost} Qg6+ 33. Ke3) 32... Be4+ 33. Kc4 Qc2 (33... Bc2 $1
+{Would end the game almost immediately} 34. Reb1 (34. Rec1 Qd5+ 35. Kb4 a5+ 36.
+Ka3 Qb3#) 34... Bxb1 35. Rxb1 Qa2+) 34. d5 $1 {[pgndiagram] Getting some
+breathing space for the king for the cost of a pawn} Bxd5+ 35. Kb4 Kd7 (35...
+Qb2+ 36. Ka5 Qxc3+ {Was simpler}) 36. c4 $2 {[pgndiagram] But this is
+capitulation} (36. Rec1 {Why not?} Qb2+ 37. Ka5 Be4 {And here Black still has
+to find the knock out punch}) 36... Qxc4+ 37. Ka5 Qc3+ 38. Kxa6 Bc4+ 39. Kb7
+Qb3+ 40. Bb6 Qf3+ 41. Kb8 Ba6 42. Red1+ Ke8 {[pgndiagram] In this game Euwe
+display his customary opening preparation, together with resourcefulness in
+tactical positions. - Kasparov} 0-1
+

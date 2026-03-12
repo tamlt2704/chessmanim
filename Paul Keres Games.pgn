@@ -1,0 +1,712 @@
+[Event "AVRO"]
+[Site "The Netherlands"]
+[Date "1938.11.12"]
+[Round "4"]
+[White "Paul Keres"]
+[Black "Samuel Reshevsky"]
+[Result "1-0"]
+[ECO "C79"]
+[PlyCount "87"]
+[EventDate "1938.11.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 {[pgndiagram] The Steinitz
+Defence was popular back in the day. It is doubtful how wise it was to play it
+against Keres, since he also beat Alekhine in this variation in the Margate
+1937 tournament} 6. Bxc6+ {Against Alekhine Keres advanced his c pawn} (6. c4 {
+[pgndiagram] Was the choice against Alekhine. Preventing b5 and gaining some
+space leads to different type of position}) 6... bxc6 7. d4 Nxe4 $6 {
+[pgndiagram] This is probably not advisable, although there is no direct
+refutation} (7... Be7 {Is more normal}) 8. Re1 f5 9. dxe5 d5 10. Nd4 {Black's
+position is slightly unpleasant} c5 $2 {[pgndiagram] But this is a decisive
+mistake; Black weakens his position too much} (10... Bc5 {Defending the pawn
+indirectly, was neccessary} 11. c3 Qh4 12. Re2 O-O 13. f3 Ng5 14. Kh1 {
+[pgndiagram] And White has a slight edge}) 11. Ne2 {White has a simple Nf4
+move, thraetening the d5 and also Qh5, and it is not easy to defend against
+that} c6 (11... Be7 12. Nf4 c6 13. Qh5+ {[pgndiagram] And White is probably
+already winning}) 12. Nf4 g6 13. c4 $1 {[pgndiagram] Very instructive. White
+has the initiative and continues to play energeticaly. Keres was very strong
+when he had the tactical initiative} d4 (13... dxc4 14. Qa4 {[pgndiagram] Is
+just horrible for Black}) 14. Qa4 Bb7 15. f3 Ng5 16. h4 $2 {The only slight
+mistake by Keres} (16. Nd2 {Was simple and strong, intending to bring the
+knight on a5} Be7 17. Nb3 O-O 18. Na5 Qc7 19. h4 {[pgndiagram] And only now h4}
+) 16... Nf7 $2 (16... Nxf3+ 17. gxf3 Qxh4 {[pgndiagram] Would have allowed
+Black to resist}) 17. e6 {Now Black simply loses a piece} Qxh4 (17... Nd6 18.
+e7 Bxe7 19. Nd5 {[pgndiagram] Is curtains}) 18. exf7+ Kxf7 {[pgndiagram] White
+still has some technique to display, but a piece is a piece. The remainder of
+the game is not that interesting.} 19. Nd3 Bd6 20. f4 Rae8 21. Qd1 g5 22. Nd2
+g4 23. Nf1 Re4 24. Nf2 Rxe1 25. Qxe1 Re8 26. Qd1 Qh6 27. Nd3 Bc8 28. Bd2 Qh4
+29. Qc2 Re2 30. Re1 Rxe1 31. Bxe1 Qe7 32. Qd2 h5 33. Ne5+ Kg7 34. Qe2 h4 35.
+Nd2 Bd7 36. Nb3 Be8 37. Nc1 Bf7 38. b3 Bh5 39. Ncd3 Kh6 40. g3 h3 41. Qb2 Be8
+42. Qa3 Qa7 43. Qa5 Be7 44. Bd2 {[pgndiagram] A very convincing victory,
+although it has to be said that Reshevsky's openings were always the weakest
+point in his inventory.} 1-0
+
+[Event "AVRO"]
+[Site "The Netherlands"]
+[Date "1938.11.15"]
+[Round "7"]
+[White "Reuben Fine"]
+[Black "Paul Keres"]
+[Result "0-1"]
+[ECO "C86"]
+[PlyCount "114"]
+[EventDate "1938.11.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 {[pgndiagram] The
+so-called Worall attack. White defends the e-pawn with his queen, frees the d1
+square for his rook and plans Rd1-c3-d4.  The main drawback of the move is
+that the Queen is slightly exposed on this square, and Bg4 move is always
+slightly annoying for White} b5 7. Bb3 d6 8. a4 {[pgndiagram] But this is very
+rare move, even from today's perspective} (8. c3 Bg4 9. h3 Bh5 10. Rd1 O-O 11.
+d3 {[pgndiagram] Constitutes the main line nowadays, with slower play, more
+characteristic of the d3 Anti Berlin lines}) 8... Bg4 {This is not a pawn
+sacrifice; Black is threatening Nd4} 9. c3 (9. axb5 Nd4 {Is really unpleasant})
+9... O-O {[pgndiagram] But this time this really is a pawn sacrifice.. Or more
+precisely a pseudo-sacrifice} 10. axb5 {Accepting the gauntlet. With hindsight,
+it might have been wiser to refrain from doing it} (10. h3 {Or}) (10. d3) 10...
+axb5 11. Rxa8 Qxa8 12. Qxb5 Na7 $1 {[pgndiagram] A key move that I imagine
+Fine missed} 13. Qe2 (13. Qa6 Nxe4 {[pgndiagram] Is no good for White as well})
+13... Qxe4 14. Qxe4 Nxe4 {[pgndiagram] Now Black has a very pleasant endgame.
+He will take on f3 and spoil White's structure. This factor is more important
+than the two bishops here} 15. d4 (15. Bd1 {Trying to defend against Bxf3 is
+too artificial for instance} Nc5 {The knight jump to d3 is really unpleasant}
+16. d4 Nd3 17. Be2 Nxc1 18. Rxc1 e4 {[pgndiagram] And White loses a piece})
+15... Bxf3 16. gxf3 Ng5 17. Kg2 Rb8 18. Bc4 exd4 19. cxd4 Ne6 20. d5 {
+[pgndiagram] This pawn severely restricts White's bishop} (20. Bxe6 fxe6 21.
+Nc3 d5 {Is also not very wise. Black's pieces are too active, White's pawns
+are all weak (3 islands)}) 20... Nc5 21. Nc3 Nc8 22. Re1 Kf8 23. Re2 f5 {
+[pgndiagram]Not the most precise} (23... Rb4 24. Ba2 Nd3 {[pgndiagram]Would
+have won the b-pawn}) 24. Nb5 Nb6 25. b3 Nxd5 26. Nd4 Nb4 27. Bd2 $2 {
+[pgndiagram]A mistake} (27. Nxf5 {There was nothing wrong with taking the
+f-pawn, emphasizing the drawback of it's early advance}) 27... d5 28. Bxb4 Rxb4
+29. Nc6 dxc4 30. Nxb4 cxb3 {[pgndiagram] Fine possibly evaluated this endgame
+wrongly. It is probably close to lost for White} 31. Nd5 Nd3 $1 {Keres plays
+this phase of the game brilliantly, making use of every possible tactical idea
+there is} 32. Rd2 {Obviously, White can't take the bishop} (32. Rxe7 b2) (32.
+Nxe7 Nf4+) 32... b2 $1 33. Rd1 c5 $6 (33... Nc1 {WAs even easier} 34. Nc3 Bf6
+35. Nb1 c5 {[pgndiagram] And White is paralyzed}) 34. Kf1 c4 {Here again, Nc1
+came into consideration} 35. Rb1 Bc5 36. Ke2 Bxf2 37. Ne3 c3 {[pgndiagram]
+Another very strong tactical solution and the only way to win} 38. Nc2 (38.
+Kxd3 Bxe3 39. Kxc3 Bc1 {[pgndiagram] Is basically a pawn endgame in which
+Black is winning}) 38... Ne1 $1 {Those escapades by Black's minor pieces
+though..} 39. Na3 (39. Nxe1 Bxe1 40. Kxe1 c2 {[pgndiagram] Is too obvious...
+at least from the comfort of my own home with the engine running and enjoying
+Black's position}) 39... Bc5 $6 {[pgndiagram] Slightly careless} (39... Bh4 {
+Was simple enough}) 40. Kxe1 $2 {Missing the chance} (40. Rxe1 {Might have
+save the game} Bxa3 41. Kd3 Bb4 42. Kc2 {[pgndiagram] And the bishop is tied
+to the defence of the c3 pawn; I am not certain whether Black can make any
+progress here}) 40... Bxa3 {Now he has the time to put the bishop on f6 and
+everything is much easier} 41. Kd1 Bd6 42. Kc2 Bxh2 43. Rh1 (43. Kxc3 Be5+ 44.
+Kc2 Kf7 {[pgndiagram] Is trivial win}) 43... Be5 44. Rxh7 Kf7 45. Rh1 g5 46.
+Re1 Kf6 47. Rg1 Kg6 48. Re1 Bf6 49. Rg1 g4 50. fxg4 f4 51. g5 Bd4 52. Rd1 Be3
+53. Kxc3 Bc1 54. Rd6+ Kxg5 55. Rb6 f3 56. Kd3 Kf4 57. Rb8 Kg3 {[pgndiagram]
+Very convincing and important victory for Keres.} 0-1
+
+[Event "FIDE World Championship Tournament"]
+[Site "The Hague NED"]
+[Date "1948.03.02"]
+[Round "1"]
+[White "Max Euwe"]
+[Black "Paul Keres"]
+[Result "0-1"]
+[ECO "C75"]
+[PlyCount "111"]
+[EventDate "1948.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 {[pgndiagram] Once again, the Steinitz
+Defence} 5. c3 {The third plan. c3-d4 is very common in various Ruy Lopez
+positions} Bd7 6. d4 Nge7 7. Bb3 h6 8. Nbd2 Ng6 {[pgndiagram] The typical
+maneouvre. Black knight supports e5 and eyes the f4 square} 9. Nc4 (9. d5 {
+Might be idea here} Nce7 10. Nc4 Ng8 11. O-O Nf6 12. Bc2 {[pgndiagram] With
+complex play}) 9... Be7 10. O-O O-O 11. Ne3 {[pgndiagram] White should have a
+slight edge in this position, due to greater control of space. However, Black
+doesn't have any weaknessed and is fully developed} Bf6 12. Nd5 exd4 13. Nxd4
+Re8 14. Nxf6+ (14. Bc2 {Maintaining the strong knight, came into consideration}
+Nxd4 15. cxd4 {[pgndiagram] With advantage to White}) 14... Qxf6 15. f3 Nf4 16.
+Nxc6 Bxc6 17. Be3 Rad8 {[pgndiagram]The position is still good for White, due
+to his bishop pair.} 18. Qd2 Ng6 19. Bd4 Qe7 20. Rae1 Qd7 21. c4 Ba4 22. Bxa4
+Qxa4 23. Qc3 f6 24. f4 {[pgndiagram] But this is unneccessary aggression} (24.
+b3 Qd7 25. h3 {Was perfectly playable, not weakening the e4 pawn and
+maintaning control over the position}) 24... Kh7 25. b3 Qd7 (25... Qxa2 {I
+naturaly, poisoned} 26. Rf2 Qa3 27. Ra1 {[pgndiagram] And the queen is trapped}
+) 26. Qf3 b5 27. Qd3 bxc4 28. Qxc4 $2 {[pgndiagram] Blundering the centre away}
+(28. bxc4 {Was sad, but neccessary now} Qa4 29. Qe2 Rb8 {[pgndiagram] And
+White is the one hwo has to be careful now}) 28... Rxe4 29. Rxe4 d5 30. Qxa6
+dxe4 31. Be3 {Now Black's pieces are quite active} Qg4 32. Qc4 Rd3 33. Bc1 Nh4
+$1 {[pgndiagram] Keres in his element. He grabs the initiative and doesn't let
+go} 34. Qxe4+ f5 35. Qb7 c6 $2 {[pgndiagram] Too pretty} (35... Rc3 {Was
+probably stronger} 36. h3 Qe2 37. Qd5 Rc2 {[pgndiagram] And wins}) 36. Qxc6 Rc3
+37. Qd5 Rc5 38. Qd2 Rxc1 $1 {[pgndiagram] Nevertheless, this combination is
+very beautiful and Black has a winning position} 39. h3 (39. Rxc1 Nf3+) (39.
+Qxc1 Qxg2#) 39... Qg3 $2 (39... Nf3+ {[pgndiagram] Was an immediate win} 40.
+Kf2 Rxf1+ 41. Ke3 Nxd2) 40. Qe2 Qxf4 41. Rxc1 Qxc1+ 42. Kh2 {Black is a piece
+up and rest is kinda easy} Qf4+ 43. Kg1 Ng6 44. Qc2 Ne7 45. a4 Qd4+ 46. Kh2
+Qe5+ 47. Kg1 Nd5 48. Qd1 Nc3 49. Qc2 Kg6 50. Kh1 Qe1+ 51. Kh2 Ne2 52. Qc6+ Kh7
+53. Qc5 Ng3 54. Qd6 Nf1+ 55. Kg1 h5 56. Qf4 {A dream beginning of the
+tournament} 0-1
+
+[Event "FIDE World Championship Tournament"]
+[Site "The Hague NED"]
+[Date "1948.03.04"]
+[Round "2"]
+[White "Paul Keres"]
+[Black "Vasily Smyslov"]
+[Result "1-0"]
+[ECO "D94"]
+[PlyCount "55"]
+[EventDate "1948.??.??"]
+
+1. c4 Nf6 2. Nf3 c6 3. Nc3 d5 4. e3 g6 5. d4 Bg7 6. cxd5 {It is amazing that
+Keres disposes of Smyslov so quickly in this unpretentious variation} Nxd5 {
+[pgndiagram] Nowadays, transposition to the Grünfeld like positions would be
+played automaticaly} (6... cxd5) 7. Bc4 O-O 8. O-O b6 9. Qb3 Nxc3 10. bxc3 {
+[pgndiagram] White has quite a decend position. Black's Nxd5-Nxc3 has merely
+stabilized White's centre} Ba6 11. Ba3 Bxc4 12. Qxc4 Re8 13. e4 {Perhaps going
+for the c4-Rd1-Rb1-d5 ideas was better} b5 14. Qb3 Nd7 (14... a5 {Was
+interesting here}) 15. c4 Rb8 $2 {[pgndiagram]The first move that can be
+labeled as a mistake} (15... a6 {Intending c5 in the future, was interesting})
+(15... c5 {Was also possible}) 16. Rad1 (16. cxb5 {WAs good for White here;
+the point is to play e5 under favourable circumstances} cxb5 17. e5 b4 (17...
+Nb6 {Now doesn't work} 18. Qxb5) 18. e6 {[pgndiagram] And White has
+considerable advantage} fxe6 19. Qxe6+ Kh8 20. Ng5) (16. e5 Nb6 17. cxb5 Nd5 {
+[pgndiagram]Works for Black; he will get his pawn back}) 16... Qa5 17. c5 b4
+18. Bb2 e5 {[pgndiagram] At this point Black is even slightly better. White's
+centre is crumbling} 19. Ng5 {Going for the attack} Re7 20. f4 exd4 21. f5 Nxc5
+$2 {[pgndiagram] And here it is. The decisive mistake of the game} (21... Qxc5
+{Was the correct defence} 22. Nxf7 d3+ 23. Kh1 Qc2 {But this is difficult even
+in computer era. The game ends in perpetual after} 24. Nh6+ Kh8 25. Nf7+ {
+[pgndiagram]}) (21... gxf5 {Is another computer reaction} 22. Rxf5 Ne5 23. Rdf1
+Rf8 {[pgndiagram] And nothing terrible for Black is apparent}) (21... Ne5 {
+Loses to} 22. f6) 22. Qh3 h5 (22... h6 {Is also winning for White} 23. f6 Bxf6
+24. Rxf6 hxg5 25. Bxd4 {[pgndiagram] And there is mate looming on h8}) 23. f6
+Bh6 $4 {[pgndiagram] And this is the decisive mistake of the game} (23... Nxe4
+24. fxe7 Qxg5 {Was the only way to continue the resistance}) 24. fxe7 Bxg5 25.
+Qf3 {Now Black gets murdered on f7} f6 26. Bxd4 Nd7 27. h4 {And here Smyslov
+resigned. After} Bxh4 28. Qh3 {[pgndiagram] Is the deadly double attack. A
+nice victory by Keres, although Botvinnik's observation that his play
+contained inaccuracies was correct. Their individual encounters confirmed it.}
+1-0
+
+[Event "Candidates Tournament"]
+[Site "Zuerich"]
+[Date "1953.09.13"]
+[Round "9"]
+[White "Smyslov, Vassily"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[ECO "D29"]
+[PlyCount "81"]
+[EventDate "1953.08.30"]
+[EventType "tourn"]
+[EventRounds "30"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 (7. dxc5 {
+Is I think in the fore in the modern era.}) 7... b5 8. Bb3 Bb7 {[pgndiagram]
+This variation should be allright for Black, but it is worth remembering that
+it was year 1953} 9. Rd1 Nbd7 10. Nc3 Be7 {[pgndiagram] Not very successful
+opening experiment by Keres. With this move he allows e4 advance to be carried
+out without any hinderence} (10... Qb8 {Has somehow became the main move here}
+11. e4 cxd4 12. Nxd4 Bd6 {[pgndiagram] With the point of developing the bishop
+to d6 and gaining a tempo for castling. Black should be ok here}) 11. e4 {Now
+the position is slightly unpleasant for Black. It is not clear where he should
+develop his pieces} b4 $6 {But this move doesn't help} (11... O-O {Castling is
+bad, due to e6 pawn advance} 12. e5 Nd5 13. Nxd5 Bxd5 14. Bxd5 exd5 15. e6 {
+[pgndiagram] And Black is in terrible shape}) (11... c4 $1 {Was the move here,
+preventing e5 for the time being} 12. Bc2 O-O 13. e5 Nd5 14. Qe4 g6 {
+[pgndiagram] And White has some advantage, but the game is going on.}) 12. e5
+$1 {An important intermezzo and the point of White's play} bxc3 13. exf6 {
+[pgndiagram] The critical moment of the game and of the first half of the
+Zürich tournament.} Bxf6 $2 {In an unpleasant position Keres commits a
+decisive mistake.} (13... cxb2 {Is losing to} 14. fxg7 Rg8 15. Bxb2 Rxg7 16. d5
+{[pgndiagram] And Black is busted}) (13... Nxf6 {Is the only way of continuing
+the game, although the loss of castling rights is very unpleasant for Black}
+14. Ba4+ $1 (14. dxc5 Qc7 {Is inferior for White}) 14... Kf8 15. bxc3 {
+[pgndiagram] And White retains a significant advantage, but the game is not
+over yet}) 14. d5 {The position opens with terrible consequences for Black.
+White's light squared bishop is a monster.} e5 15. bxc3 O-O 16. Nd2 {
+[pgndiagram] White has a strong passed pawn, outposts on e4 and c4 for the
+knight and a healthier pawn structure. We will comment the rest of the game
+only with brief notes.} Be7 17. Nc4 a5 18. Nxe5 {Probably it was not
+neccessary to hurry with this capture.} Nxe5 19. Qxe5 Bf6 (19... Bd6 $5 {
+Blockading the pawn, might have been better}) 20. Qg3 c4 21. Ba4 Qe7 22. Bf4
+Rfd8 23. d6 Qe4 24. Re1 Qf5 25. d7 h5 26. Re8+ Kh7 27. h4 Ra6 28. Bg5 Rxd7 29.
+Bxd7 Qxd7 30. Rae1 Rd6 31. Bxf6 Rxf6 32. Qb8 Rf5 33. Rh8+ Kg6 34. Rd8 Qb5 35.
+Rd6+ Kh7 36. Rd8 Qc5 37. Re3 Bd5 38. Rh8+ Kg6 39. Qd8 Bf3 40. Rxf3 Rxf3 41.
+gxf3 {[pgndiagram] I think that this game is a very good example of how the
+art of the defence in chess developed. I think that a modern grandmaster would
+have put much tougher resistance then Keres, even after reaching an unpleasant
+position right in the opening.} 1-0
+
+[Event "Candidates Tournament"]
+[Site "Zuerich"]
+[Date "1953.10.13"]
+[Round "24"]
+[White "Keres, Paul"]
+[Black "Smyslov, Vassily"]
+[Result "*"]
+[ECO "E14"]
+[PlyCount "56"]
+[EventDate "1953.08.30"]
+[EventType "tourn"]
+[EventRounds "30"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. c4 {[pgndiagram] Quite suprisingly, Keres decides to serve from the left,
+and deviate from his favourite e4 move.} Nf6 2. Nc3 e6 3. Nf3 c5 4. e3 Be7 5.
+b3 O-O 6. Bb2 b6 7. d4 cxd4 8. exd4 d5 {[pgndiagram] In my humble opinion,
+Keres' opening choice wasn't the best for this game. Smyslov has easy
+development and there aren't many tactical opportunities, which have always
+been Keres' forte.  Or at least there should not have been any} 9. Bd3 Nc6 10.
+O-O Bb7 (10... dxc4 {The preliminary exchange on c4,  came into consideration}
+11. bxc4 Bb7 {[pgndiagram] With play against the hanging pawns}) 11. Rc1 Rc8
+12. Re1 Nb4 13. Bf1 {[pgndiagram] Keeping the c4 pawn defended. White would
+like to go 13 Bb1 here, but that simply drops a pawn} Ne4 {Not strictly
+neccessary} (13... h6) (13... Nc6 {Are both playable alternatives}) 14. a3 Nxc3
+15. Rxc3 Nc6 16. Ne5 $6 {[pgndiagram] This is the moment where Keres starts
+contemplating a faulty combination.} (16. c5 {Was in the spirit of the
+position.} bxc5 17. dxc5 Bf6 18. Rc2 Bxb2 19. Rxb2 {[pgndiagram] And White's
+queenside pawn majority outweighs Black's central pawns. White has the
+advantage here, although Black's play in this line can probably be improved
+somewhere.}) 16... Nxe5 17. Rxe5 Bf6 18. Rh5 g6 19. Rch3 $2 {[pgndiagram] A
+very important historical moment. Keres sacrifices a whole rook .} (19. Rhh3 {
+Is computer's first suggestion, which is a clear indication that something has
+gone for White. Keres is consistent is his own way, and he probably envisioned
+some similar lines when he played his 16th move.}) 19... dxc4 $3 {A fantastic
+and well calculated defense. Smyslov keeps his nerve and proves that he was
+the better player at that particular moment.  The main point of this move is
+that now Black's bishop can come to e4 and cement the kingside structure
+together.} (19... gxh5 {By his own admision, he couldn't find a win for White
+after immediate acceptance of the sacrifice. However, his intuition did not
+betray him.} 20. Qxh5 Re8 21. a4 $1 {A key move, with the idea of Ba3, wins
+for White in all variations. I will hive a sample line} Qd6 22. Qh6 {Gaining a
+tempo on the bishop} Bg7 23. Qxh7+ Kf8 24. Rg3 Bf6 25. c5 $1 {[pgndiagram]
+Opening the diagonal for the bishop with tempo.} bxc5 26. Qh6+ Ke7 27. dxc5
+Qxc5 28. Qxf6+ {And White wins.}) 20. Rxh7 (20. bxc4 gxh5 21. Qxh5 Be4 {
+[pgndiagram] And White is just lost.}) 20... c3 $1 {Cutting the defence of the
+pawn on d4. Now the h8 square is critical, but Black is just in time to bring
+his pieces to defend it.} 21. Qc1 Qxd4 {[pgndiagram] There is no attack now,
+and the rest of the game doesn't require further commentary.} (21... cxb2 {
+Would naturally be terrible mistake.} 22. Qh6) 22. Qh6 Rfd8 23. Bc1 Bg7 24. Qg5
+Qf6 25. Qg4 c2 26. Be2 Rd4 27. f4 Rd1+ 28. Bxd1 Qd4+ {A clear example of
+Keres' nerves letting him down.} *
+
+[Event "Amsterdam Candidates"]
+[Site "Amsterdam NED"]
+[Date "1956.04.14"]
+[Round "19"]
+[White "David Bronstein"]
+[Black "Paul Keres"]
+[Result "0-1"]
+[ECO "C99"]
+[PlyCount "106"]
+[EventDate "1956.03.27"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 {[pgndiagram] The classical Ruy
+Lopez is present throughout the 20th century in the games of great players.}
+cxd4 13. cxd4 Nc6 14. Nb3 Bb7 {A rare move in this variation} (14... a5 {
+Nowadays they have arrived at the push of the a-pawn as the most topical plan
+for Black}) 15. Bg5 (15. d5 {Grabing space, was interesting and objectively
+probably better. After} Na5 16. Nxa5 Qxa5 17. Bd2 Qc7 18. Rc1 {[pgndiagram]
+White has more space, and can clamp down the queenside with b4-a4 combination.}
+) 15... h6 16. Bh4 {And this is wrong. White's bishop doesn't have any
+perspective here; it is more important to keep it on the queenside instead.}
+Nh5 {[pgndiagram] Going for the f4 square, but this shouldn't be too dangerous
+for White} (16... a5 {Once again, the queenside was where the main battle is
+to be fought.} 17. Rc1 a4 18. Nbd2 Rfc8 {[pgndiagram] And Black grabs the
+initiative.}) 17. d5 Nd8 18. Bxe7 Qxe7 19. Nfd4 {[pgndiagram] Now Black is
+very passive. White's knight is reaching the f5 square, and the bishop on b7
+resembles a large pawn, and the knight on d8 is also very passive.} Nf4 20. Nf5
+Qf6 21. Re3 Kh7 (21... Bc8 {Getting rid of one problem piece, was probably
+better} 22. Na5 Bxf5 23. exf5 Rc8 {[pgndiagram] But White retains some
+initiative.}) 22. a4 bxa4 23. Rxa4 Bc8 24. Rb4 $2 {[pgndiagram] But this is a
+tactical blunder..} (24. Rc3 Nb7 25. Rac4 {And White remains in control}) 24...
+Nb7 $2 {Failing to exploit the chance} (24... g6 {Was the move here. It leads
+to a favourable tactical skirmish for Black.} 25. Ng3 Bxh3 26. gxh3 Nxh3+ {
+[pgndiagram] And Black wins material.} 27. Kg2 Qxf2+ 28. Kxh3 Qxe3) 25. Rc3 g6
+{Now the same tactic doesn't work anymore} 26. Ne3 a5 (26... Bxh3 27. Rxb7 Qg5
+28. g3 {[pgndiagram] And Black has nothing}) 27. Rb6 {Black's position is
+quite bad now.} Qd8 28. Nc4 Ra7 {[pgndiagram] Black's pieces are scattered,
+but he is still not definitely lost.} 29. Nc1 Qg5 30. Rg3 Qe7 31. Ne2 {
+Exchanging the only active piece, the pride of the Black's position.} Nxe2+ 32.
+Qxe2 Rd8 33. Ra3 Bd7 34. Qe3 Rc8 35. Bd3 Be8 36. b4 {[pgndiagram] After
+positioning his pieces perfectly, Bronstein goes for the jugular.} a4 37. Kh2 (
+37. Rc6 {Was immediately decisive.} Bxc6 38. Nb6 $1 Rc7 39. dxc6 Rxc6 40. Nd5 {
+[pgndiagram]And wins}) 37... Raa8 38. Be2 Rc7 39. b5 Qd8 40. Ra2 Kg7 41. Rc6 $5
+{[pgndiagram]Now this is less clear then before, but it still brings White
+enormous advantage} Rb8 (41... Bxc6 42. dxc6 Nc5 43. Nxe5 dxe5 44. Qxc5 {
+[pgndiagram] And objectively White should win this.}) 42. Rd2 h5 43. Rd1 Kg8
+44. Kg1 Kh7 45. Qa3 Qe7 46. Qxa4 $2 {[pgndiagram]From the last couple of moves,
+it was evident that Bronstein slightly lost the thread of the game, and here
+he is too hasty.} (46. Rxc7 {It was time to give up the exchange sacrifice and
+play more pragmatically.} Qxc7 47. Qxa4 Nc5 48. b6 {[pgndiagram] This crucial
+intermezzo would have retained White's advantage.}) 46... Nc5 $2 {Faulty.
+Black should have captured the exhcange now when he had the chance.} (46...
+Bxc6 47. dxc6 Nc5 {And he would either won the b-pawn or force the draw by
+repetition after} 48. Qa5 Nb3 49. Qa4 (49. Qb4 Nd4) 49... Nc5 {[pgndiagram]} (
+49... Nd4 50. Rxd4 exd4 51. b6 {Is dangerous for Black})) 47. Qc2 $2 {
+[pgndiagram] Another mistake. Bronstein is so fixated on the exchange
+sacrifice that he fails to appreciate the change of events that has happened.}
+(47. Rxc7 Qxc7 48. b6 {Would transpose to an earlier note, where White has a
+clear advantage.}) 47... Bxc6 48. dxc6 $6 (48. bxc6 {Would probably lead to a
+draw, but I guess that Bronstein was playing for the win.}) 48... Rxb5 49. Nxd6
+$2 {[pgndiagram] And this is the decisive mistake of the game. Bronstein
+probably missed that he will remain exchange down in a hopeless endgame.} (49.
+Ne3 Rb8 50. Nd5 Qd8 51. Nxc7 Qxc7 {[pgndiagram] Was the best, although here
+White is the one fighting for equality.}) 49... Rb6 {Now the game is decided.}
+50. Bb5 Ne6 51. Ba4 Nd4 52. Qc5 Rbxc6 53. Bxc6 Rxc6 {[pgndiagram] White loses
+his knight on d6. An amazing display of tenacity by Keres, and quite a lucky
+win in the end.   Although, a good player is always lucky.} 0-1
+
+[Event "Amsterdam Candidates"]
+[Site "Amsterdam NED"]
+[Date "1956.04.27"]
+[Round "17"]
+[White "Paul Keres"]
+[Black "Miroslav Filip"]
+[Result "0-1"]
+[ECO "C97"]
+[PlyCount "181"]
+[EventDate "1956.03.27"]
+
+{It is noteworthy that Keres remained loyal to his favourite move in such an
+important game.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 {[pgndiagram]
+Another Chigorin Ruy is on the board.} Re8 {And anither way of handling the
+position is chosen by Filip} 13. Nf1 Nc4 14. a4 Bd7 15. b3 Na5 16. Ne3 Bf8 17.
+Rb1 bxa4 18. bxa4 g6 19. Qe2 cxd4 20. cxd4 exd4 21. Nxd4 Bg7 22. Bb2 Nb7 23.
+Qf3 Qd8 24. Nc4 Qc7 {[pgndiagram] I will go through the middlegame phase of
+the game more briefly. White has built up a nice position and enjoys the
+advantage, mainly due to the activity of his pieces.} 25. Ne3 (25. e5 {Here
+for instance this tactical blow, leading to a large advantage was perfectly
+possible.} dxe5 (25... Qxc4 26. exf6) 26. Nxe5 Rxe5 {This is not good, but I
+want to illustrate why not} 27. Rxe5 Qxe5 28. Nf5 {[pgndiagram] And wins})
+25... Qd8 26. Nb3 {Losing the thread slightly. This knight retreat was not a
+must} (26. Ba1) (26. Ndf5 {Was also possible.} gxf5 27. Bxf6 Qxf6 28. Rxb7)
+26... Bc6 (26... Bxa4 $5) 27. Nc4 Rc8 (27... d5 $5) 28. Nd4 Bxe4 29. Bxe4 Nxe4
+30. Rxe4 Rxe4 31. Qxe4 d5 {[pgndiagram] Keres has lost a big part of his
+advantage. It is evident even here that he didn't play his best that day. But
+the real miracle is yet to come.} 32. Qf3 Rxc4 (32... dxc4 $5 33. Ne6 fxe6 34.
+Bxg7 Nc5) 33. Ne6 $1 {A pretty blow, leading to .. an equal position.} fxe6 34.
+Bxg7 Nd6 35. Be5 Rc8 36. Qf4 {[pgndiagram] Now objectively the game should end
+in a draw.} Nf7 $4 {But Filip immediately makes the decisive mistake.} (36...
+Nf5) (36... Rc4) 37. Rb7 Qf8 38. Kh2 $4 {An amazing oversight, losing all
+advantage. By his own admission Keres saw three winning lines, but then
+thought that the fourth one is even better.} (38. Qf6 Nxe5 39. Qxe5 {Would
+immediately conclude the  game. Black can't defend against all the threats 
+(Qc7, Qxe6 and Qg7 mate)}) (38. Bb2 {Would also retain most of White's
+advantage} Qe8 39. Qf6 e5 40. Re7 Qf8 41. f4 {And White is winning}) 38... Rc4
+{[pgndiagram] Now suddenly there is the threat of Qf4+ with the queen exchange,
+and White has to go to a rook endgame where he will be material down. Keres
+prefered to give up the piece, but he went on to lose all the same. Trully a
+tragic blunder at the moment where he gained some real chances of qualifying
+for a match against the Patriarch.} 39. Qf6 Nxe5 40. Qxe6+ {Game over} Nf7 41.
+g3 Rxa4 42. Qxd5 Rb4 43. Ra7 Rb5 44. Qa2 Rf5 45. Rxa6 Qc5 46. Ra8+ Kg7 47. Qb2+
+Kh6 48. Qd2+ Ng5 49. Ra2 Kg7 50. Qb2+ Rf6 51. h4 Nf3+ 52. Kh3 Nd4 53. Kh2 Nb5
+54. Qd2 Nd4 55. Qb2 Nc6 56. Kg1 Ne5 57. Qb7+ Rf7 58. Qb2 h5 59. Ra8 Kh7 60. Rd8
+Qa5 61. Rd1 Qa4 62. Rd8 Qe4 63. f4 Qe3+ 64. Kh2 Ng4+ 65. Kh3 Nf6 66. Rb8 Qe6+
+67. Kh2 Qe1 68. Qg2 Re7 69. Rb7 Nd7 70. Rb2 Qe6 71. Rb7 Qg4 72. Rb2 Nc5 73. Qd2
+Qe6 74. Qg2 Nd7 75. Rb7 Kg8 76. Rc7 Kf7 77. Ra7 Qc4 78. Kh3 Qe6+ 79. Kh2 Qe2
+80. Ra2 Qxg2+ 81. Kxg2 Re3 82. Ra7 Ke7 83. Ra6 Nf6 84. Ra7+ Ke6 85. Ra6+ Kf7
+86. Ra7+ Re7 87. Ra3 Rc7 88. Kf3 Rc5 89. Re3 Nd5 90. Re2 Rc3+ 91. Kf2 0-1
+
+[Event "Bled-Zagreb-Belgrade Candidates"]
+[Site "Bled, Zagreb & Belgrade YUG"]
+[Date "1959.09.10"]
+[Round "3"]
+[White "Paul Keres"]
+[Black "Mikhail Tal"]
+[Result "1-0"]
+[ECO "A34"]
+[PlyCount "127"]
+[EventDate "1959.09.07"]
+
+1. c4 {This time Keres switched hands, and played the opening in creative
+manner.} Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. f4 {This move leads to some
+sort of Bird's Opening. But I don't think this should bring White any
+advantage. There is simply a game on the board.} c5 6. Nf3 d5 7. cxd5 Nxd5 8.
+O-O {[pgndiagram] Black has easy development and shouldn't have any problems.}
+Nc7 (8... Nc6 {Comes into consideration, just continuing development}) 9. b3
+Nc6 10. Bb2 Rb8 11. Na4 Bxb2 12. Nxb2 b6 {It is hard to suggest a plan for
+White here. Black has good control of the centre.} 13. Nc4 (13. d3 Qd7 14. Nc4
+Bb7 {[pgndiagram] Is fine for Black. He can contemplate about advancing his
+queenside pawns in the future, while White's central pawn duo is hindered.})
+13... Bb7 14. e3 Nd5 15. a3 e6 16. Qc2 Qe7 17. g4 b5 18. Nce5 Nxe5 19. fxe5 {
+[pgndiagram]} (19. Nxe5 {Was probably better}) 19... Rbc8 20. a4 b4 21. Rf2 {
+It is clear that Black has the upper hand. White's pawn structure is weak and
+he has no active plans.} a5 22. h4 {But this move only makes additional
+weaknesses} Qc7 23. Qb2 c4 24. bxc4 Qxc4 {[pgndiagram]} (24... Nb6 {Was very
+strong here}) 25. Nd4 Ba8 26. Bf1 Qc5 27. Nb3 Qc7 28. Ba6 $2 {And amazingly
+this is a losing move already} (28. Bg2 {Would have made the sacrifice
+impossible} Nxe3 29. dxe3 {Leads nowhere}) 28... Nxe3 $3 {[pgndiagram] Tal
+never missed such opportunities} 29. Rc1 {The best defence} (29. dxe3 Qc6) (29.
+Bxc8 Qc6 30. Rh2 Nxg4 {Is deadly}) 29... Qe7 30. dxe3 Qxh4 31. Kf1 Qh3+ 32. Ke2
+Qxg4+ {[pgndiagram] Black has three pawns and clear initiative for the piece
+and is close to winning} 33. Kd2 (33. Ke1 {Was probably the best defence} Rxc1+
+34. Qxc1 Qg1+ 35. Ke2 Qxc1 36. Nxc1 {[pgndiagram] And Black has serious
+chances of winning this endgame}) 33... Rfd8+ 34. Nd4 Qg3 {Attacking both f2
+and e5} 35. Rf4 Rxc1 $2 {[pgndiagram] The critical moment, where Tal starts
+losing thread over the position} (35... Qh2+ {Was decisive} 36. Be2 Bd5 {
+Simply increasing the pressure was excellent}) 36. Qxc1 Qg2+ 37. Be2 Qd5 (37...
+Bd5 38. Qc7 {Turns the tables, as White wins the a-pawn}) (37... Bc6 {
+Preventing Qc7 was relatively the best, but this proves how hard it is to
+navigate such a position, even from magician from Riga}) 38. Qc7 {Now the
+objective evaluation is probably equality} Rd7 39. Qc4 $6 {[pgndiagram] Keres
+refuses a draw, but in the resulting endgame he is risking a lot} (39. Qc8+ Rd8
+40. Qc7 {Would lead to a draw}) 39... Kg7 40. Qxd5 Bxd5 41. Bb5 Rc7 42. e4 Ba8
+43. Ke3 Rc3+ 44. Bd3 b3 $2 {But this is a losing mistake. White will be able
+to restrain and win this pawn} 45. Rf1 {Rb1-Rxb3 is on agenda} Rc5 46. Nxb3
+Rxe5 47. Rc1 {Now White is in the driver's seat and Keres' risk turns out to
+be justified.} Rh5 48. Rc7 Kf6 49. Nc5 Ke5 50. Nd7+ Kd6 51. Ra7 e5 52. Rxa8
+Kxd7 53. Rxa5 Rh3+ 54. Kd2 Rh2+ 55. Kc3 h5 56. Ra7+ Kc6 57. Rxf7 g5 58. a5 g4
+59. a6 Ra2 60. Bc4 Ra1 61. Rf1 Rxf1 62. Bxf1 h4 63. Be2 g3 64. Bf1 {
+[pgndiagram] A game that proves how mighty Tal was at that time, but also that
+Keres could really put stubborn resistance when he was able to maintain his
+composure.} 1-0
+
+[Event "Bled-Zagreb-Belgrade Candidates"]
+[Site "Bled, Zagreb & Belgrade YUG"]
+[Date "1959.09.22"]
+[Round "10"]
+[White "Mikhail Tal"]
+[Black "Paul Keres"]
+[Result "0-1"]
+[ECO "E20"]
+[PlyCount "80"]
+[EventDate "1959.09.07"]
+
+1. d4 {Too be honest I am not fully familiar with the opening repertoire of
+Mikhail Tal, but I think that he was more of an e4 player.} Nf6 2. c4 e6 3. Nc3
+Bb4 4. f3 {The f3 Nimzo has recently gained much attention, especially after
+the famous 9th game of the 2013 Carlsen - Anand match} d5 5. a3 Be7 {
+[pgndiagram] A rare, but playable move} (5... Bxc3+ {Is the mainline}) 6. e4
+dxe4 7. fxe4 e5 8. d5 Bc5 {Many years later, Carlsen and Nakamura would play a
+very interesting game with the given opening, where Nakamura was completely
+winning, but went on to lose, Carlsen - Nakamura, Zürich 2013} 9. Bg5 a5 10.
+Nf3 Qe7 11. Bd3 Nbd7 12. Qe2 h6 {[pgndiagram] I would always play the White
+pieces in the given position, but the position is rich with possibilities and
+both sides have their chances.} 13. Bd2 c6 14. Na4 Bd4 {I don't think this is
+good} (14... Bd6 {Is better}) 15. Nxd4 exd4 16. Bf4 {[pgndiagram] Once again
+Tal gained pretty comfortable position against Keres, and once again Keres
+manages to turn the tide in his favour subsequently} Ne5 17. Nb6 $2 {This is
+one of rare instances where Tal commits simple tactical blunders} (17. O-O {
+Was excellent for White} Bg4 {The combination now doesn't work.} 18. Qc2 Nxd3
+19. Qxd3 {[pgndiagram] And White is close to winning}) 17... Bg4 18. Qc2 Nxd3+
+19. Qxd3 Ra6 {This is the problem for White. Black wins a piece, and the rest
+is more or less easy.} 20. O-O Rxb6 21. Bd6 Qxd6 22. e5 Qe7 23. Rae1 Nd7 24. e6
+fxe6 25. c5 Nxc5 26. Qg6+ Kd8 27. b4 axb4 28. Qxg4 cxd5 29. Qg3 Nd7 30. axb4
+Rf8 31. Rxf8+ Qxf8 32. b5 e5 33. Ra1 Kc7 34. Rc1+ Kb8 35. Qb3 Nf6 36. Qc2 Qd8
+37. Qa4 Ne4 38. Rf1 Nd6 39. Qa3 Rxb5 40. Ra1 Qb6 {Not the best game of Mikhail
+Tal, but an important win for Keres at that moment in time.} 0-1
+
+[Event "Bled-Zagreb-Belgrade Candidates"]
+[Site "Bled, Zagreb & Belgrade YUG"]
+[Date "1959.10.21"]
+[Round "24"]
+[White "Mikhail Tal"]
+[Black "Paul Keres"]
+[Result "0-1"]
+[ECO "D34"]
+[PlyCount "158"]
+[EventDate "1959.09.07"]
+
+1. Nf3 d5 2. d4 c5 3. c4 e6 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. Nc3
+O-O 9. Bg5 {[pgndiagram] The main line of the Tarrasch defence.} Be6 10. dxc5
+Bxc5 11. Na4 Bb6 12. Nxb6 axb6 {From the modern viewpoint, White has a very
+good position. Two bishops, isolani, what more do you want} 13. Nd4 h6 14. Bf4
+Qd7 15. a3 (15. Nxe6 {Not allowing the bishop exchange, was better, although
+it is hard to judge whether to relinquish Black of his isolated pawn.}) 15...
+Bh3 16. Qd3 Rfe8 17. Rfe1 Bxg2 18. Kxg2 Re4 {Very strong play by Keres, and a
+model example of using the piece activity with the isolated pawn.} 19. Nf3 Rae8
+20. Bd2 d4 {The e2 pawn is a constant target, whereas Black's d4 pawn is not
+weak} 21. e3 $2 {[pgndiagram] A very serious mistake} (21. Rac1 {Was more
+normal} Rh4) 21... Qd5 22. exd4 Rxd4 (22... g5 {The computer indicates this
+move, reminiscent of the famous Kasparov octopus game, where the GOAT also
+played g5 in similar position with great effect.}) 23. Rxe8+ Nxe8 24. Qe2 Nd6
+25. Be3 Rd3 26. Kg1 {White's position is very unpleasant nevertheless} Nc4 27.
+Ne1 Rb3 28. Rc1 Nxe3 29. fxe3 Qe5 30. Ng2 $2 {[pgndiagram]} (30. Nf3 {Going in
+the rook endgame was probably the best chance} Qxe3+ {It is not clear which
+pawn to take} (30... Qxb2 {Is also not clear} 31. Qxb2 Rxb2 32. Nd4 Ne5 33.
+Rc8+ Kh7 34. Rc7 Kg6 35. Rxb7 {[pgndiagram] And god knows what is the
+evaluation of this position}) 31. Qxe3 Rxe3 32. Kf2 Rb3 33. Rb1 {[pgndiagram]
+And it is hard to judge whether Black can win this, his doubled pawns hurt him}
+(33. Rc2 Rxf3+)) 30... Rxb2 31. Qd3 Qe6 32. Nf4 Rb3 (32... Qa2 {The computer
+finds solutions instantly in these positions}) 33. Rc3 Rxc3 34. Qxc3 Qe4 35.
+Qb3 b5 36. Qxb5 Qxe3+ 37. Kf1 Qf3+ 38. Kg1 Qe3+ 39. Kf1 g5 40. Ne2 Ne5 {
+[pgndiagram] The game is rightly famous because of this position. Keres uses
+the attacking power of the Queen - Knight combination to the maximum of its
+potential. It is a great exercise to try calculating everything on your own
+here} 41. Qxb7 Nd3 42. Qc8+ Kg7 43. Qf5 Qd2 $1 44. Nd4 {The only move} Qe1+ 45.
+Kg2 Qe3 $1 46. Qd5 (46. Nb5 Ne1+ 47. Kh3 Qe2 {[pgndiagram] And Black is mating}
+) 46... Qf2+ 47. Kh3 Qf1+ 48. Kg4 Nf2+ 49. Kf5 Qd3+ {[pgndiagram] Great play.
+Keres is smoking the White king out of his shelter and then intends to win by
+technical means, by winning the pawns.} 50. Ke5 Ng4+ 51. Kd6 Qxa3+ 52. Kc7 Qe7+
+53. Kc8 Ne3 54. Qb5 Qe4 55. Qb2 Kg6 56. Qb6+ f6 57. Ne6 Nc4 58. Qa6 Ne5 59. Nc7
+Qc2 60. Qd6 Qxh2 61. Nd5 Qf2 62. Kb7 Qxg3 63. Qxf6+ Kh5 64. Qe6 Ng4 65. Ne7
+Qf3+ 66. Kc8 Kh4 67. Nf5+ Kh3 68. Kd8 h5 69. Qg6 Ne5 70. Qe6 Ng4 71. Qg6 Ne5
+72. Qe6 Qd3+ 73. Nd4+ Ng4 74. Qd5 Nf2 75. Kc8 h4 76. Qe5 Qe4 77. Qf6 Qf4 78.
+Nf5 Ne4 79. Qg6 Qg4 {[pgndiagram] One of the best games of Paul Keres. To
+score 3-0 against direct contender in such an important tournament is
+impressive feat.} 0-1
+
+[Event "Curacao Candidates"]
+[Site "Willemstad CUW"]
+[Date "1962.05.10"]
+[Round "6"]
+[White "Paul Keres"]
+[Black "Pal Benko"]
+[Result "1-0"]
+[ECO "B43"]
+[PlyCount "55"]
+[EventDate "1962.05.02"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 {[pgndiagram]
+This is known as the wing attack of Sicilian Kan} 7. O-O Qc7 8. Re1 Bc5 $2 {
+Probably already a serious mistake, as White will be able to sacrifice on b5
+with great effect.} (8... Bd6) (8... Nc6) 9. Be3 {Now it is hard to prevent a
+sacrifice on b5 and the exchange of the dark squared bishops, after which
+Black's kingside will be a Swiss Cheese.} Nf6 $2 (9... b4 10. Na4 Ba7 11. Qg4 {
+[pgndiagram] Is also unpleasant}) (9... Bd6 {Admiting the mistake, was the
+only way}) 10. Ndxb5 {[pgndiagram] A fully correct and typical sacrifice.
+Keres is in his element} axb5 11. Nxb5 Qc6 12. Bxc5 {Emphasizing the drawback
+of Black's 8th move} Qxc5 13. e5 Bc6 {[pgndiagram] Black's position is now
+hopeless and  it is instructive to see how Keres finishes his opponent} 14. b4
+(14. Nc7+ {Also wins}) 14... Qxb4 15. exf6 Na6 16. Rb1 Qf4 17. fxg7 Rg8 18. Be4
+Rxg7 19. Qd4 Kf8 20. g3 Qb8 21. Bxc6 dxc6 22. Nd6 Qa7 23. Qf6 Nc5 24. Rb4 Qc7
+25. Rd1 Rd8 26. Rbd4 Rd7 27. Ne8 Kxe8 28. Qxg7 {[pgndiagram] A horrible
+opening catastrophe by Benko, severely punished by Keres.} 1-0
+
+[Event "Curacao Candidates"]
+[Site "Willemstad CUW"]
+[Date "1962.06.02"]
+[Round "16"]
+[White "Mikhail Tal"]
+[Black "Paul Keres"]
+[Result "0-1"]
+[ECO "C96"]
+[PlyCount "81"]
+[EventDate "1962.05.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 {[pgndiagram] Deviating from the
+established Qc7 variation. This variation was prepared by Keres specifically
+for Curacao, and is known in the literature as the Keres variation of the Ruy
+Lopez.  The idea is to bolster the e5 square, or transfer the knight on the
+queenside should White close the centre.} 12. Nbd2 (12. d5 Nb6 13. Nbd2 Qc7 14.
+Nf1 Nb7 {[pgndiagram] With the subsequent c4-Nc5-f5.}) 12... cxd4 13. cxd4 Nc6
+14. a3 exd4 15. Nb3 Nde5 {[pgndiagram] Revealing another point behind Nd7 move.
+} 16. Nfxd4 Bf6 17. Bd2 Nxd4 18. Nxd4 Nd3 {The critical moment of the game,
+made famous by the aforementioned book} 19. Nc6 {Typical Tal play. However, it
+is noticable that this time he is out of form, as he tries to initiate tactics
+seemingly out of nothing, whereas in the games played in previous candidates
+they resulted from the position on the board.} (19. Bxd3 Bxd4) (19. Ba5 Qxa5
+20. Qxd3 g6 {Were both better options}) 19... Nxf2 $1 {[pgndiagram] Initiating
+a complicated tactical sequence highly favourable for Black} 20. Qf3 (20. Kxf2
+Qb6+ {Wins the c6 knight}) (20. Nxd8 Nxd1 {Is also bad for White}) 20... Nxh3+
+$1 {Once again the Qb6 idea is at hand} 21. Kh2 (21. Kf1 {Leads to a
+fascinating computer variation} Qb6 22. e5 Bg4 $1 {[pgndiagram]} 23. Bxh7+ Kh8
+24. Qe3 Qxc6 25. Rac1 Qd5 26. exf6 Kxh7 {[pgndiagram] The variation still
+continues} 27. Qe4+ Qxe4 28. Rxe4 Bf5 29. fxg7 Rfc8 30. Rh4+ Kxg7 31. Rxc8 Rxc8
+32. gxh3 {[pgndiagram] And in the end, White reaches an opposite coloured
+bishops endgame where he will be a pawn down. I think not even Kotov realized
+how rich the position is.}) 21... Be5+ {[pgndiagram] In the end, the
+undefended state of the Black's d2 bishops turns out to be a key factor.} 22.
+Nxe5 dxe5 23. Red1 Nf4 24. g3 Ne6 {The game is decided; the remainder is
+merely a technical task} 25. Bc3 Qg5 26. Rd6 Qh6+ 27. Kg1 Nd4 28. Rxh6 Nxf3+
+29. Kf2 gxh6 30. Kxf3 Re8 31. Rh1 Kg7 32. Bb3 Bb7 33. Bd2 f5 34. Rxh6 Rad8 35.
+Rb6 Bxe4+ 36. Ke2 Bf3+ 37. Ke1 f4 38. Bc3 fxg3 39. Rxa6 Rd4 40. Ra7+ Kh6 41.
+Rf7 {[pgndiagram] An important win for Keres.} 0-1
+
+[Event "Curacao Candidates"]
+[Site "Willemstad CUW"]
+[Date "1962.06.13"]
+[Round "21"]
+[White "Robert James Fischer"]
+[Black "Paul Keres"]
+[Result "0-1"]
+[ECO "C96"]
+[PlyCount "146"]
+[EventDate "1962.05.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 {Once again, the Keres variation} 12. d5
+Nb6 13. g4 $2 {[pgndiagram] Fischer loved g4-Nh2 ideas in the Ruy, but here it
+is faulty} h5 $1 {A strong counter by Keres. White can't take, because his h3
+pawn is left undefended} 14. Nh2 hxg4 15. hxg4 Bg5 {[pgndiagram] Achieving a
+favourable exchange of the bishops sooner or later} 16. Nd2 g6 17. Ndf3 Bxc1
+18. Qxc1 Kg7 19. Qg5 Nb7 20. Qxd8 Rxd8 {[pgndiagram] This endgame is highly
+favourable for Black. It seems that Keres beats Fischer without putting any
+effort at all} 21. a4 bxa4 22. Bxa4 Nxa4 23. Rxa4 Bd7 24. Ra2 c4 25. Nd2 Bb5
+26. Nhf1 Rh8 27. Ne3 Rh4 28. Kg2 Rah8 {[pgndiagram] Strong play over the whole
+board.} 29. Nf3 Rh3 30. Nf1 Nc5 31. Ng3 Bd7 32. g5 f6 33. gxf6+ Kxf6 34. Re3
+Ke7 35. Nd2 Rh2+ 36. Kg1 Bb5 37. Ra1 R2h4 38. Kg2 Rf8 (38... Nd3 {Why not?})
+39. Rf3 Rb8 40. Kg1 Ra8 41. Ra5 Rc8 42. Ra3 Ra8 43. Ra5 Ra7 44. Kg2 Nb7 $2 {
+[pgndiagram] Allowing White back in the game} (44... Nd3) 45. Ra1 a5 46. Ngf1
+Nc5 47. Ne3 a4 48. Rh3 Rxh3 49. Kxh3 Nd3 50. Ra2 $6 {Not the best defence} (50.
+Rb1 {Retaining the rook on the first rank} Nxf2+ 51. Kg2 Nd3 52. Rh1 {
+[pgndiagram] And White has enough counterplay}) 50... Nxf2+ 51. Kg3 Nd3 52.
+Nexc4 Ra8 53. Nb6 Ra6 54. Nbc4 Nc5 55. Kf3 Ra8 56. b4 Nb3 $1 {[pgndiagram]A
+nice tactical shot} 57. Na3 Bd7 58. Kg2 Bg4 (58... Nc1 {Starting some nice
+Knight dancing, was interesting way of preserving some advantage} 59. Ra1 Ne2
+$5 60. c4 Nf4+ 61. Kg1 Nd3 {[pgnidagram]Although White probably has enough
+resources to hold. Computer indicates one pretty way} 62. c5 dxc5 63. b5 Rb8
+64. Ndc4 Bxb5 65. Nxb5 Rxb5 66. Rxa4 {[pgndiagram] And draw is the most likely
+outcome}) 59. Nac4 Rc8 60. Ne3 $2 {[pgndiagram] But this is definitely a
+mistake} (60. Rxa4 Nxd2 61. Nxd2 Rxc3 62. Ra7+ Bd7 63. Kf2 {And White is not
+worse}) 60... Bd7 61. c4 Rb8 62. b5 Nc5 63. Nd1 {[pgndiagram] Now White's
+pieces are tied up} Kd8 64. Nc3 Ra8 65. Nf3 Kc7 66. Ng5 Kb6 67. Nf7 Rf8 68. Rf2
+$2 {[pgndiagram] And only this is a decisive mistake} (68. Nxd6 Kc7 {Would
+have trapped the knight, although the outcome is not clear after} 69. Nxa4 Kxd6
+70. Nxc5 Kxc5 71. Ra7 {[pgndiagram] I wouldn't venture to say that this is a
+win for Black without  very detailed analysis}) 68... a3 {Now White is in
+zugzwang and he has too many weaknesses} 69. Rf3 Bg4 70. Rf2 a2 71. Nxa2 Nxe4
+72. Rf1 Bf5 73. c5+ dxc5 {A tense, fighting game.} 0-1
+
+[Event "Curacao Candidates"]
+[Site "Willemstad CUW"]
+[Date "1962.06.23"]
+[Round "27"]
+[White "Pal Benko"]
+[Black "Paul Keres"]
+[Result "1-0"]
+[ECO "A07"]
+[PlyCount "93"]
+[EventDate "1962.05.02"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. O-O c6 5. d3 {[pgndiagram] Who doesn't hate
+it when their opponents play like this when you have to win the game.} e5 6. h3
+Bh5 7. c4 dxc4 8. dxc4 Ngf6 9. Be3 {[pgndiagram] Black probably shouldn't have
+major difficulties in such an unpretentious opening line, but it is hard to
+face it psychologicaly.} Qc7 10. Nc3 Bb4 $2 {[pgndiagram] And immediately
+Keres makes a mistake. The point of this move is not clear} (10... Bc5 {Was
+easier, exchanging a bad piece for a good piece.}) 11. Qb3 a5 12. Na4 {
+[pgndiagram] Now suddenly White starts gaining some initiative} Be7 $2 {
+Admitting the mistake but losing another tempo. Keres' play is really
+unrecognizable here} (12... O-O 13. a3 Be7 14. g4 Bg6 15. Nh4 Rfe8 {
+[pgndiagram] Was also unpleasant , but at least Black would have made white
+spend a tempo on a3.}) 13. Nh4 $5 O-O {It is wiser not to take the bait} (13...
+Bxe2 14. Rfe1 Bh5 15. Nf5 {[pgndiagram] Is terrible}) 14. g4 Bg6 15. Nxg6 hxg6
+{Two bishops and space advantage.} 16. Rfd1 Rab8 17. c5 Nh7 18. Nb6 Rbd8 19.
+Qc3 Bg5 20. Nc4 Bxe3 21. Qxe3 Rfe8 22. Qa3 Ra8 23. Rd2 Nhf8 24. Rad1 Red8 25.
+Qe3 Re8 26. b3 Rab8 {You can sense Keres' uncertainty here.} 27. a3 Ra8 28. b4
+axb4 29. axb4 Ra4 30. Qc3 Ra6 31. Rd6 {[pgndiagram] Black is probably lost.
+The difference in the activity of the pieces is just too big} Nf6 32. Nb6 e4
+33. e3 g5 34. Qd2 Qe7 35. Rd8 $2 {But here Benko makes an error and let's
+Keres back in the game} (35. b5 cxb5 36. Bf1 {Was simple and strong}) 35... Ra3
+$2 {Returning the favour} (35... Rxd8 {Going into a single rook endgame was
+preferable} 36. Qxd8 Qxd8 37. Rxd8 Ra1+ 38. Kh2 g6 {[pgndiagram] And Black has
+hope of resisting.}) 36. Rxe8 Qxe8 37. Qb2 Ra7 38. Nc4 Qe6 39. Bf1 $6 (39. Nd6)
+39... Nd5 40. Nb6 $2 {[pgndiagram] The 40th move and another mistake} (40. Nd6)
+40... Nxb6 41. cxb6 Ra4 $6 {[pgndiagram] Here the game was adjourned in a
+difficult position for Keres} (41... Ra8 42. b5 Rc8 {Just wouldn't have the
+same effect as in the game}) 42. b5 Ra2 43. Qb1 cxb5 $2 {This loses immediately
+} (43... c5 {Was the only hope, blocking the b4-f8 diagonal}) 44. Rd8 {
+[pgndiagram]There is no defence against Qb4} f5 45. gxf5 Qf7 46. Bxb5 g6 47.
+Rc8 {[pgndiagram] Even writing the annotations made me immensly sad. A tragic
+game for Keres and his whole career.} 1-0
+
