@@ -5,7 +5,7 @@ import chess.pgn
 import re
 
 # Configuration
-MAX_MOVES = -1  # Change this to render more or fewer moves
+MAX_MOVES = 7  # Change this to render more or fewer moves
 
 class ChessGame(Scene):
     def construct(self):
@@ -121,26 +121,28 @@ class ChessGame(Scene):
             comment = re.sub(r'\[pgndiagram\]', '', comment).strip()
             comment = ' '.join(comment.split())
             
-            # Build current move text showing both white and black moves
+            # Build current move text showing only the move notation
             if is_white:
                 white_move = san_move
-                current_move_text = f"{move_num}. {san_move}"
-            else:
-                current_move_text = f"{move_num}. {white_move}, {san_move}"
             
-            new_move_text = Text(current_move_text, font_size=18, color=WHITE).move_to(move_text_pos, aligned_edge=LEFT)
+            current_move_text = san_move
+            
+            new_move_text = Text(current_move_text, font_size=18, color=RED).move_to(move_text_pos, aligned_edge=LEFT)
             new_move_text.align_to(progress_text, DOWN)
             new_move_text.set_max_width(5)
             
             # Display full comment if exists
             if comment:
-                new_annotation = Text(comment, font_size=16, color=GOLD).move_to(annotation_text_pos, aligned_edge=LEFT+UP)
-                new_annotation.set_max_width(5)
+                # Use Paragraph for automatic line wrapping, display over the board center
+                from manim import Paragraph
+                new_annotation = Paragraph(comment, font_size=24, color=GOLD, line_spacing=1, alignment="left")
+                new_annotation.set_width(config.frame_width * 0.7)
+                new_annotation.move_to(ORIGIN)
                 self.play(
                     Transform(move_text, new_move_text),
                     run_time=0.3
                 )
-                self.play(Write(new_annotation), run_time=0.5)
+                self.play(Write(new_annotation), run_time=1.5)
                 self.remove(annotation_text)
                 annotation_text = new_annotation
                 self.add(annotation_text)
@@ -154,6 +156,12 @@ class ChessGame(Scene):
                 self.add(annotation_text)
             
             self.wait(0.5)
+            
+            # Fade out comment before next move
+            if comment:
+                self.play(FadeOut(annotation_text), run_time=0.3)
+                annotation_text = Text(" ", font_size=18, color=GOLD).move_to(ORIGIN)
+                self.add(annotation_text)
             
             # Animate the move AFTER displaying text
             manim_chess.play_game(scene=self, board=chess_board, moves=[moves[i]])
