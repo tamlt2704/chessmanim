@@ -6,7 +6,7 @@ import re
 import os
 
 # Configuration
-MAX_MOVES = 7  # Change this to render more or fewer moves
+MAX_MOVES = -1  # Change this to render more or fewer moves
 PGN_FILE = os.getenv('PGN_FILE', 'steinitz_bardeleben')  # Default to steinitz_bardeleben
 
 class ChessGame(Scene):
