@@ -1,3 +1,5 @@
+# **GitHub Actions workflow to render chess game video using Manim**
+# **Triggers on push/PR to main/master branches or manual dispatch**
 name: Render Chess Video
 
 on:
@@ -6,6 +8,15 @@ on:
   pull_request:
     branches: [ main, master ]
   workflow_dispatch:
+    inputs:
+      pgn_file:
+        description: 'PGN file to render (without .pgn extension)'
+        required: false
+        default: 'steinitz_bardeleben'
+      output_name:
+        description: 'Output video name (without extension)'
+        required: false
+        default: 'ChessGame'
 
 jobs:
   render:
@@ -33,18 +44,25 @@ jobs:
         uv sync
         
     - name: Render video
+      env:
+        PGN_FILE: ${{ github.event.inputs.pgn_file || 'steinitz_bardeleben' }}
+        OUTPUT_NAME: ${{ github.event.inputs.output_name || 'ChessGame' }}
       run: |
-        uv run manim -qh chess_game.py ChessGame
+        uv run manim -qh chess_game.py $OUTPUT_NAME
     
     - name: Add background music (optional)
       if: true  # Set to true and add music.mp3 to repo to enable
+      env:
+        OUTPUT_NAME: ${{ github.event.inputs.output_name || 'ChessGame' }}
       run: |
-        uv run python add_music.py media/videos/chess_game/1080p60/ChessGame.mp4 music.mp3 media/videos/chess_game/1080p60/ChessGame_with_music.mp4 0.3
-        mv media/videos/chess_game/1080p60/ChessGame_with_music.mp4 media/videos/chess_game/1080p60/ChessGame.mp4
+        uv run python add_music.py media/videos/chess_game/1080p60/$OUTPUT_NAME.mp4 music.mp3 media/videos/chess_game/1080p60/${OUTPUT_NAME}_with_music.mp4 0.3
+        mv media/videos/chess_game/1080p60/${OUTPUT_NAME}_with_music.mp4 media/videos/chess_game/1080p60/$OUTPUT_NAME.mp4
         
     - name: Upload video artifact
+      env:
+        OUTPUT_NAME: ${{ github.event.inputs.output_name || 'ChessGame' }}
       uses: actions/upload-artifact@v4
       with:
-        name: chess-video
-        path: media/videos/chess_game/1080p60/ChessGame.mp4
+        name: chess-video-${{ github.event.inputs.output_name || 'ChessGame' }}
+        path: media/videos/chess_game/1080p60/${{ github.event.inputs.output_name || 'ChessGame' }}.mp4
         retention-days: 30

@@ -3,13 +3,15 @@ import manim_chess
 import chess
 import chess.pgn
 import re
+import os
 
 # Configuration
 MAX_MOVES = 7  # Change this to render more or fewer moves
+PGN_FILE = os.getenv('PGN_FILE', 'steinitz_bardeleben')  # Default to steinitz_bardeleben
 
 class ChessGame(Scene):
     def construct(self):
-        with open('steinitz_bardeleben.pgn', 'r') as f:
+        with open(f'{PGN_FILE}.pgn', 'r') as f:
             game = chess.pgn.read_game(f)
         
         board = game.board()
@@ -72,22 +74,26 @@ class ChessGame(Scene):
         self.add(progress_bg, progress_bar, progress_text)
         
         # Now display game info aligned with progress text and board
-        game_info_text = ""
         game_info_pos = progress_bg.get_right() + RIGHT * 0.5 + UP * (chess_board.get_top()[1] - progress_bg.get_right()[1])
-        game_info = Text("Loading...", font_size=18, line_spacing=0.9).move_to(game_info_pos, aligned_edge=LEFT+UP)
-        self.add(game_info)
         
-        for line in header_lines:
-            game_info_text += line + "\n"
-            new_game_info = Text(game_info_text.strip(), font_size=18, line_spacing=0.9).move_to(game_info_pos, aligned_edge=LEFT+UP)
-            self.play(Transform(game_info, new_game_info), run_time=0.3)
+        game_info_lines = VGroup()
+        for i, line in enumerate(header_lines):
+            line_text = Text(line, font_size=18)
+            game_info_lines.add(line_text)
         
-        self.wait()
+        game_info_lines.arrange(DOWN, aligned_edge=LEFT, buff=0.3)
+        game_info_lines.move_to(game_info_pos, aligned_edge=LEFT+UP)
+        
+        for line_text in game_info_lines:
+            self.play(Write(line_text), run_time=0.3)
+        
+        self.wait(0.5)
         
         # Move counter and annotation area (below game info)
-        annotation_text_pos = game_info_pos + DOWN * 4
-        annotation_text = Text(" ", font_size=16, color=GOLD).move_to(annotation_text_pos, aligned_edge=LEFT+UP)
-        annotation_text.set_max_width(5)
+        from manim import Paragraph
+        annotation_text = Paragraph(" ", font_size=28, color=BLUE, line_spacing=1, alignment="left")
+        annotation_text.set_width(config.frame_width * 0.7)
+        annotation_text.to_corner(UL)
         
         self.add(annotation_text)
         
@@ -133,11 +139,11 @@ class ChessGame(Scene):
             
             # Display full comment if exists
             if comment:
-                # Use Paragraph for automatic line wrapping, display over the board center
+                # Use Paragraph for automatic line wrapping, display at upper left
                 from manim import Paragraph
-                new_annotation = Paragraph(comment, font_size=24, color=GOLD, line_spacing=1, alignment="left")
+                new_annotation = Paragraph(comment, font_size=28, color=BLUE, line_spacing=1, alignment="left")
                 new_annotation.set_width(config.frame_width * 0.7)
-                new_annotation.move_to(ORIGIN)
+                new_annotation.to_corner(UL)
                 self.play(
                     Transform(move_text, new_move_text),
                     run_time=0.3
@@ -152,7 +158,9 @@ class ChessGame(Scene):
                     FadeOut(annotation_text),
                     run_time=0.3
                 )
-                annotation_text = Text(" ", font_size=16, color=GOLD).move_to(annotation_text_pos, aligned_edge=LEFT+UP)
+                annotation_text = Paragraph(" ", font_size=28, color=BLUE, line_spacing=1, alignment="left")
+                annotation_text.set_width(config.frame_width * 0.7)
+                annotation_text.to_corner(UL).shift(UP)
                 self.add(annotation_text)
             
             self.wait(0.5)
@@ -160,7 +168,9 @@ class ChessGame(Scene):
             # Fade out comment before next move
             if comment:
                 self.play(FadeOut(annotation_text), run_time=0.3)
-                annotation_text = Text(" ", font_size=18, color=GOLD).move_to(ORIGIN)
+                annotation_text = Paragraph(" ", font_size=28, color=BLUE, line_spacing=1, alignment="left")
+                annotation_text.set_width(config.frame_width * 0.7)
+                annotation_text.to_corner(UL).shift(UP)
                 self.add(annotation_text)
             
             # Animate the move AFTER displaying text
