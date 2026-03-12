@@ -55,7 +55,7 @@ jobs:
       env:
         OUTPUT_NAME: ${{ github.event.inputs.output_name || 'ChessGame' }}
       run: |
-        ffmpeg -i media/videos/chess_game/1080p60/${OUTPUT_NAME}.mp4 -i music.mp3 -filter_complex "[1:a]volume=0.3[a1];[0:a][a1]amix=inputs=2:duration=first" -c:v copy -c:a aac media/videos/chess_game/1080p60/${OUTPUT_NAME}_with_music.mp4
+        ffmpeg -i media/videos/chess_game/1080p60/${OUTPUT_NAME}.mp4 -i music.mp3 -filter_complex "[1:a]volume=0.3[a]" -map 0:v -map "[a]" -c:v copy -c:a aac -shortest media/videos/chess_game/1080p60/${OUTPUT_NAME}_with_music.mp4
         mv media/videos/chess_game/1080p60/${OUTPUT_NAME}_with_music.mp4 media/videos/chess_game/1080p60/${OUTPUT_NAME}.mp4
         
     - name: Upload video artifact
