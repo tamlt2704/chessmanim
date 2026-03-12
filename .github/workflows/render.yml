@@ -1,0 +1,41 @@
+name: Render Chess Video
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libcairo2-dev libpango1.0-dev ffmpeg
+        
+    - name: Install Python dependencies
+      run: |
+        pip install manim chess manim-chess
+        
+    - name: Render video
+      run: |
+        manim -qk chess_game.py ChessGame
+        
+    - name: Upload video artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: chess-video
+        path: media/videos/chess_game/1080p60/ChessGame.mp4
+        retention-days: 30
