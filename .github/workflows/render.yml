@@ -12,7 +12,7 @@ on:
       pgn_file:
         description: 'PGN file to render (without .pgn extension)'
         required: false
-        default: 'steinitz_bardeleben'
+        default: 'LaskerBestGames'
       output_name:
         description: 'Output video name (without extension)'
         required: false
