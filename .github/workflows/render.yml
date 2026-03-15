@@ -11,11 +11,11 @@ on:
     inputs:
       pgn_file:
         description: 'PGN file to render (without .pgn extension)'
-        required: false
+        required: true
         default: 'LaskerBestGames'
       output_name:
         description: 'Output video name (without extension)'
-        required: false
+        required: true
         default: 'LaskerBestGames'
 
 jobs:
